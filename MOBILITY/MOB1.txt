@@ -1,0 +1,1016 @@
+Title: Improving Real-time Mobility Information for Commuters
+Ê
+Subject: Urban Planning
+
+* Mobility
+
+Abstract: 
+
+As autonomous vehicles develop and shared models continue to grow in significance, transport planners are challenged to keep up that momentum. They face greater integration of service, information and payment methods, while citizens look for the fastest and cheapest way from A to B. How can public transit agencies seize opportunities provided by new models? How can they improve mobility experiences by fostering innovation and entrepreneurship? 
+
+Speakers: 
+
+Enric Ca–as Alonso
+Pieter Litjens
+Miguel Cabeza
+Gene Myers
+Miklos David Vago
+
+Conference: 
+good morning everybody we will start
+this discussion about real-time imbrue
+improving real-time mobility information
+for commuters we got I have the the
+owner i'm enrique diaz from team b the
+main operator of public transport in in
+the city of barcelona i will take the
+opportunity to say thank you for coming
+on barcelona on behalf of the city
+council that is mine of mine owner i
+will I hope you have a nice state's in
+the city and take all the all the other
+opportunities and the hospitality of the
+operator from the part of mobility that
+is my responsibility so I will make a
+brief introduction because I think the
+most interesting thing is a listen the
+different session and cases that will be
+presented later but as an remainder of
+our of our experience I remember 20
+years ago we do a survey about public
+transport information and and we
+realized that in that case 30 30 percent
+of people don't do the the trip in
+public transport for the lack of
+knowledge that it can be done in public
+transport 20 20 years later i we are
+entered in a new and a new absolutely
+area about this because we can have the
+the technology and then the possibility
+to give citizens real-time information
+in pre trip in trip and post trip and
+that's it for for us is and for the
+point of view forum of an operator like
+this in my case is a really really large
+challenge very challenging place because
+everything changed when you have a good
+information we can balance we can
+promote we can control mobility we can
+do all things that are we are going to
+present in four and four
+from moderator so first taste of them it
+would be from from the city of I'm just
+I'm certain pitted legends I want to
+thank you
+your contribution Pete Peter is a Dutch
+politician in People's Party from
+freedom democracy Peter is at the petty
+measure so from the city of Amsterdam I
+will introduce very good initiative and
+innovation in plan in planning in
+transport and please come and speak
+Thank You mr. moderator it's a pleasure
+it's a pleasure to be in Barcelona it's
+a pleasure to be well especially coming
+from Amsterdam pleasure to be in a city
+with eleven months of sunshine a year as
+I was told yesterday and that's
+completely different than well where we
+come from
+ladies animal you know I will be telling
+some things about Amsterdam but what
+when it comes to Amsterdam the problems
+and challenges are quite similar in a
+lot of European cities and all cities
+all over the world Amsterdam is is a
+vastly growing city this is the future
+still the future but it's near future
+and what we see in Amsterdam is that
+every year we welcome 120 new foreign
+companies a year we will be building
+100,000 new apartments in Amsterdam in
+the city of Amsterdam from now until
+2025 which will mean 200,000 New
+Amsterdam ours our city will be growing
+from eight hundred and forty thousand
+inhabitants to more than a million
+inhabitants in only 10-15 years
+and 17 million visitors tourists come to
+Amsterdam each year and I know that
+Barcelona is a city with a lot of
+tourists but also Amsterdam is a city
+with a lot of tourists and in addition
+to that growth we see some other
+developments we see that the average
+household becomes smaller in Amsterdam
+it's not only in Amsterdam it's in a lot
+of cities more people hurt our high
+educated in the city and between 2006
+2010 and 16 the number of self-employed
+people increased by 60% to 61 thousand
+and what we see is that our city is
+being used more intensively than it has
+been used ever before in addition to
+this an increasing number of people are
+living outside of Amsterdam working in
+Amsterdam right today we have about
+280,000 cars driving into Amsterdam each
+day within 15 years that will become
+450,000 cars each day those numbers are
+massive you know one of our biggest
+challenges the main challenge is how to
+keep Amsterdam attractive accessible and
+livable and like many other old cities
+while old cities Amsterdam isn't dead
+old Amsterdam has a medieval core you
+see if their Amsterdam is famous world
+famous for its canals and unlike Paris
+or London or some other major cities
+answer them did not implement in the
+last decades large-scale urban renewal
+in the nineteenth century only a modest
+ring a car ring with relatively
+relatively narrow streets was added to
+the city and that means that the
+challenges we face is not how to make
+more infrastructure but how to use the
+public well the square meters of public
+space we have we cannot add extra
+infrastructure so we have to find other
+solutions and what we see is that
+Amsterdam is a city that is famous for
+its bikes
+car lanes are increasingly congested but
+also bicycle lanes get more and more
+crowded every day and furthermore the
+city's is growing within its boundaries
+we do not build new houses in green
+areas or in blue areas we build it in
+the current city boundaries and
+therefore public space becomes
+increasingly scarce in a recent years
+the city has taken some measures
+measures to reduce the number of cars in
+Amsterdam in certain spots in the
+Center we have taken measures to make
+the city even safer safer for cyclists
+for pedestrians we invested in a new
+metro line which took us much much
+longer than we expected we started with
+a budget from 1.3 billion euros and
+right now we're on 3.1 billion euros but
+it will be open next year at the 22nd of
+July at five o'clock in the morning but
+despite those measures in the long run
+another approach a more fundamental
+change in our approach to mobility is
+needed and I think that goes for a lot
+of other cities and I think the approach
+will be mobility as a service we believe
+that mobility as a service is that new
+approach and it makes three
+fundamentally different shifts in the
+approach to mobility mobility as a
+service first the shift from ownership
+to usage in the mobility as a service
+approach few people need to own their
+own cars for even or even bicycles and
+especially in cities a new generation of
+drivers the new generation it's not very
+keen on owning their own cars second
+there has to be a shift from supply to
+demand driven right now we offer public
+transport we offer public transport and
+it's not a demand driven is it's supply
+driven so what we do is offer bus lines
+even when there are no well not a lot of
+passengers and we will dramatically have
+to make a change to a supply driven a
+mode of transport personal preferences
+of people real-time information on
+traffic situation budget choices will
+all be haven't taken to into account
+when it comes to mobility as a service
+citizens well only am i shutting it down
+right now
+yeah citizen citizen will only accept
+that new approach when different modes
+of transportation connect seamlessly and
+that's one of the major challenges we
+face and that's why we need a third
+shift issue a third shift from a
+separated domains between states and
+markets to one integrated system one
+integrated mobility system in which
+public and private organizations work
+together closely together to facilitate
+the citizens and traditionally I already
+said it a government fund public
+transport companies for those who don't
+have a car and we fund infrastructure
+for those who have a car bicycle lanes
+are for people to commute within a
+limited distance and what we need and
+what we need is that policy makes new
+choices new choices where we where we
+don't have differences between the
+different modes of transport and the
+mobility as a service approach all
+domains should be made available to
+everybody and investment decisions as
+well from the government public or
+private will benefit the mobility system
+as a whole the fourth shift is this now
+digital technology mobile Internet's
+data are mostly cool or or extra to the
+existing infrastructure and to my
+opinion in the future mobility as a
+system service mobility as a service the
+real-time data are the foundation of the
+mobility architecture with mobility as a
+service we hope you achieve improved
+quality of life when it comes to the
+usage of square meters of public space
+but also when it comes to pollution
+livability of our cities breathing less
+congestion less pollution monitor and
+analyze the outcomes what is to be done
+how can we arrive at the mobility utopia
+well first of all it is already
+happening there are currently in
+Amsterdam more than 4,000 sharing car
+sharing cars in Amsterdam which is an
+increase of 600 percent from 2008
+still four thousand car sharing cars is
+only two percent of the total amount of
+cars secondly we're not afraid to learn
+from our mistakes and that's why we
+experiment and we initiate pilot
+projects we are currently preparing a
+pilot project in Amsterdam in the
+central business district Saito's which
+is our financial district this central
+district is rapidly growing and it's on
+the south side of Amsterdam and
+currently more than 40,000 people go to
+work in that area that particular area
+major international national banks law
+offices business consultants European
+headquarters are located there and
+currently 40% of those people working
+there used a private car to come to work
+and larger firms a desire to us have
+already pledged they want to work with
+the city together with the city to
+promote mobility as a service to bring
+that number down and in the pilot
+projects people are given an incentive
+to use math services instead of a car
+and we already started with 50 persons
+who handed in their private car key to
+us and in return we gave them a budget
+of thousand euros mobility budget and
+they could use it in each way well every
+way they like on mobility or mobility
+they can use a shared car a share bike
+system they could get they can rent cars
+they can use public transport and right
+now we are evaluating that approach and
+what we are going to do is expand it to
+500 users and we are planning to scale
+up in a in a matter of a few years up to
+10,000 people in 2020 we embrace
+public-private partnerships and that's
+why I am here and to I'm here to invite
+cutting-edge technology firms to help us
+and that's what I would like to do it's
+a cry for help
+we as governments are not the front
+runners the front runners are you
+private companies innovative companies
+who invest who you know who who
+innovates and what we are doing right
+now is trying to cooperate to build
+networks with you
+and I would like to invite you to come
+to the Holland pavilion to the Holland
+Pavilion at 1600 hours 1700 hours
+and get into contact there and help us
+to find a solution for the mobility
+system ability challenge we faced in
+Amsterdam and a lot of international
+cities face all around the world thank
+you just in time delivery thank you very
+much so I I will ask to Miguel to
+introduce in the to the IT solutions and
+please tell us I will remember to the
+audience that we have an app to make the
+asks for the presentations and I need
+the title to 200 acts there is two ways
+for the ask questions one is just in the
+in the microphone zone doing or using
+the app to instant send the answers to
+to us thank you it's your turn
+Mikkel thank you thank you thank you mr.
+moderator and thanks to all the
+attendance to this session my name is
+Miguel cabeza I'm senior officials and
+technical manager of da hua Iberia and
+we're going to talk in this session
+about technology peter was crying for
+help from technology firms but well not
+only about technology but also about the
+benefits and real success cases helping
+smart cities today so let's review their
+requirements and the tendency the amount
+the amount of vehicles in the world is
+more than 1 billion this according to
+the transporter forum website and the
+World Bank and every year about 1.2
+million people lost their lives in
+crisis on road the road traffic injuries
+are estimated to cost development
+developing countries were 5 percent of
+the GDP
+or more than one trillion dollars per
+year there are high hopes for IT s
+solutions in America there was a program
+a transportation program in development
+and the plan is to save lives ten
+thousand people per year the plan is to
+reduce traffic accidents we're talking
+about 1 million to two hundred thousand
+traffic accidents per year and reduce
+the loss caused by these traffic jams
+and these accidents the material loss
+twenty six billion dollars in Japan
+there's a similar program for IDs
+running until 2025 the plan is to reduce
+traffic accidents by 50 percent the
+average speed to be increased by 10
+kilometers per hour to reduce the oil
+consumption in 25 percent and there is
+co2 emissions they want to read up to to
+get a reduction in around 15 percent in
+the case of Europe we are talking about
+similar figures traffic death accident
+down by 50 percent and reduce the losses
+caused by the traffic traffic accidents
+and congestion and environmental
+pollution to five hundred fifty five
+billion euros so what we have in the in
+the technology landscape today is it's
+not only hype it's not only hope but
+these are reality some complex strategy
+games like chess and go which is very
+popular in throughout Asia half have now
+found
+that the best players are not human
+beings the best players are machines and
+we are talking about this is not just
+come combinatoric this isn't just not
+mathematics this is we're talking about
+the strategies last year the best player
+of go was defeated by google deepmind
+machine and the tendency is to struct to
+go further not only take the data not
+only from this data being able to gather
+information but also to extract
+knowledge from this information so we
+are talking about having higher rates of
+recognition and having more more
+information about the identity of the
+vehicles or the passengers of the
+situation there were nnessee
+of of the road so at the front end we
+can see we with this deep learning
+algorithms we are able to provide
+identification and detection of in the
+passengers area the seatbelt the phone
+we are able to identify the brand the
+model of the track car vehicle the
+motorbike and even the year
+manufacturing the plate of course which
+is something not new but we thanks to
+the deep learning we are able to reach
+higher rates of recognition with deep
+learning algorithms and we can analyze
+the face and we can provide information
+about the traffic flow the queueing
+situation and average speed this is a
+real snapshot of a system in place in
+China it's a dharwad system and you can
+see we the system is not only detecting
+ok it's not only providing the data in
+the form of mmm image ok a cropped image
+we we have information about what the
+driver is wearing the plate if the color
+of the car we could get the brand if
+possible and even we can link the
+database database is linked with
+insurance databases so that we can we
+can we are able to know if there is any
+vehicle on road with no insurance at all
+so in these last 10 years we have moved
+from being a camera manufacturer we are
+the first private company in the world
+in terms of revenue manufacturing
+cameras and recording systems and global
+and comprehensive security solutions but
+we have moved from this approach of
+all-in-one cameras to as you can see at
+the end deep learning and data is
+structured information in our traffic
+solution we we have electronic police
+speed measurement illegal parking and
+traffic guidance we are able to detect
+illegal movements by cop made for
+example in an intersection violation we
+can detect multiple violations like
+running the red light crossing a solid
+line going to driving the wrong way and
+changing in a legal lane sorry hydrant
+so this is our solution for the
+electronic police and the speed
+measurement with a fixed solution and a
+mobile solution and we support multi
+target tracking now up to four lanes we
+were able to detect to capture and
+intelligent intelligent smartly
+positioning the the our cameras towards
+a vehicle in a in an area PAH
+in an area park with no permission and
+this is done automatically without human
+intervention so this is our solution 200
+metres around we are able to to manage
+this until you we are able to smartly
+control the traffic lights to control
+the traffic flow in just one single box
+thanks to this deep learning algorithms
+traffic flow
+queue lengths headway average speed and
+the level of occupancy with our platform
+we were able to not only see in
+real-time and but to follow us on a
+specific vehicle and search for those
+violations as an example in in honto in
+the g20 summit the contestants were
+reduced 17 percent violations were we
+using 50 percent and the traffic
+accidents were reduced in 30 percent
+some references Serbia inter policy team
+Mongolia in in Ulaanbaatar in the
+capital with any NPR police speed
+measurement and high spot PD said
+surveillance here you can see the system
+searching for plate in Poland with light
+enforcement speed enforcement and
+integrated management in Bangkok in
+Thailand with 14 to sections of iamp our
+systems and police in 40 conjunctions
+this is the system in Thailand not to
+mention the systems in place in China so
+thank you very much Justin thank you now
+it's turned for for Jean Myers from
+white research pleasure to be here in
+Barcelona thank you very much in great
+panel as well so I'm here to talk to you
+a little bit about wild mesh it's it's
+our emergency and disruption
+notification system for public transport
+and it was developed as as a as a
+project for innovate UK and London
+Underground in 2015 and more recently we
+were entering into a pilot with Virgin
+Trains East Coast to deliver the
+solution oops sorry I went the wrong way
+okay sorry
+okay so in a UK survey we found that
+only 26% of passengers are feeling that
+they get the the correct information or
+enough information during disruptions
+and that solution or that situation is
+even is even greater for staff the staff
+feel that they don't have enough
+information to give the passengers the
+correct information and as many of you
+know that are involved in rail that
+passenger information district during
+disruptions is paramount to being able
+to make that experience better for the
+passengers in the event of disruptions
+and combined with this
+there's arrives obviously in natural
+disasters in the last 10 years and
+terrorist incidents and cyber warfare
+now combined to complicate that even
+more you may have heard from there by
+2020 that'll be between twenty and
+thirty four billion devices and that
+that means there would be about four
+devices per person so we're coming into
+a situation where the networks are the
+networks are gonna be stretched the
+transportation networks seem to be
+stretched and there's more and more
+people and then in the urban areas and
+the situation with with the device
+networks is such that even the 5g
+specification calls for device to device
+networks as a way to densify the
+networks in order to accommodate this
+large number of devices and so our
+solution the emergency and disruption
+alert network is is our solution to
+solve this and it's it's based on a
+real-time feed real-time streaming feed
+combined with a mesh network to deliver
+contextually relevant information which
+is quite important that and that is
+actionable in other words if if the
+passenger is unable to complete their
+journey due to a cancel is a cancel is
+cancellation or delay they need to have
+other travel options so our feed
+our real-time stream notifications
+actually update on offline journey
+planner on our solution so I'm gonna in
+case you're not really familiar with
+what mesh networks are I'm gonna take
+you through a little bit of that so
+traditional network star networks on the
+left hand side you may recognize those
+for instance how a router sits at the
+center or PC and those are great they
+have a central authority that's really
+great for security but it's also a
+single point of failure and a mesh
+network where devices smartphones can
+connect directly to each other
+certainly eliminates that problem but
+then again has the the issue of
+authority and authentication and a
+hybrid network combines the best of both
+worlds so it's it's online it's on the
+mesh continuously and then when there is
+internet connectivity that connects and
+that's effectively what our are
+streaming the wild mesh solution is with
+our real-time stream now what we've done
+with London Underground during the
+during the trial we found that actually
+we actually helped move the data through
+the system so for instance as a user or
+passenger enters the station he's got
+cellular data and he has the most recent
+information on his phone and as he
+enters the London Underground or any of
+the network that he may or may not have
+connectivity in the in the four-quarter
+in the platform Wi-Fi and as he gets
+down into the system and the net the
+mesh connects anyone with information
+just one person on a platform can update
+and then spread that information very
+quickly throughout the rest of the
+network our latency is effectively the
+longest time it takes for a train to get
+between two platforms so we ran these
+tests on the London Underground
+we ran five technical test between May
+and April 2016 and we had two massive
+learnings for that now when people talk
+about mesh solutions they often tell you
+that one of the one of the benefits is
+self-healing well that's not only a
+benefit but that's a metric that you can
+measure how good a mesh network is and
+we actually ran into quite a bit of
+interference as you would expect on the
+underground the electric
+cars and in fact the carriages
+themselves are faraday cages they they
+keep signals out so what we found is
+that on the underground we were having a
+lot of drop signals so we had to make
+our solution even more robust but the
+interesting thing that we found is that
+compared to Wi-Fi we were getting
+connection speeds two to six times
+faster than than Wi-Fi depending on the
+contention so in really busy and really
+busy stations is sometimes would take
+between thirty six thirty seconds in a
+minute to connect on Wi-Fi where mesh is
+pretty consistently ten seconds so even
+where you have connectivity mesh will
+deliver that information faster and in
+some situations we found that even
+before the train stopped the signal was
+coming through the information was
+coming through on mesh so to adjust the
+challenge we built a solution that has
+three main components we have a mobile
+sdk and four virgin as a matter of fact
+we're building a staff app on top of
+that - no - as I said to inform the
+staff about disruption so that they can
+properly relate that to relay that to
+the passengers so this SDK can be
+integrated into existing systems or it
+can be used to build new greenfield
+projects and then we have a cloud
+gateway now that's effectively how we
+get the data from the cloud or from the
+open data services or in Virgin's case
+from there on trail operating center
+into the mesh so we digitally sign
+everything as it gets on to the mesh so
+that we know that it's from an
+authenticated source and push it push it
+down over a live stream and and that
+cloud gateway acts as that signing
+service and it also contains a content
+management system for collecting
+curating and distributing managing the
+passengers of passenger information or
+the disruption information from rail
+operating control and we're looking at
+putting a solution in into New York to
+prototype this for Virgin
+so again to reiterate the the real
+advantage of our solution while there is
+a lot of intelligence and some really
+innovative things we're doing with the
+content management system it's really
+the the mesh is our USP and it provides
+sustainable data distribution in the
+event of internet outages power failures
+terrorist incidents natural disasters
+and cyber warfare and in conclusion we
+know that you know emergency scenarios
+are on the rise by about 40 50 percent
+over the last decade there's going to be
+anywhere from twenty to thirty four
+billion devices by 2020 depending on who
+you get that information from and that
+device to device and mesh networking is
+important not only for emergency
+scenarios but again also for also for
+densifying the network's the even the 5g
+networks are going to strain to cope
+under this load so you can go to our
+site we actually next week we'll have
+the case of the full case study from
+London Underground available so please
+go to you can go download it now and
+we'll we'll send it to you when it's
+when it is available happy to you know
+answer any questions if you want to
+email us and ask us more about that and
+then of course if you sign up then as
+soon as we finish the Virgin project
+that that available that case study will
+be available as well and really that
+that's all we have I finished early so
+we same time thank you very much thank
+you thank you for you very amazing blast
+from digital community I'm a smart
+solution please Miklos introduce us in
+deep about mobility as a service
+provider so that you're hello everyone
+I'm so happy to be here and it's really
+easy to continue this this line of
+presentations because all my colleagues
+before me they all introduce you into
+this ecosystem and actually mobility as
+a service being referred
+earlier so what I would like to do is
+just keep continue going to be details
+and probably trigger some questions from
+your side and from other sides as well
+so let's jump in so what we are going to
+talk about is again showing you what
+mobility as a service is then facing
+with the challenge which we have at
+least in Budapest
+then just get to know about the
+ecosystem of mobility as a service see
+and least the prerequisites of such a
+thing then get to know the stakeholders
+and see what are the action points maybe
+you have some more okay so why we have
+Netflix here Spotify you have Spotify
+yeah yeah you're listening music on
+Spotify probably you're watching on HBO
+go movies right Game of Thrones stuff
+like that have you ever bought in the
+last two years Pro DVD or CD from your
+favorite band probably because you would
+like to keep it on your shelf but
+usually you are doing it on the go and
+you are using these services from the
+cloud you are not owning things anymore
+you are streaming it so let's just
+interpret this into mobility do you
+really need your car don't you afraid
+that it's gonna be scratched somebody's
+gonna steal it or even you just don't
+want to invest such a huge money into
+owning something which is gonna be
+outdated soon maybe if it's a Tesla and
+yeah but then let's go I would say that
+mobility is a service is the same
+business model which we all know from
+the streaming services because mobility
+as a service is user centric so it's
+focusing on you as a traveler and then
+we will see that all the other
+stakeholders are also interested in this
+because the intelligent mobility
+distribution mobile model it's it's a
+girl
+integrating all the service modes which
+are available so how I got here
+actually I look out from my window and
+then I realized that there's gonna be a
+huge traffic jam so I open Google Maps
+and then I figured that okay so probably
+the best way to come here taking the
+subway or buy a cab and I could make
+this decision because this city somehow
+achieved that the cab and the public
+transportation is all included into
+Google Maps it's not the case in
+Budapest we hope is gonna reach this
+status so and I think one really
+important point that at least in
+Budapest many and most of the taxpayers
+money is being invested into new subway
+lines you know how much money is is it's
+a lot and then it's just one mode of
+transportation so what I say that we
+already have capacities which should be
+better used and this business model
+makes it happen
+so what's the challenge maximizing the
+utility of the existing capacities and
+changing the mind to a holistic view so
+we are taking into into a can all modes
+of transportation and the very basic is
+to the fundament of this distributing
+real-time information to the to the
+passengers so see let's see that
+what's the ecosystem on the top you can
+see mobility as a service and it's let's
+say existence on your phone like the
+Spotify application so you are having
+this you can do all the functionalities
+through this application then there are
+the providers you all know bike-sharing
+here you have bike sharing as well if
+you local you have peer-to-peer
+car-sharing you have ride-sharing right
+hailing all this stuff of course you
+have the public transportation companies
+but these are all providers which are
+providing the service through one
+mobility operator to you as the
+passenger
+or as the person who would like to go
+from A to B and since we've been asked
+or we been let's say as that
+where are the technology enablers here
+we are so like you just mentioned you
+have many stuff which can be implemented
+as Deutsche Telekom also have focusing
+on this we also have all the all this
+let's say knowledge and also the the
+delivery capacity to do this because
+urban development is one of the
+fundament than the truth traffic
+developments building roads the public
+transportation railways and all the
+infrastructure and of course it the
+connectivity which can help you using
+your smartphone anywhere yeah so the
+smartphone's all of you almost have I
+guess the seamless payment because it's
+okay that I can choose which I would
+like to use but then I would like to pay
+as fast ads and and as seamless as
+possible and let's see the stakeholders
+the technology neighbors we are already
+here and let's focus on the IT
+integrators which have the knowledge and
+they are ready to serve this ecosystem
+one really good example I think the the
+women it's from Helsinki it's already an
+existing application which aggregates
+all these modes of transportation so
+being being in Helsinki you can decide
+whether I would like to go by cab use
+the public transportation by bike or the
+combination of this that's really
+important
+the mobility service providers they are
+competing to each other so you're gonna
+get better service hopefully and as the
+local authorities and political actors
+they have let's say the responsibility
+to trigger this and do not block the
+innovation the customers this is I think
+the easiest thing what we can imagine so
+yeah I'm someone who is coming from the
+suburbs would like to go into the city
+and I would like to make the best
+decision I'm so tired
+paying so much money for something which
+is not convenient it just I rather go
+wait car so that's the way which is
+about to change and I think this is what
+happened in Amsterdam with these 50
+people and I really hope that in a few
+years there won't be company cars
+because company owned cars will be
+neglected and probably this kind of
+fleet it's gonna be served all these all
+the employees and the city will be able
+to breath again yeah so again using a
+really simple payment method and let's
+see that who are these so the relation I
+think put a political and so the policy
+has to enable all the others to be able
+to act otherwise it's gonna be blocked
+from the very first point the business
+so there has to be business in this
+model otherwise no one is gonna invest
+in this new model of transportation the
+technology I would say it's already here
+you just have to choose the best
+provider and hopefully Deutsche Telekom
+will stand in the game so customers yeah
+here we are I'm happy and you are happy
+to pay for the last money for the best
+service available let's see what's the
+action points because the city
+government should buy in what does it
+mean they have to make some steps
+towards to make this happen and they
+have to enable the actors to make this
+happen and let private companies into
+the game and this is where we are
+public-private partnership there are
+good models how they could implement it
+in countries in Budapest we see good and
+bad examples but these private companies
+are eager to make money so they will
+offer the best service for the city and
+for the customers so I believe that
+there is a good match and so the
+technology architecture it should be
+something where I can easily connect so
+it shouldn't be something close okay if
+I have a good service I believe I can
+take you from A to B but I don't have
+access to to supply my services that's
+bad you have to open the market for all
+the providers and as the and then the
+city won't invest so much money on into
+something which is already in the market
+and yeah since we are supposed to talk
+about the commuters or someone who is
+living in the suburb so yeah take into
+consideration not just the city travel
+and so not just we're in the capitals
+and the big cities but also all the
+people who are coming to Amsterdam
+100,000 people buy cars they should
+leave their car at home because these
+applications these platforms should be
+open for them as well and let's see
+where we are in Budapest Budapest as I
+said we already implemented many of the
+solutions which are supporting mobility
+as a service we are at the stage where
+we are providing real-time mobility
+information passenger information but
+there are no private companies and we as
+Deutsche Telekom providing all these
+solutions to the city I think we have
+the role to educate the city and also
+because you are paying for your mobile
+in bills probably the service can be
+included also into your mobile payment
+thank you very much I use sometimes it's
+been saved thank you
+i summarized more or less could you
+bring us the questions that now it's
+time to send us a questions and that's
+see see see okay okay thank you
+that's a common question if you it's
+real time essential for intelligent
+transport systems how you are protecting
+this data they take their data that's
+question yeah can you hear me okay so so
+yeah that's our job so if I'm an IT
+integrator then I have the knowledge
+inside the company or I have the best
+partners so don't worry about that
+because these technologies been already
+used in the private sector of course
+it's a big issue which which is good to
+take into consideration and I'm telling
+you we had something in the past in the
+last few months in Budapest so what you
+have to know that the taxpayers are your
+biggest Porter's and even if you are a
+company which is serving the citizens if
+you do something wrong then they will
+punish you so bad so that's our interest
+to to keep all the data safe okay
+another question is how are you looking
+now for those people that don't have a
+smartphone and need to to have the
+mobility to
+well I think I think I think city
+government will have to take care for
+mobility for all of its citizens
+people who have a car can provide in
+their own mobility what we have to do is
+is is not exclude people from a mobility
+system so when you are defining or
+working on mass systems you will have to
+find a way to include all so that while
+they have nuts people who don't have
+their own modes of transport don't want
+to use a smart phone there are also
+people who don't want to use a smart
+phone there are people who don't have a
+smart phone and I'm sure that there will
+be enough possibilities for those people
+to to be mobile and and and it's not the
+end it's not the end of public transport
+it's not the end of private owned bikes
+in Amsterdam so there will still be in
+elementary but more than enough
+possibilities for those people that's
+the I agree with this this all always
+another way to do that thing then is not
+opposite of other ways without we do
+okay that's great yeah another question
+and good you for displaying how
+real-time data directly improved
+mobility for citizens or are they
+additional as Thresh's strategies needed
+so this is more for you for thing
+okay so other strategies yeah but I
+believe in the in the power of the
+people so you can really make the
+difference so you if you choose either
+instead of the traditional cabs then you
+push the market towards this ecosystem
+which just happened in Budapest
+uber was there they were operating for
+one year then they've been kicked out
+from the country because yeah they
+didn't pay taxes oh it's a living debate
+we can talk about this but what what it
+made in the city that now all the cab
+service providers they have their
+application before that they had these
+really bad call centers and you never
+had an answer on that now all day all
+these taxi companies are providing
+application and the payment is seamless
+you won't be cheated which is so
+annoying when you arrive to an airport
+and then you pay double or triple the
+price so I think ask yourself what you
+can do for this because based on your
+decision this whole ecosystem is going
+to be pushed to a more competitive way
+okay so just let me add some point
+regarding an aspect of mobility which is
+security I think we we have talked about
+more we've been focusing more on and
+economics it's a robot for example in
+this lovely peaceful cities some some
+months ago we had a terrible event a
+terrorist attack so it's not only
+detecting a car is thinking ly going the
+wrong way it's more than that so in the
+real time adds some more values it's not
+only just ok the mobility per se but
+some aspects going down into the details
+of mobility
+okay like security we are all out of
+time but I want to thank you all the
+panelists for for the presentations and
+the answers for their questions and and
+thank you for all the audience to to be
+here and do we have to close that
+session thank you very much everybody so
+[Applause]
+
+

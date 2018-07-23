@@ -1,0 +1,1337 @@
+Title: Rethinking Urban Governance: Cities at the Service of Population´s Needs
+ 
+Subject: Multilevel Governance
+* Governance
+Abstract: 
+
+Worldwide cities are progressively adopting diverse solutions to improve the efficiency of urban services, such as transport, waste management and water and energy supply. Yet, an urban governance based on city data and open models powered by the latest open source technologies has hardly been explored. How can city leaders develop citizen-centric governance to make better informed decision-making and be at the service of population’s needs?
+
+Speakers: 
+
+Mateu Hernández
+Aisha Bin Bishr
+Joan Ribó i Canut
+Massimiliano (Max) Claps
+Candace Byrd
+Pilar Torres
+
+Conference: 
+
+okay we're now going to move on to our
+first plenary session of this Congress
+now there's going to be lots of
+different planning sessions throughout
+the three days and they really are a
+chance hello to debate different visions
+in our almost round table setup up on
+the stage
+so for each time I'm going to introduce
+a new chair who's going to lead the
+discussions and we'll also be opening up
+to the audience so if you have questions
+and please do contribute towards that
+so these plan recessions are really
+about hearing real experiences and
+practices too when it comes to
+developing smart cities so let me hand
+over to our chair of the first plenary
+session which is called rethinking urban
+governance cities at the service of
+populations needs Mattie Mattie o
+Hernandez is the managing director of
+Barcelona global he's previously been
+the CEO for economic development for the
+city where he helped coordinate policies
+on employment entrepreneurship and
+attracting foreign investment so please
+give a very warm welcome to mr.
+Hernandez 
+
+let me introduce myself I will
+be chairing this session I met Evan and
+the CEO of Barcelona global which is a
+private platform made up of about 700
+members in Barcelona fully private that
+once Barcelona not only to be a smart
+city but especially to be one of the
+best cities in the world for talent and
+economic activity but my role today is
+to moderate these fantastic speakers
+that we have here on the stage on a
+session that's the first plenary session
+and and the topic of this session is the
+relation of government think technology
+and people when smart cities movement
+began everything was related to
+technology and we were talking about
+technology technology and technology and
+today six years after this Congress
+began today we are talking about how
+technology serves people helps people to
+be happiest as she will explain us help
+people health cities to be more equal as
+people in in Atlanta will will take
+we'll talk about help cities too
+be more friendly like in Valencia and
+then we will have also how technology is
+helping those projects we have five
+fantastic speakers from different parts
+of the world
+first we have I been dr. IVA bin bish
+general director of the smart Dubai
+office she will explain us many things
+about what's going on there in the
+Middle East in a fantastic strategy on
+smart cities and she will surprise you
+on the concept of what she thinks a
+smart city is then we also have the
+mayor of Balan Thea a jewelry wall he's
+been in charge of about two years and
+changing completely a city from a
+different model to a new model much more
+sustainable and smart then we have also
+another the chief of staff of the mayor
+of Atlanta of the condensed built that
+coming from the States for coming from a
+fully different City as the
+Mediterranean cities are not a dense
+city but a very sprawled City so and she
+will talk a lot on how technology and
+then we have two main companies helping
+those cities to proceed we have
+Massimiliano coming from Milano from sa
+P and also Pilar Torres coming from
+Madrid from Amazon services so they will
+speak for about three to four minutes at
+the beginning to introduce themselves
+and to introduce their strategy and then
+we will begin a dialogue I will raise
+the first question and then you have
+technology to be used through your
+smartphones so supposedly there's
+something here that I will receive your
+questions so write your questions on
+your smart phone on your tablet and
+people will be able to vote for those
+questions so I will know with which
+questions you feel are important or
+relevant or whatever and so we will ask
+through that platform I will take notes
+of those questions and we will race and
+also if somebody is really willing to
+show his face he or she will have the
+opportunity to take a micro and to speak
+to that today to the people so without
+anything else let's let's begin with
+with I see a dr. Asha from Hawaii so
+please thank you
+good morning ladies and gentlemen it is
+a delight to be with you today and I
+look forward to a great conversation and
+thank you Matthew for hosting us at yet
+another specular event this year cities
+as we know have evolved over thousands
+of years guided and built by human hands
+and designs to serve the needs of the
+people who live in these cities but to
+help them to be more happier hundreds of
+years of trial and trial and error
+innovation and failure have created the
+great cities of the world that we known
+today beautiful cities like Barcelona
+where you can stroll along a waterfront
+or sample delicious foods or lose
+yourself in the alleys and shops of an
+old neighborhood over centuries cities
+city governments have learned how to
+regulate protect and govern the
+resources and infrastructure that flow
+through our cities and make them work in
+many ways the history of cities is the
+history of human innovation but with
+each new wave of an innovation city
+governments had to raise to K pace today
+we are in the middle of another wave of
+innovation digital innovation and that
+wave is building and rolling much faster
+than any change that has come before
+just think about how much has changed
+for cities between 2011 when this
+conference was founded and today Airbnb
+uber 4G and 5g cellular networks Siri
+Cortana Alexa and blockchain the pace of
+change has been dizzying and some some
+cities sadly are falling behind it is
+the more agile and often more daring
+governments who are emerging as the
+leaders and this race will the end goal
+as always as people happiness
+fifty years ago when man first walked on
+the moon my city Dubai was building its
+first generator today Dubai was one of
+the most advanced power and water plants
+in the world and we are quickly
+transitioning to having 25 percent of
+our energy come from clean energy
+resources by 2030 from no paved roads
+and my father's lifetime Dubai now has
+the world's largest autonomous longest
+autonomous metro and tram services and
+we are well on our way to achieve our
+goal of making 25% of all trips taking
+in my city by train car bus or both
+autonomous by 2030 in three years time
+we will be launching a satellite a probe
+designed and built in Dubai by Emiratis
+to travel to Mars yes to travel to Mars
+to conduct the most comprehensive study
+of that planet atmosphere that has ever
+been completed and in hundred years
+we'll be sending manned mission to Mars
+this is all happen in Dubai how does the
+46 year old country do such we are
+motivated by conviction that cities
+exist to promote the well-being of our
+residents and visitors and that as city
+leaders we must use every tool available
+to use to promote the happiness of our
+people for the cities of the past those
+tools were shovels cranes and steel but
+today data is our tool and we are using
+blockchain Internet of Things and
+artificial intelligence to make Dubai
+the happiest city on earth tools to
+design a government blockchain that will
+make paper work I think of the past and
+access to world-class blockchain
+enterpreneurs who can build it tools to
+test and train artificial intelligence
+solutions in an AI lab an AI services
+and systems that will
+shape our city for the future today it
+is no longer enough for governments to
+sit back and regulate the solutions that
+others have invented for us we must take
+an active role not only in creating the
+right enabling environment for
+innovation to keep place through policy
+and legislation and industry development
+but we we also become innovators
+ourselves we have to roll up our sleeves
+and get to work
+at smart way we are experimenting
+testing sometimes failing but contuine
+Alize is striving to create the city of
+the future today this is a - this is
+what we are doing and Dubai and will be
+my honor to share with you some of these
+lessons and I encourage you to visit us
+at our stand here and the conference
+thank you thank you thank you thank you
+dr. Aisha so keep in mind what she said
+to build a happier city using technology
+and smart City which is a nice concept
+making citizens happier and making
+things easy is good for them to be
+happier so from a 46 years old city now
+we shift to much older City can be
+emotionally that mucho mas Antigua mucho
+mas muy Mediterranea tenemos el alcalde
+de Valencia UN rêve okay no salary
+espanol Pro tanto que los que no lo no
+lo comp Rendon would listen at religion
+simultaneous perfor in Senor vivo Bon
+dia in pre-med over a garage faire la in
+Vita Fiona participar and in esta
+session del his mercy T Expo de
+Barcelona es una nor poder compartir is
+the yellow combos otros que de sel
+embrace our activist male investigación
+la formación hola gestion pública
+trabajas para mejorar la ciudad es que
+Atomos muchos lucano cerise pero me
+gustaría present arrows matilda
+valencia la tercera few dot Espanola en
+términos de población enter menos de
+PE vein
+s capital del área metropolitana de
+unos meses millionaires Evatt antes de
+una comunidad autónoma de Cinco million
+SAV tantas militia tiene una gran Boca
+film technologically soon achieved a
+Christian associate with yours
+municipalities transversal mente de una
+manera intelligent a a traversal a
+strategy ax Valencia ciudad intelligent
+the semi ponto de vista lo mas
+importante is a loose of the los datos
+kahan eran las tecnologías in all as
+technology SNC las a smart city so known
+ingrediente club' in la mejora de las
+ciudades
+in nuestro dia via por que la same a
+sustainable inclusive a' prosperity
+versa pero sólo cuando shown in the
+leaders common media in oak Amalfi Nancy
+mismo acident and emotion Valencia
+communion focus general the politicus of
+runners st. Radha's in las personas last
+strategies a smart city balanced eeeh
+Ciudad intelligent people - Avila
+plataforma they feel that intelligent a
+desarrollo de un TOA telefónica la
+plata forma
+elaborado mejor r la gestion de los
+servicios de la ciudad de valencia
+Assamese maha bodhi sido la atención de
+financiación para desarrollar Nostra
+iniciativa
+in pull so well Valencia en en la
+dirección de una ciudad más officiant
+a Yas habitable para la propias intra
+vania y para nuestros habitants
+esta plataforma de spawn a de una serie
+de Rami entus para Sircar la
+información de la strategy los datos
+que nerado's a toda la ciudad Aniyah
+Itamar decisiones
+deform efficacy intelligente in pre-med
+over la valencia disponible NC a--
+de-spawn una mobile de ciudad que NOS
+permit a consult our todo lo recursos
+que puede ver an austere dreaded or
+transporte público centro sagittario's
+a park am en toes etc a si como interact
+o air con el ayuntamiento yo munich are
+inside NCI comentarios sobre los
+servicios municipal s portal de datos de
+ciudad a's este en este portal se pueden
+consult our los indica doors de Ciudad
+de Valencia
+nose con algunas de las principal
+ciudades del mundo portal de datos
+Javier des date of milk in face
+el ayuntamiento pone a disposition
+investigadores empresa so on trend or s
+dato toda la información de la ciudad
+para poder jenner are nuevos estudios
+jenner are tambien nuevos maderos de
+negocio Quadro de mando de la ciudad ser
+conseguido otra vez desde Quadro de
+mando monitory ser más de cuatro
+cientos in cuenta indica doors deceive
+daddy desert videos monitor ballets a
+disposition de los restores de nuestras
+you dad
+Valencia Alma nude esta página web pony
+exposición de la ciudad Ania
+todos a Keo recurso sclab a de la ciudad
+en los que de spondee formación n
+tiempo real se como el pulso de la
+ciudad otra vez de la Rey de sociales
+geoportal
+desde finales de dos mil veces el
+ayuntamiento puso a disposition de toda
+la ciudad Daniel a portal con le que
+puede consult our cualquiera at ohio
+referencia doe
+exist Entei en la ciudad de valencia me
+gustaría Darla's algunos ejemplos de
+como esta información mejora el dia dia
+de las personas de la lectura
+en tiempo real del consumo de agua en
+todos los lo o goddess in ago CIO's de
+la ciudad
+monito dies a she owned al minuto de la
+calidad de ley de índice into's puntos
+de la ciudad kono sistema de alerta
+zabba Dabba nia
+control del consume o y del estado de la
+lune brado público en la ciudad
+proyecto Piloto en el mercado municipal
+de rue Safa in solando Trentham eddie
+doors que permitting controller a foros
+temperatura uma da para facility' el dia
+dia de vendedores
+ik lien days osa explicar a todos estos
+casos y hace falta durante la sección
+hora quiero hacer are esta intervention
+desta condo Valencia tiene una strategy
+a console e da de Posada na gestion en
+los datos abierto x' y ella gestion
+intelligent a de los servicios municipal
+a's Damon e de vertical pero también
+trois versa la plataforma Palencia
+Ciudad intellagen no solo abre la
+posibilidad agenor are mejoras dentro de
+la
+Tom bientôt seen ok permitted SRO yeah
+doors investigadores yen presses Jenner
+are in quezon un sentido Amplio con el
+approach am en toda toda esta
+información pública immediate lesson
+veto KBC 10 Nastassja dad
+una few that intelligent a they feel de
+Bono's is Eva Anna's interest in this
+muchas gracias muchas gracias john
+travolta de valència un elemento
+importante de su intervention que es
+esencial para esta es la collaboration
+public o privada que ella mention oddo
+ADIZ ok para hacer todas estas
+aplicaciones al servicio de los Medanos
+say necesitas trabajar
+Markovic odo con la cm presses naan unna
+caliente probe a door cliente sino en un
+Alianza como estan haciendo con con
+telefónica en valencia este congreso
+precisamente ba de esto para tanto que
+se pan que lo que what's happening here
+what she explained from dubai what he
+just explained from valencia
+his collaboration with companies and SI
+p is present down up down there with the
+stands so you can have the chance to
+visit what telefónica what SI p who's
+not gonna speak he's doing and for for
+smart cities now with the tone from
+Massimiliano
+he comes from SI p he just landed from
+Milano and s AP you know everybody knows
+who si Pease but usually we realize si P
+as a company devoted to big companies
+big banks big factories trying to help
+them to arrange whatever they do and now
+he's gonna explain how s ap is helping
+cities to develop smart cities
+so my simile I know Thank You Matteo and
+when I see us good morning ladies and
+gentlemen it's a pleasure to be here
+my name is Max no need to learn the full
+name
+I am the global lead for s AP future
+cities team which means there's a group
+of expert that know deeply about your
+daily business your domain your
+activities what you're trying to achieve
+in terms of growing the economy of the
+city
+improving mobility and transport
+managing the environment and resources
+in a more effective way governing the
+internal administration more efficiently
+and allocating resources and last but
+not least so most importantly providing
+services to the people in the city in a
+different way that's what we do day in
+and day out we apply our 40 years
+history in terms of investing in
+technology in applications and bring
+that experience into innovative areas
+like machine learning or artificial
+intelligence blockchain the Internet of
+Things what we call our Leonardo
+capabilities and we work with cities to
+really enable change
+I was thinking yesterday I had a chance
+to meet with some colleagues as well as
+with some customers and I was asking
+myself if we had talked about a future
+of cities ten years ago we would have
+probably been at a urban planning or
+architecture conference but in the past
+five or six years the word has been
+meeting at a technology conference
+whether it's information technology or
+whether it's equipments and autonomous
+driving and those kind of things we're
+meeting at a technology conference
+because technology is really enabling
+and triggering change in the way cities
+collaborate with the ecosystem in the
+way they innovate processes like
+measuring consumption of water or
+measuring the happiness of citizens and
+figuring out new business models to
+provide better services I was talking to
+a city in eastern europe that is
+tracking the movement of tourists
+throughout the city and maybe reusing
+some of that data for economic
+development to help the local businesses
+and retailers understand the pattern
+of our citizen and tourists the ABE
+throughout the city and that's what we
+do we commit to do and we're investing
+as a.s.a.p
+alt cities drive value out of technology
+it's not technology for the technology's
+sake it's driving value out of the
+strategic element that is the data and
+the information that the cities have and
+so I'm really pleased to be here and
+have the chance to share the stage with
+such distinguished speakers and please
+visit our booth to discuss these topics
+thank you Thank You max just mentioning
+we were talking some years ago when
+series about city planners and now we
+are talking about technology that's
+that's that's a great shift on the
+concept and now let's let's let's fly to
+Atlanta one of cities very friend a
+close friend from Barcelona also an
+Olympic City plenty of big companies
+there and now we have the honor to have
+the chief of staff of the mayor of
+Atlanta that he/she will will will
+introduce what Atlanta is doing so miss
+condense please the floor is yours thank
+you and good morning
+India I am pleased to represent our
+mayor mayor Kasim Reed as well as the
+city of Atlanta as Mac said as Matt said
+the proud home of the Centennial Olympic
+Games at this Smart City Expo in the
+great city of Barcelona the heart and
+host of the city of the 1992 Olympic
+Games the city of Atlanta is the cradle
+of the civil rights movement in America
+home to the world's busiest airport and
+one of the fastest growing technology
+centers in North America thanks to our
+financial stability are progressive
+residents and our strategic business
+community we are facing an exciting time
+of unprecedented growth and change in
+Atlanta metropolitan Atlanta will grow
+by fifty percent to eight million people
+over the next couple of decades that
+means the time is now to shape the
+future not with a wish list wish lists
+are a waste of time but what the plan
+built on sound data and cutting-edge
+technology at the city of Atlanta we are
+executing our vision for the future
+around the five core values that define
+us when we're at our best equity
+progress ambition access and nature the
+plan is inspired by our civil rights
+legacy and steeped in dr. Martin Luther
+King Junior's philosophy of the Beloved
+Community a society based on justice
+equal opportunity and love of one's
+fellow human beings and Atlanta we know
+that the most strategic scenario for
+growth includes everyone equity and
+affordability or our biggest challenges
+but technology and data offer the
+potential for endless solutions
+technology has become a real-time
+present-day asset for cities like
+Atlanta and everything from
+transportation to public safety to
+sustainability
+and beyond it complements our employees
+on the front lines and it helps
+streamline operations for greater
+efficiency it fosters economic growth
+and provides more opportunities for our
+residents our businesses and their
+employees it will make us a more
+resilient city by giving us greater
+insight into energy used in solutions
+for emission reduction in the end it
+will help us ensure and build equity in
+the city of Atlanta and that's a vital
+point equity is the most common goal
+that influences all our public
+initiatives what it's what makes Atlanta
+a livable and viable city for anybody
+who wants to come there and build their
+dreams our city design studio is a place
+where residents can walk in off the
+street and talk about the future of
+Atlanta what do they want our city to
+look like how do they want it to work
+what do we develop what do we protect
+how does it all connect with the input
+of residents in urban professionals we
+are building a vision for what
+Atlantians want the city of Atlanta to
+be in the coming generations the city
+studio will collect our most creative
+ideas
+back them with strong policy that will
+help us develop a realistic process for
+moving forward our next steps will
+include a mobility plan zoning ordinance
+changes conservation efforts and a
+housing strategy among other tools and
+plans a great design for the future will
+help Atlanta remain a global center for
+business it will allow us to continue to
+attract the best and brightest talent
+and secure our status as a center for
+culture and innovation it will also
+prioritize inclusive growth and address
+the challenges of equity so we can
+ensure that our prosperity remains
+accessible to everyone we know that
+Atlanta is at its best when it's a city
+for everyone I look forward to the
+dialogue and I'm delighted and honored
+to be here with this esteemed panel
+thank you thank you thank you very much
+we will go deeper on those issues about
+affordability about building prosperity
+accessible for everyone in in Atlanta in
+the panel discussion but the last
+speaker we we have is is pilar torres
+from amazon you all know amazon and most
+of you I guess use Amazon to buy things
+but Villar will tell us another side of
+Amazon which is the site of helping
+smart cities to grow web services
+technology data use of data so Pilar
+please the floor is yours
+muchas gracias when ozs had all those
+bienvenidos a day Smart City Expo
+my name is Pilar Torres I work at Amazon
+Web Services and as Mateo said many of
+you know Amazon and in fact we are
+approaching a very busy time of the year
+for Amazon because most of the online
+shopping will take place between now and
+Christmas this is our picnic time and I
+hope you all are part of it somehow but
+I'm part of a side of Amazon called Web
+Services that was born almost 12 years
+ago precisely for that fact that Amazon
+NEADS were very very variable along the
+year we had a very stable needs during
+the year and then some peaks we're the
+largest part of our demand and our
+customer interactions took place and
+from a technology perspective and from a
+data management perspective this was a
+huge challenge because you have to
+dimension your infrastructure to the
+peak and then you waste a lot of money
+and resources during the year or if you
+dimension your infrastructure for the
+average then you're missing the key
+moments they make or break of your of
+your business so in that challenge
+Amazon developed infrastructure as a
+service so to be able to accommodate and
+to scale automatically to the needs of
+our business and once this service was
+developed and working for Amazon we
+decided was the time to offer it to the
+world as a new business called Amazon
+Web Services which is today used by
+millions millions of companies of all
+sizes across the world and the
+advantages of using the cloud because
+this is what we do we offer cloud
+services on a paper use mode 0 from
+commitment and pay-as-you-go fits very
+well in the needs of cities because
+cities are so so dynamic and they have
+dynamic needs and we provide the
+infrastructure to adapt to these dynamic
+needs coming from different sources and
+how we help cities all across the world
+and many of the cities we work with our
+present today and and I will be willing
+to share what we do with them later on
+in the session applying the most
+cinematic technologies are in three
+areas one to provide the core
+technologies so you have data you have
+to collect the data you have to compute
+it you have to analyze it you have to
+store it and you have to make smart
+decisions based on it this is the basic
+cloud infrastructure we provide but then
+we develop advanced technologies that we
+are also using in the Amazon world
+and we have a lot of synergies there for
+instance artificial intelligence Alexa
+is used and offered as a service for
+many customers and many cities are using
+it now or IOT technologies which are
+used to buy online we can also use them
+in the cities machine learning deep
+learning many many technologies and
+thirdly the data because smart City is
+all about the data at the service of
+citizens to make smarter decisions to
+make more informed decisions and to help
+a having better lives thank you thank
+you thank you Pilar and thank you all
+five speakers we have about 29 minutes
+for discussion and so keep using your
+your smartphones to raise questions
+someday I will receive the tablet to to
+know those questions so please the
+organization if they can they can bring
+that tablet here if not send them a lot
+of problem of imminence arena so just
+taking what what what Bill has said that
+we are in an economy of data and data
+should be collect
+should be distributed what John River
+just told us open those data to to
+citizens and should be used to the site
+and since we have a mayor here I would
+begin asking John River how in Valencia
+he uses those data to the site and how
+they use those data to help people so
+how using data or como no Pallavas meant
+Sahara's how you use data to take
+decisions as as as mayor when a yo creo
+que muchos respect those less commented
+he a concrete Amenti dos tres el premio
+her for example is la st on la st on del
+agua nosotros tenemos todos los
+fundadores digital atados en este caso
+para nosotros el control de estos
+Contador's es muy importante
+maneuver por un tema que NOS interesa
+todos en el momento de una profunda
+Secchia
+yes evitar las uvas que son fácilmente
+detect a blaze cuando tenemos una
+gestion de estos Contador's assassin
+aplicación evidently he knows a
+permitido por ejemplo Valencia reducir L
+no menos de fuga 'he's important ahem
+muy bajo el agua yo creo un paso
+importante pero hay otro es aplicaciones
+case Impossibles d que estamos en estos
+momentos implement ando case concrete
+Ament a Valencia muchas personas a
+masked assassin tae Cinco años que
+viven SOLAS y su control no es facil una
+manera de controller que puede ver a un
+problema es el detector en sus
+Contador's del agua no Avedon ningún
+consumo en una serie de horas y estamos
+estamos concrete amend en estos momentos
+plant a and o una serie de indica doors
+que nos permiten exceed air como
+sistemas de al ARMA a estas personas
+mayor des des enticing go a knows
+Segundo lamento en estos momentos
+estamos en face de studio Valencia
+estamos cami Ando las líneas de
+autobús de la he met a concrete Ament a
+yo Soto's tenemos
+perfectamente identification las
+entradas en cada una de las Paradas
+pero no tenemos identificado Mo's logic
+o las salinas de ESO se puede ver con
+con grandes datos y estamos trabajando
+concrete Ament a este tema para poder
+Optimas r-las para las líneas de
+autobús las parada de autobús hacen en
+el Tercero que estamos poniendo marchan
+estos momentos Yo no lo tengo me or Dana
+door por que tiene que modernization
+poquito es digamos una gestion concreted
+a los datos de león tommy ento en el
+cual se puede que determine hacer we do
+question a problemas para invert ero say
+PO detect arcade rose-red me co-tenant
+Polhemus de TRO tipo yo se yo bro case
+entrées ejemplos de como puedes pero I
+sin duda mucho más ya me any petty
+importante man tener la mayoría de los
+datos null cm portion pero si la in
+Mensa my area porque seguro que si por
+mi cabeza pasado tres aplicaciones
+Possible's por la cabeza días en dos
+menos de valència pasaron muchas más y
+mucho más importantes de las que yo
+poda a máquina
+fantastico muchisimas gracias so we do
+so examples of technology being used to
+help people as the water service hee hee
+hee Joos mentioned and also he mentioned
+on the use of data on transport humble
+are I mentioned the other day when we
+were talking that Amazon is taking care
+of transport of London data and could
+you share a little bit and that
+experience yeah transfer for London is
+the tool that most Londoners but also
+BCT in London visitors used to plan
+their trips so transfer from London is a
+BBC website imagine they have 24 million
+journey plans birthday & dicie's this is
+a stable workload day-in day-out
+but when for instance weather events
+happen unexpectedly they use and the
+access to the website is is gigantic
+we detected Peaks up to 17,000
+access per second in the case of
+unexpected snowfalls so all citizens
+trying to to reach out to the web to see
+what's the best way to to get back home
+so we provide the cloud infrastructure
+for transfer from London to to run this
+website so to accommodate these Peaks
+off I would take beer chili unlimited
+the workload instantaneously but also
+collect and analyze these data and that
+one one drinks resting thing I want to
+highlight of transfer for London that
+also Chicago is doing who also runs the
+open air grid Chicago on AWS is they are
+packaged in their services as
+infrastructure and offering it to the
+public as part of the Amazon Web
+Services marketplace so developers as
+much people in the city or in the world
+can develop solutions that can
+compliment and reach what the city is
+doing and I think parts of the beauties
+not only providing the infrastructure
+service to the cloud it with a website
+providing the cloud
+enabling the ecosystem where all the
+talent in the city and across the world
+can bring more value to this city
+solutions perfect thank you very much -
+there's a question here for dr. Asha
+about blockchain how do you is you how
+are you using blockchain in this smart
+city strategy you are hearing in in
+Dubai yeah actually we just launched our
+blockchain strategy end of 2016 we're in
+the strategy is built in three pillars
+government efficiency industry creation
+and international leadership our target
+is to have our government fully powered
+by blockchain by 2020 where and all the
+sufficient services government services
+will be on top of blockchain so what we
+believe is that today with the
+blockchain we can reorganize our
+operation and cities providing a much
+secure a platform and that's what we are
+doing it in Dubai alhamdulillah today we
+we launched our platform where in all
+our strategic partners government
+entities start to pilot several use
+cases such as Land Department who
+launched their real estate blockchain
+network just a few weeks ago and now all
+their land registries happen on top of
+blockchain also another example for
+implementing blockchain is implementing
+settlement a reconciliation between
+backs a bank accounts on top of
+blockchain and today all the government
+entities the reconciliation of their
+bank accounts has happened on top of
+blockchain through our also accelerator
+programs and Dubai blockchain challenge
+we have made you buy into the testing
+bed of blockchain technologies startups
+across the world sorta for more than 30
+countries are flying every day to Dubai
+every week we have an event around
+blockchain which made you buy the half
+of this
+new nascent technology we believe that
+blockchain will be the new internet of
+transactions that they call it that
+government can utilize to improve their
+services and become more efficient thank
+you thank you very much max there are
+some questions for for you around here
+and also we've been told that you have
+good examples to share with with with us
+on things that you've done in Buenos
+ideas things that you've done on smart
+lighting traffic management could you
+share a little bit on that yeah things
+that people will be able to see in your
+stand as well yeah absolutely
+so first of all a lot of the things that
+we do and I think Phil are mentioned as
+well is we work with partners we work
+with the local city ecosystem and the
+startups we enable that ecosystem
+because that is one of the objectives of
+the city leaders that that we work with
+to enable and grow the knowledge locally
+in Buenos Aires for instance we work
+with Philips on the smart lighting thing
+we work with local partners on storm
+drain management and that was actually a
+big impact life-saving impact they
+implemented sensors on over 30,000 storm
+drains and if you've been to Buenos
+Aires it's close to Rio de la Plata so
+when it rains there's many areas that
+are at risk of flooding by monitoring
+the risk of certain storm drain being
+clogged by waste and debris the city
+could make practical decision like
+ending waste collection for a couple of
+days to avoid that waste would go into
+the storm drains alert certain neighbors
+of the city to avoid damage
+and it was pretty dramatic from one year
+to the next it was a couple of dozen
+lives that were saved because they could
+prevent the flooding in terms of traffic
+we've worked with cities like Nanjing we
+have examples that are both in terms of
+what we call our city digital boardroom
+cities and city leaders are able to see
+traffic patterns but most importantly
+use the insights from all of that data
+to make decisions like applying or
+thinking applying dynamic fares for
+taxis in certain areas of the cities
+based on a traffic or dynamic fares to
+public transport while keeping equality
+and inclusion in mind
+so those are some of the examples you
+know the EPI to share more if there are
+more questions thank you thank you max I
+think this these illustrates the beauty
+of the collaboration and the and the
+richness of the ecosystem because the
+solution that you're mentioning they
+Philips City touch the infrastructure is
+AWS it runs on AWS cloud and it's
+implemented in more than 600 cities
+worldwide you mentioned we know site is
+Los Angeles the world so this is a
+perfect example were bringing different
+components you haven't ready to deploy a
+solution which is already proved you'll
+are following on since you take you took
+the world there's always a question and
+it's somewhere also in this tablet but
+but also always and those underst desert
+city has to build his own infrastructure
+on smart cities or there's an
+opportunity to build global
+infrastructure which is I know your
+answer but could you share why it's
+important to share those platforms
+instead of building your own platform
+yeah
+well as I as I mentioned earlier there
+is a factor of speed and agility that it
+is very important because speed and
+agility
+allow you to
+minimize the risk minimize the cost and
+innovation the successful innovation
+needs to be cheap if you have to be the
+huge infrastructure upfront to prove or
+to implement a new project that you
+don't know how it will work if it fails
+then you have a big burden that it is
+very very difficult to overcome so we
+believe that having zero cost upfront
+the agility and ability to deploy
+infrastructure as you need and pay for
+only what you're using is a huge help
+and a huge enabler of innovation so this
+is this is number one secondly we see
+the scale because what we're talking is
+about data we're talking data coming
+from sensors huge amount of data we are
+talking data coming from our internal
+systems we are talking data coming from
+from us people are more and more
+becoming human sensors in ourselves
+providing data to the city's open data
+social so this is such a scale that you
+also have to look at the efficiencies
+and the economies and the security as
+well so all these factors combined are
+present on cloud and this is the
+infrastructure we believe sells best the
+needs of agility speed pace of
+innovation scalability cost of ownership
+all also being greener there are studies
+that say that a cloud infrastructure is
+88% more efficient from an energy
+perspective than on-prem data centers
+90% more reliable there are many many
+statistics and data after all the
+millions of customers that are running
+on cloud nowadays so glad to share with
+you more details as we present later on
+the booth thank you thank you pillar
+tendons from
+and you you come from a city which you
+mentioned is a successful city yes big
+Airport and Olympic city big
+multinationals based there and but
+success in cities as John also knows and
+Barcelona knows creates externalities on
+affordability on inequality our on those
+kind of things and you mentioned that
+you as a strategy are focused on
+equality and as are focused on
+affordability could you tell us how data
+helped on this strategy how building an
+affordable city on housing contracts
+port on how to build a more equal City
+how are you facing those those
+challenges in Atlanta well we find that
+when you have a lot of success it's it's
+wonderful on one side but it can also be
+detrimental on the other side especially
+with the residents who've lived there
+for many years and who have basically
+paved the way for the success that
+Atlanta has been experiencing since the
+Olympics we have found and we have
+attracted lots of headquarters Atlanta
+has one of the highest number of fortune
+500 companies in our country and while
+we are very excited about that as well
+as the success of our airport we do find
+that those residents are having a
+challenge keeping up with the pace
+financially economically as well as with
+transportation we have a commission
+called the Atlanta Regional Commission
+which provides data to the city of
+Atlanta in terms of where those pockets
+of people are and traditionally we know
+where where those people lie in terms of
+those people who are able to afford as
+well as those people who are unable to
+afford the successes and what's
+happening with the city of Atlanta
+they generally lie below our interstate
+which pretty much dissects the top
+portion of the city versus the bottom
+portion of our city and the bottom
+portion of our city typically has less
+of an opportunity than the top portion
+of our city so we look at the data
+the Atlanta Regional Commission presents
+to us and see where we can supplement
+those resources for those economic
+neighborhoods that are being challenged
+but we also look at it not just in terms
+of the financial component but also
+transportation and how we can plan
+smartly with connecting people with
+transportation with jobs we also find
+that there's a disconnect between jobs
+in between those people who are in those
+areas below what we call intersect and
+enter interstate 20 which again dissects
+the city of Atlanta from the north north
+portion to the southern portion just
+last year the city of Atlanta voters
+voted to expand our transit system it's
+a two point six billion dollar
+transportation expansion of our Martyr
+service which will allow and connect so
+our issue is also about equity but it's
+also about transportation connectivity
+and this will allow us to connect people
+with the jobs so that the disparity
+economically can be bridged between
+those two sectors okay thank you thank
+you very much so we have many many
+questions here I'm trying to mix them up
+the most voted question with 20 votes I
+think that should be answered by one
+River that's saying with so many
+competing priorities that a city may
+have what should be city's first
+priority towards being a smart city
+college lab principal contentious period
+a days cholesteral to and to measure the
+alcalde
+college la la principal in el sentido
+the smart cities buena vista previa and
+sealer in 10 Torino in
+vamos a ver yo creo que su muchas la
+primera still low fundamental son las
+personas yo creo que que los elementos
+que define a las personas por ESO
+nosotros estamos preston Doel máximo de
+attention a todos aquí los elementos
+que de alguna manera pueden mejorar la
+calidad de vida la calidad de los
+servicios que effect on directamente a
+las personas y los servicios sociales el
+segundo lamento yo Rakim especial
+Segundo lamento para nosotros el tema de
+la Movida NOS parece muy importante por
+star por una Moneda sustainable even in
+Girona see de donde el único do say de
+el coche bravados pasado un nuevo en el
+cual en la ciudad a post ahmo's una
+Moneda Austin is late amanada mythically
+de el transporte público como Elemento
+no Chico en este momento todas las
+aplicaciones que estamos de sorondo
+cualquier persona en su teléfono móvil
+puede saber que que busca hair quanto
+quanto tarde el autobús que bicicleta
+poder donde la bodega
+etc tetra cuáles son tambien Cindy's
+Okocha privado en la situación in k
+momento estar a son a satyr Odyssey
+Terra Nostra des elementos fundamentals
+por lo tanto insist en dough el tema de
+todas las aplicaciones Annabelle de
+servicio sociales altima de la Movida
+para nosotros ariane dos de los
+alimentos priori terrorism brado masked
+a mysterious muchas gracias
+des a question I guess for for erisa
+also got 20 votes and was promoted by
+Jorge and they say how to involve people
+in smart Serie A citizens users or
+creators of a smart Siri can you deliver
+happiness to series to series answer yes
+smart cities and focused on people it's
+become very successfully stories today
+what we should the promised as smart
+city leaders is to provide those
+efficient seamless safe and impactful
+and happy experience for every resident
+or visitor to our cities for example in
+Dubai we have a city experience lamp
+where people are invited to do
+sign with us all these experiences
+whether be an entrepreneur or a mother
+or even a city a planner to give them
+these tools whether we again sound box
+around sand books around the block chain
+or to give them some sensors implemented
+around their areas and start collecting
+data and teach them how to value the
+data and what to do with these data's to
+give them tools around analyzing this
+data and populated populating them in
+dashboards so when it's come to
+happiness again also an Dubai we have we
+launched what we call the happiness
+agenda which sit on top of our small
+city strategy we need to discover our
+people happiness and once we discover
+their needs because today my happiness
+is different than your happiness Mathieu
+on from the happiness of the people in
+Atlanta so once we discover our people
+needs and then we go back and sit and
+change all our all our policies and
+systems and we don't talk about
+technology but it's about how how can we
+really change our behavior toward
+fulfilling these needs of our people and
+then educate people that happiness is
+attainable once they understand their
+needs and then at that asked or to
+finish this ecosystem to measure the
+happiness today in Dubai we have more
+than 1,000 touch point in our city to
+imagine people happiness where and
+people can say how was how how were
+their experiences in our city thank you
+thank you and there's a question direct
+to max from Murray that got three votes
+she asks if future cities are discussed
+at technology conferences how can people
+outside technology be part of the
+discussion that is a it is a very
+important question
+and the answer is smart cities are
+enabled by technology but they're not
+about technology right smart cities
+about using the technology in a smart
+way to make life easier for the season
+to access services to enable the mayor
+or the city manager to make better
+decisions you have a limited budget in
+many cases where do you put your
+priorities and by looking at the data
+you can do a better job and by
+leveraging the capabilities of
+technology companies of local academic
+institutions of a lot of smart people in
+the government it is possible to
+leverage technology that way then if we
+talk about inclusion in borrow broader
+terms technology has made a lot of
+progress I work for a technology company
+that's been there 40 years and we add a
+reputation for not being super user
+friendly to begin with but we have
+invested a lot to make that interface
+much better and we have applied that to
+mobile apps to websites and and so forth
+and so on
+okay thank you we still have about five
+minutes if anyone instead of using this
+tool wants to raise a question please
+stand up meanwhile I will be keeping and
+them answering some of the questions you
+have is there anyone willing to show his
+face her face not just that someone
+there please say your name and where you
+come from and be brief doesn't work yes
+yes okay I'm Luis Rodriguez I'm coming
+from France and the question was for the
+mayor for John Sequoia Thielen is
+pioneer a join is to Avenal aplicación
+up valencia mientras Alamos es lo bueno
+de la tecnología case interact Eva a me
+del cuenta de que es una forma de pasar
+Ella
+Afiya multiple application sk detrás de
+diferentes componentes provisos muchos
+de ellos la pregunta es usted tiene una
+visión clara de qual tiene que ser el
+servicio capital a municipal de trenton
+antes de pasar actors alternate Evo's
+mess especially Stas SS la primera
+pregunta a la segunda equality
+presupuesto global de la aplicación
+valencia con telefónica mpa Gunda no me
+acuerdo por lo tanto no se lo puedo
+decir en este momento yo tengo aquí
+concrete Ament en el sistema para poder
+sell o decir la primera ce que lo
+tenemos Claro nosotros queremos facility
+r el máximo de datos
+in abierto a toda la ciudad Aniyah come
+on say abre visto en aplicación
+hypericin nagging cantidad de datos y
+okay son los datos más importantes a
+los que se pueden friend our cualquiera
+que viven Valencia que estén Valencia
+Shakira displace our say por la ciudad y
+broke a son datos de interaction de
+multiples de multiples end amen dos y
+comentar luna preoccupation no say no
+sabemos que in Valencia muchas personas
+con en una prisa digital de esto no
+successively caso no spray Guba que
+tenemos que llegar a a veces a Travis de
+Contador ace de agua travis otro system
+s totalmente en directors pero para
+nosotros es muy importante que la amends
+Amaya ria de los datos sein effects
+accessible estaba tilted vania y una
+manera evident Amenti tambien arrow son
+pero la empresa y permit a
+Jana Moses / en algunas pennies en este
+sentido muy creativa permit a que muchas
+personas piensa en la parte de Sol datos
+en de cerrar aplicaciones mess mess
+maternal moreno vadas matt intelligente
+z-- y que indefinite even podemos a
+banter any last question there yes my
+name is Rodrigo I'm coming from Brazil
+we are from guardo's where lose is the
+largest non capital city in South
+America with 1.5 million people we're
+starting all our projects for a smart
+city with the illumination PPP what we
+call which is a public and
+private partnership it's an investment
+around 500 million hey ice which is
+something about 150 million euros and
+this is the way we understood it would
+be good for us to start all the project
+for a smart city so and then from there
+we're going for mobility we're going for
+security and so on
+so my question go for all of you even
+from the public sector and also the
+private what's the best way to to
+empower citizens through a smart city
+project without having money
+so let me since we don't have much time
+I will ask this question to be answered
+by Pilar well definitely each city is is
+an unique case and each city has
+different needs and different
+circumstances different environment but
+what we see across the world is the most
+successful smart city initiatives start
+by what we mentioned already which is
+the people and having a very clear
+understanding on what are the most
+important priorities for that specific
+city and then and this helps me also
+build the my wrap-up message here is to
+start with proven best practices so it's
+much cheaper to start with solutions
+that are already off the shelf and are
+already working and there are multiple
+references and have already been proved
+a start trying them in a zero upfront
+investment and that then starts growing
+from there then building a big big
+project with an uncertain outcome so
+that would be my recommendation start
+with your day unique key priorities for
+your city and start with proven
+solutions and very very specific areas
+thank you thank you very much and I'm
+gonna fight in our city thank you thank
+you thank you
+the question was was was great to finish
+this session I don't know if everyone
+agrees with what tiller said one CEO
+Cadia CEO Korea commenter respecto
+concrete cement alt Madara un grado
+Valencia es una capital K assume no
+Sonia Sara precinct Amenti de las
+Grande's campiones del mundo en kendama
+nación lo minica yeh Mo's anisia un
+proceso muy Serio de reducción de esta
+kendama nación you know de los
+alimentos en donde tenemos la plata
+forma valencia intelligente s
+precisamente esto en este momento para
+empezar porque no Mo's terminado estamos
+ya monetary Sandow en tiempo real el
+estado de los padres electric owes el
+estado de las líneas alimentation no
+sear mentor otras cosas para prevenir
+possible robos name material de cobre
+metal semi precioso estos momentos el
+estado de ferrol a luminary azita me n
+el consume you de Activa reactive ax en
+todas son elementos que yo creo que NOS
+Astana you don dough yo Oh stammers no
+Tondo en Elder sin so significative o de
+los Costas delegate one ting here matee
+o without a leadership and without a
+proper collaboration between all the
+city
+stakeholder there wouldn't be any smart
+city so these are the main fundamental
+elements for any smart cities fantastic
+closing for this session we are monitor
+eyes a second-by-second we are one
+minute and a half out of the of the time
+so let's let's close the session here
+let's give a big applause to the
+speakers
+[Applause]
+

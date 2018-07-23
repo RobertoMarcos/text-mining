@@ -1,0 +1,1403 @@
+Title: Common Standards Boosting the Digital Transformation of Cities
+ 
+Subject: Data Drive cities 
+
+* Data AndTech
+
+Abstract: 
+
+Data analysis and ICT are improving the way cities operate and creating stronger civic connection with citizens. Yet they also bring some complexities. While there is a different route for each community, a common language is essential in providing better services. What are the standards to be put together to fulfill each city’s vision? How to ensure that common standards are adopted to effectively respond to urban challenges and enable replicability?
+Speakers: 
+
+Dimitri Zenghelis
+Miguel Gamiño
+Sajeesh Kumar
+Theo Blackwell
+Tim Turitto 
+Martin Powell
+
+Conference: 
+
+good morning and welcome it's good to
+see a packed room on the first day of
+the smart cities Expo here in Barcelona
+my name is Martin Prince Cove I'm your
+moderator and host for today and I'm
+quite excited to be here with the
+colleagues to be discussing one of I
+think the key if not the key to
+unlocking the values and overcoming the
+challenges in this digital
+transformation so as you I believe would
+all agree being here the smart cities
+Expo cities actually have a crucial role
+especially when we decide what works and
+what doesn't work
+so before we go into any more detail
+please come come to the forefront I
+think there's still a couple of seats
+seats left let me just give you the
+practical context for our one-hour
+session today you all have the app right
+so this is an interactive session we
+will get some interventions from our
+speakers and then we would like to have
+a conversation with you so please ask
+questions using the ask and vote system
+or you can just essentially raise your
+hand and walk to their sides where their
+microphones we can still do like the the
+non digitally facilitated version so
+this is my ambition that we can have
+some key positions from the speakers and
+then a conversation because that's
+actually what we need right we don't
+need more standards you all know you
+know all the gazillion standards that
+are out there trying to croc what is a
+city what is a region what is the
+relationship between the big global
+digital dynamics and the action on the
+ground the local economic development
+the identity
+the connections between regions nation
+states we have it all so the task for
+the standards should be to unlock all
+the potential that is in there without
+completely removing all the fabric or
+the cultural the geographic the economic
+fabric that cities and regions and
+societies they manifest so I'm very
+happy to invite our speakers on stage so
+please they may have son son there mara
+Maya please come on stage we have here
+David osmotic from Etsy Saco from NIST
+Tilo from Roland Berger and just so I
+don't forget anyone kwang-ho
+from the fire foundation so I think a
+perfect line up when you want to talk
+about who will come together to make
+this happening its global it's from the
+demand side so the Civic side the city's
+it is from the supply side from the
+companies clearly the idea is to create
+a market but on which terms and for whom
+so let's have some positions here excuse
+me and let's have a conversation
+thank you very much and let's welcome
+onto the stage the mayor of Santander
+please
+[Applause]
+poor boy Werner Diaz muchisimas gracias
+a poor our loss la oportunidad Selassie
+de santander de estar en este press
+tears open le de poder tambien explicar
+nuestra experiencia de ciudad y como
+alcalde suppose manifest our mishear tow
+des conocimiento de la tecnología
+Anabella street Ament a tecnico pero si
+la seguridad de que puedo a port are a
+defender el papel que los gobierno slow
+calles tienen en el desarrollo de
+cidades intelligente sell pop el que
+tenemos la transformación digital la
+conciencia fiown a low speed add a nose
+también y ella optimisation del oro
+cursos oh la mejora de la calidad de
+vida de los Santander Dinos que es lo
+que NOS lo que no so Koopa tambien me
+gustaría habla es un poco de Mesilla
+das en primer lugar Santander es una
+ciudad que está al Norte de d'espagne
+es una ciudad se cos Terra que estaban
+ya de por una de las leyes mess mia's
+del mundo al prestigious okhla Cunha
+comment' a / 10 Sen Tian cuenta cidades
+Cuyo plan a strategy co nos dicen que
+son dos lo se pilaris fundamentals
+gracias Odo's las oportunidades de
+negocio una es la innovation la otra la
+cultura con la innovation hemos
+intentado a estar en un momento de
+crisis economic an Espanola estaba
+cambion dole Modelo productive oh no
+somos posición Oddo como la tour
+laboratorio or bono
+y como do busca Mo's la mejora en los
+servicios alsa da da no tambien vamos a
+mencionar los aspectos caved in da la da
+fiown destined raise abierto x' FM
+playas ando los desde lambie toda la sto
+no allistic adel acid add a comparison
+con los datos P up tenemos de la ciudad
+Santander como digo es una few death and
+donde los sonidos como smurfy t.server
+Montana Lana dos mil EF gracias Aldous
+Arroyo del proyecto que tiene como
+objetivo crear una infrastructure ax
+única para la experimentation a par at
+stre valid our technology Isuzu
+soluciones del internet de las cosas en
+el ambi toda la ciudad es la experiencia
+smurfette inácio nelio goes mildy air
+con una Fortaleza junto con la una de
+Universidad de Cantabria donde NOS
+posición ahmo's como laboratorio Urbano
+yen donde poco a poco introduce emos la
+tecnología
+en los diferentes servicios esto NOS de
+una obtain sein de datos nos da una Rick
+essa te conocí Mentos pero es cierto ya
+dia de hoy estan totalmente a lado son
+vertical A's
+el reto que tenemos actualmente El Paso
+que tenemos actualmente es ella
+plataforma es Marcy t ake we're a Mose
+integra todos los servicios queremos
+tener una una Co repository o de datos
+para que me Deonte los cuadros de
+contrôle podemos ayudar Oh nos podemos
+ayudar assess E&R; estas decisiones a dia
+de la ciudad Santander como Diigo como
+laboratorio or bono somos capacity a
+actualmente de tener permeabilities M
+Barrios M pocos pero en varios de estas
+vertically spora hemp lo tenemos un
+proyecto el synchronicity donde su Mo's
+capacitor dispiay del tráfico ro dah
+doe infusion de tres para metros ya que
+pueden ser la congestión de el propio
+tráfico
+las say Misiones desi dos o el ruido
+también tenemos otra aplicación en la
+ciudad en donde la la recogida day
+recede Oso Ladouceur Bono's también el
+stock rusada con el tráfico Cola
+temperatura econ nivel de nada por ESO
+podemos Optimas are estos DOS servicios
+con men seed O's de Gras transformación
+digital de las t da days es complicado
+aboard our la de una sola des Santander
+nd hace años que Mo's comenzado a promo
+Burrell adoption de las tecnologías de
+la información en las comunicaciones
+Ella Mae or parte de los servicios de
+nosotros en la otro smelter sa entrance
+emos Anoop leo
+municipal el de la recogida diverse egos
+cubanos VII intrusion de la tecnología
+sin embargo todos estos s for foes
+Cimmerian de poco
+samasya den player la tecnología no
+cigar antes hace que esta bah a facility
+la interaction de los diferentes process
+OHS yah gente zkk a participant al
+ecosystem Urbano una de las cuevas es la
+nación de estándares komen meant a
+acepted OHS interoperable z-- k facility
+n el des Vanessa me n toda Rose
+traditional ceelo's Kyong characterize
+ah de nuestra cidade ew servicios estas
+de menos de una de cada hora mismo
+santander tenemos transformed odd oh
+yeah la mayoría de los servicios de la
+austin del agua la st own de recede OC
+limpieza v area los parque say Hardiness
+la energía la gestion del tráfico y
+semaphore iike la gestion de los
+apartamentos de los servicios de
+emergencia todos ellos con una visión
+de poder en el futuro real-life Arunas
+gestion integral de la ciudad gracias
+esse plataforma s Marcie TK Lisa dicho
+en la pelea de santander de la mano de
+telefónica in ech a comenzado la
+implantation de su plataforma smurf ET
+que permitted a really fair una sto no
+allistic a de la ciudad y discipline
+forma estaba sada impressed and our dia
+existences la intervation de los datos
+de los servicios e system s municipal s
+SE está allá fondo utilize on domo de
+los de datos communes basado en caso
+relays hey Alma sonam en tow
+analytical a esta información nos per
+meter on un futuro implement our la
+inteligencia de la ciudad
+pudy endo realizar nuna gestion messi
+siente de los servicios de gestion
+global de toda ESA información relative
+a los para metros de operación de los
+servicios say present era conveniente
+mente informa de cuatro de mandos Cano
+objeto de caelo responsibles motif into
+municipal a's podamos toh Marla's
+decisions Meza propiedad en función de
+las necesidades de rigueur Tso's de cada
+momento otro aspecto fundamental
+relative a las ventajas que nos Bryn de
+los estándares Javier toes y que decir
+destacar en este intervention amana del
+papel que debe who are los datos y la
+maleta say she owned a los mismos en el
+ayuntamiento de santander a pasta Mo's
+clara meant a por las políticas de
+datos abierto x' muchos de esos datos
+kane principio
+son de consumo inter no para los
+servicios municipal ace Devon server
+tambien para stimula le cose sistema de
+em prenda me ento para que con la
+utilización de los datos se puede
+conseguir nuovo smo de los de negocio y
+desarrollo ago sir me coz aplicaciones
+yes Ervin demo tour de crecimiento
+Assamese MOCA be pensar que es a
+cantidad sin gente de datos debe servire
+para mobilizer una economía enter no
+allah scanty dades massive 'as de
+información que se general en el dia
+dia y para contributor tambien a
+rentable azar las inversiones cinephiles
+case elevado cabo en este sentido lado
+she owned estan trays interoperable see
+abierto x' debe ser para consul adano
+Sukho sistemas de innovation fatty list
+and hola co-creation en el sentido mess
+am priyo si promo viendo las actividades
+ligado x' al temp rendimiento renter r
+el papel clave a de las ciudades el
+beneficio TI en dia nadie se questi ona
+case in reducir la tecnología que NOS
+de fe ciencia efficacy ax y que además
+nos da a cierto en la toma dead officio
+nays el cambio de LC you da da no
+intended Oh Dez de las administratio nay
+say locales que ya no es un consumidor
+de políticas sino que es por los
+humidor a la vez consume a produce a yas
+del Lobo que él los datos chaser genera
+en una ciudad el analysis des owes datos
+y la Rica's adesso conocimiento tiene
+que llevar knows a go Dennard una manera
+predict eva por ESO si el defense hora
+en el ayuntamiento de santander del
+assess Marfa tease pero feel defense or
+itami n de estos foros de kono Femi ento
+ident enemy ento para llegar al knows
+Carlos Universalis muchas gracias
+super thanks which better way to start
+than with a poster child of how to do it
+a mayor who gets it and you know a full
+ecosystem wanting to look beyond the
+city borders so David here's a city that
+cares about common standards why should
+the stos why should the standards
+development organizations care about
+cities so perhaps you can give you a
+position on that
+good morning ladies and gentlemen first
+of all I just like to do a quick survey
+how many people in the room represents
+city municipalities and this other thing
+just raise your hand about half of the
+room and how many people represent the
+world of telecommunications ICT vendors
+and operators
+okay so 5050 okay of course and probably
+most of the people on that on the podium
+today I'm not going to bore you about
+the the world of standards I'm going to
+try and do the link between cities and
+standards obviously Etsy hopefully all
+of you know who we are where the
+standards people based in Europe but
+obviously with many projects all over
+the world I was very pleased to see
+Santander calling out successful
+standards such as fire way of 1m 2m and
+IRC sim which are relatively new
+developments it's very refreshing to
+have cities who are tech friendly and
+tech savvy what we also have to deal
+with our number of cities who don't
+really know what they want don't really
+know what they need and have to have
+some sort of dialogue with technology
+people and standards people so what I'm
+going to try and do here is do a little
+bit of the over the missing link if I
+can down the temple to find the down
+page there you go so today I'm trying to
+translate what we've heard from cities
+as they're mainly needs have a quick
+overview of smart city standards and
+there are many there are hundreds there
+are thousands there are millions some of
+them competing some of them completing
+so when you say to a city have you
+bought your standards today they'll say
+what is a standard why does it interest
+me and where do I get them from very big
+problem very big problem I'm going to
+give a very brief overview so I only
+have six minutes of some of the work
+happening in Etsy some of the standards
+bodies working on smart cities and then
+possibly how we can work quicker and
+better and wiser and save our time so
+we've had recently Etsy is all about
+telecoms ICT connectivity we worked on
+2g 3G 4G 5g radio technology all the
+basic you know telecom standards this is
+where we come from and recently we've
+seen a lot of our applications changing
+more automotive companies coming to us
+aeronautical industry coming to us and
+say we need the connectivity to help us
+with scenarios with salute
+with applications so Etsy standards
+world of Santa's I said well is moving
+up the pipe moving towards the
+application moving away from just the
+lower level of protocols in those
+advancements we actually go out and talk
+to our end-users that and some of those
+now being cities and we say what do you
+need what do you what do you have to
+have and many of them need the one thing
+that comes back is education we need to
+understand why we need standards we need
+to understand what standards are we need
+to understand the language you are using
+if I go into the depth of these slides
+you're going to find lots of horrible
+acronyms that nobody understands apart
+from me and my colleagues cities don't
+need to know that they need to know what
+is the value of a standard how will it
+help them deploy quickly how will it
+help them save money or spend wiser and
+how will it help them be better than
+their competitor which may be another
+city it may be another region so it
+really is about what is the advantage of
+standards also what are the main use
+cases so a city a town a rural area a
+farming district we can all call them as
+smart zones or smart areas is not just
+about cities with 1 million population
+plus plus is about the small town it's
+about the towns that are linked together
+to make a Metropole all of these want to
+be smart possibly I should stop stop
+using the word smart all of these want
+to be connected and deployed digital
+services to their citizens because at
+the end of the day that's what it's all
+about make your city digital deploy
+services to your existing citizens
+attract other citizens and attract
+industry you know you want investment in
+your town in your city in your farming
+area it's all about being better and
+more interactive than the neighboring
+town and also making your citizens feel
+feel at ease being able to get some form
+of KPI and we've already talked about
+the work happening in izo cities need to
+know how well they're doing compared to
+before the digitization and also
+compared to other cities so what are the
+key performance indicators or the
+measures to say this was a good
+investment is it a success it was a bad
+investment it's only saving me 5% and I
+could have done that by changing my
+processes also where can we be sure that
+the stand or the technology will work
+other technologies so interoperability
+at several layers already in the city
+can my my dustbin refuse collection my
+energy my water my transportation data
+be shared can i connect those networks
+together so already interoperability in
+the city or in the town and then between
+cities can I connect to my neighboring
+city just down the road with a bit of
+fiber-optic how can I expand how can I
+grow if they have a different data
+platform to me it won't work if they use
+different data semantic structures it
+won't work so it's really seeing and
+translating the ambitions of cities and
+helping them to understand where
+technology and standardized technology
+can help so it's really giving a road
+map also um how to use the best use
+cases so for some cities it will only be
+about energy saving for someone it all
+be about traffic for some it all be
+about tourism but in at the heart of
+that there is a core set of technologies
+and standards which need to be deployed
+with different priorities so helping
+cities to define their priorities and
+also how to allow acceleration so if you
+don't want to have the whole set of
+technologies maybe you just want a
+profile to enable you enable you to
+quickly deploy some technologies so
+having some standards profiling for
+refuse collection for energy savings for
+transportation that would be very useful
+for cities so those were some of the
+initial dialogues we had I'm not going
+to go into these slides and details but
+these are a few of the technologies that
+a city may have and they're probably out
+to date because there are new radio
+technologies every week there are new
+communication technologies the core
+network is evolving from 3G to 4G to 5g
+we're going to be slicing the core
+network we're going to be giving cities
+their own network slice to do things
+that the technology roadmap is changing
+very quickly but this at least Maps some
+of them and when you go up to us up to a
+city and say what have you thought about
+your your ADSL and your your plastic
+optical fiber they say just just just
+give me a service they don't want to
+know about the technology so again it's
+all about trying to translate this
+horrible spaghetti of technology into
+something that cities can use inside
+Etsy we have all of these groups working
+on technologies which are deployed in
+cities and I won't go into them but you
+can see it's a massive amount of
+that's work being done inside Etsy
+already which can be used in a standards
+environment this is probably I have one
+minute left I'm just going to leave this
+slide up there and talk to you about
+this
+it's brand new it's got a red sticker on
+it we've just created an is G an
+industry industry specification group
+inside Etsy to reply to this problem the
+problem statement being there's no one
+place inside Etsy si being an official
+standards body where cities can go and
+talk to somebody they don't know who to
+talk to if they go to a 3gpp meeting
+there's going to be a thousand delegates
+saying why are you talking to me they
+need a translation function to help them
+really express their needs in ICT
+express the problems they've had
+expressed the solutions they've found
+and share that between cities so all
+this group really wants to do is engage
+with the cities to ensure that they can
+come together with a standardized ICT
+roadmap and then help each other to
+deploy quickly smart solutions in the
+city and hopefully I'll leave that one
+up there and I'll end 30 minutes early
+for any questions thank you very much
+[Music]
+thank thank you David if not 30 minutes
+in at least 30 seconds so really really
+interesting to see here on stage
+actually those who get it
+mm-hmm excuse me and then the actual
+problem being how to share that
+knowledge so it becomes suddenly the
+technology is back rounded right so even
+though it's it's heavily depending on
+technology roadmaps actually the
+education around this seems to be a key
+so so cool from the American perspective
+or the North American aspect perspective
+I believe we have some of the kind of
+the same ambitions going on so perhaps
+we can return to how to we can then
+converge but perhaps first give the
+perspective from your side
+hello everybody nice to meet you by the
+way the picture I had over there look
+time very slim I'm not that's lame by
+the way as you can see so I am sorry I
+wore for National Institute of Standards
+and Technology which is part of the US
+Department of Commerce and we specialize
+in measurement science and also we
+specialize in standards now we work on I
+owe tea and smart cities obviously as a
+part of our efforts before I start
+talking about smart cities I want to
+talk about IOT a little bit because
+these two feels or these two expertise
+are closely related from smart city
+experts perspective IOT is a piece of
+equation from IOT perspective smart city
+is a one large application example all
+right so if you apply IOT to public
+sector that becomes a smart city IOT is
+a lot more than just connecting devices
+I mean probably a lot of you might think
+that IOT is about connectivity
+connecting sensors together that's just
+small piece of it IOT is about
+collecting data analyzing the data and
+tech action for data and then bring it
+down to actuation so that the whole
+feedback loop is completed that's what
+IOT is and then if you overlay or
+superimpose that concept onto a city
+that becomes a smart city and now when
+you talk about feedback loop
+it could be autonomous feedback but it
+could also be human in the loop maybe a
+person can make a decision or person can
+actually participate in the data
+collection process there was a long
+introduction to say to talk about the
+problems of smart cities as we have
+today we talk about smart cities and
+smart communities a lot but it's the
+extremely fragmented market and as you
+can see many cities are doing their own
+development deep deployments custom
+solutions custom tailored projects but
+after the project is over many these
+projects are not very sustainable and
+that's a big problem for smart city so
+in few
+we were promised to see exponential
+curve okay exponential meaning like this
+like hockey stick in reality what we are
+seeing is more of an incremental
+improvements it's getting better it's
+not like a we're seeing the overshoot
+okay why we believe the problem of those
+incremental improvement is because lack
+of replication everybody does their own
+thing but there is no clear agreed
+consensus on the best practices so if
+it's a worse situation for cities they
+cannot leverage each other's investment
+for companies they cannot create a
+product that can sell in millions all
+right so this is a deadlock situation so
+what do we need to do this is has been
+working on a program called the global
+city teams challenge with a goal to
+demonstrate three things replicability
+solutions that can be replicated in many
+cities not just one not just two but
+hundreds of cities around the world
+second scalability you want to create a
+solution that can go and deploy in
+real-world environment not just in the
+lab third sustainability this is more of
+a business case problem but if you have
+a funding to deploy sensors that's great
+good for you but after the funding is
+over cities has to take over that the
+problem that system and if you do not
+have a sustainable business model behind
+it you wanna go go for 50 years you're
+not gonna go for hundred years so we are
+trying to identify those best practices
+that can be replicated and scaled with a
+skilled and sustainable that provides
+tangible benefits this is important you
+can do whatever you want to do for fun
+but at the end of the day if the
+solution does not give you the real
+tangible benefits that you can feel then
+that solution is not gonna be able to be
+sustained on long term cities will not
+gonna like it at the end of the day
+cities are their city government is
+there to help the citizens now we also
+want to tackle cyber security and
+privacy issues very seriously
+that's why this is partnering with the
+US Department of Homeland Security
+Science and Technology Directorate to
+tackle this as a first-order concern not
+something that you add on later because
+you can add on later when's that
+something already goes wrong you heard
+this scenario so many times probably so
+how do we do this it's easier said than
+done this is how we do it instead of
+each city working with each company one
+by one we want to bring in multiple
+cities from all the world and we also
+want to bring in companies universities
+nonprofits that can provide a technical
+solutions and coalesce them around the
+common shared topics of interest
+autonomous vehicles traffic congestion
+issues renewable energy and public
+safety issues in water and energy and
+waste management issues whatever that
+comes out of this process will naturally
+be replicable
+because that is agreed on multiple state
+by multiple cities at least they was
+developed with a collaboration of
+multiple cities and will be sustainable
+because it will you know at the end of
+the day it will have to be beneficial to
+the to the general public now this
+cannot be done just by the US cities
+obviously there are a lot of cities
+outside of the US a lot of population
+living outside so we has to be done
+globally so once we have these teams of
+the projects we want to create something
+called the super clusters it's a
+coalescing these different different but
+to share the projects into certain
+sectors and we want to create something
+called the best practice blueprints
+which is going to be able to provide a
+jumpstart to the cities who are trying
+to do smart cities but doesn't know do
+not know where to start since 2014
+global City teams challenge has
+incubated over 200 action clusters
+across the world and over a hundred 60
+cities and over 400 companies university
+of participating now there are seven
+super clusters as you can see a
+transportation this is this is pretty
+well known sectors in smart cities and
+public safety utility wireless city data
+to more important supercluster data
+governance and privacy data governance
+and exchange it's becoming more and more
+important and also agriculture and rural
+area by the way when I talk about smart
+city it doesn't necessarily mean large
+cities there are a lot of people a lot
+of populations still living in rural and
+area with a lot of agriculture
+applications this smart solutions where
+the talk will be able to apply to those
+communities as well so as I mentioned it
+is important to look at privacy and
+cyber security issues as a main issue
+now it's extremely important to look at
+this as a first order concern not as a
+later add-on because if you keep at try
+to add cyber security layer it's not
+gonna be complete you're gonna you're
+not gonna end up with the best products
+the problem is not many players are
+aware of how to get involved so we
+partnered with the DHS S&T; NIST G CTC
+community brings in cities and the teams
+already incubated DHS has a lot of cyber
+security and privacy experts to bring
+that in and we are creating a new
+challenge called a smart and secure
+cities and communities challenge which
+is gonna kick off on February 6th at in
+Washington DC and you can find more
+information about it contact information
+you can send me email if you have any
+questions and you can go to website
+right on time is that so cool so we
+moved from the ground to the standards
+to the global now I have a question for
+the audience while mrs. L gets gets up
+to the podium how many in the room are
+involved in standards development all
+right how many are from cities involved
+in standards development one two three
+four five six
+not seven eight not too bad I I know of
+very few cities who have a department or
+even have you know know who who's the
+standards person because usually it's
+it's connected to the clusters is
+connected to the verticals but in fact
+what we're facing now is you know the
+convergence of all of this you mention
+it as as your one big application or you
+could say one big concern right one big
+mess so so how actually does it from the
+city side so you were the Etsy ambition
+also to address this and we're clearly
+seeing okay there's a mismatch of the
+organization around this and the job to
+be done right so one of the people who
+actually are consulting and you know
+helping to understand how can you then
+move forward from each side is you Tito
+so please your position and join the
+conversation thank you yeah thank you
+good morning everyone thanks Martin for
+the kind introduction and the organizers
+for the invitation so my name is still
+had said I'm a partner with Ron Berger
+some of you might know the company we
+are the the largest consulting firm of
+European origin in Europe I'm focusing
+mainly on work with government and
+government bodies for the last couple of
+years and there are in this field mainly
+on digital strategies and digital
+transformation of government bodies on a
+strategy site we have been working with
+national governments regional
+governments and also city and community
+governments on their digital strategies
+and that's obviously a topic which is
+very strong we just did a survey in
+Germany overall communities down to very
+small communities like a few thousand
+people only and 80 percent of those came
+back and said look we need a digital
+strategy so there is a big understanding
+globally and and in Europe as well on
+what we need a couple of four players
+that we can let's say learn from but our
+question was since a lot of companies
+and also cities are addressing us with
+your question okay this is a complex
+issue how do we address this and so it
+all starts with a strategy and then
+turns into at some point a business
+model so for example we are now advising
+a couple of companies as well who are
+providers of services in their market
+approach to smart cities we're also
+advising that say government-owned
+companies sometimes even national
+telecoms and on their strategy to turn
+actually actually actually countries
+into smart city hubs and develop this
+and today I will talk to you about some
+work we've been doing in the let's say
+more city oriented context and this
+study I brought also a couple of
+printouts little bit old-fashioned so we
+printed only I think fifty-one or fifty
+of them so a couple of us still there
+there everyone else can download it from
+our website
+and we did this survey last year with
+the simple question and see look
+everyone talks about smart city but what
+are the actual approaches that cities
+take to smart city so we compared about
+90 global smart city strategies I show
+you the picture right away I hope is
+readable so we actually looked what kind
+of smart cities are out there and try to
+analyze them in a more systematic way to
+learn from them to see where are good
+practices best practices maybe and what
+can be lets say derive from that kind of
+analysis obviously as we are consultants
+we use the framework to do that and so
+we build what we call the Roland drug a
+smart city strategy index which is built
+and based of some work we did with
+research institutes on a systematic
+let's say analyzing of smart city
+strategies down to large 70 or 80
+criteria in this free field so strategic
+planning action fields IT infrastructure
+the action fields can then again be
+broken down into six or seven different
+fields we're all basically all the smart
+city applications and services you might
+want to have find their focus so what
+came out of this analysis and this is
+the overall result globally so we put
+this into an index and said analyze the
+strategies in terms of how far are you
+addressing all these issues which are
+basically set in this index and the
+overall result was that out of this 80s
+seven strategies only let's say couple
+of them cut through a level of above 70
+most of them showed significant room for
+improvement in getting up to the par
+let's say of addressing the key issues
+that you need to address in terms of
+smart city strategies we do not publish
+the full list of rankings because if
+this work was not about being ranking or
+showing ranking
+and showing who was better who's worse
+we only show the top three results which
+are quite interesting for several
+reasons Vienna Chicago and Singapore you
+will find more details on the website
+and also in the study about why
+specifically those three cities stand
+out and I think Sunday I did not so bad
+either in the list I can say to the
+mayor next to me what is interesting
+just to give you a couple of insight the
+coverage of action fields is very
+different globally so most studies focus
+on mobility energy and environments and
+some on government key aspects for city
+like buildings education health are
+typically not addressed or quite let's
+say limited in their reach yet so that's
+something we need to work on yeah
+also we asked do you need to be big or
+do you need to be let's say rich to be
+beautiful in terms of your strategy the
+answers mostly no so you see that there
+are cities which have quite good
+strategies and are not typically a very
+big city or are typically rich cities so
+it doesn't need to be a big or very rich
+city to have a decent strategy here well
+the best practices are then broken down
+into the action fields and into the
+different segments of the of the index
+so you can in each let's say field and
+and even criteria find cities which are
+let's say in our view best practice
+examples you can learn from if you want
+to build a smart city
+strategy some conclusions I have three
+minutes left so from a best-practice
+perspective we draw like say 10
+conclusions on how a smart city strategy
+should be developed first of all in the
+course of developing a strategy this the
+role of the city and its administration
+and its services should be reevaluate we
+re-evaluated meaning maybe you should
+not ask what is the standard process and
+what is the digital version of that but
+what kind of services do you want to
+give to your citizens in the future and
+how can that be addressed by your smart
+city services second point is involve
+citizens business and other stakeholders
+it sounds simple but most people don't
+do it today you know so many start by
+talking to your stakeholder community
+talk to your community and also to the
+citizens itself so vienna has now
+sending a track record and specifically
+that aspect and I think it's very
+necessary in order to have a strategy
+that works out and is accepted also by
+your local community Third Point don't
+think only about a government we seeded
+specifically in Germany and also some
+other country that the digitalization
+strategies of cities focused on
+e-government solution that's typically
+not a very useful use case so think
+brought you think about the six actions
+fields we presented and can cover them
+as well as you can because there you see
+a lot of value added from such
+strategies now encourage self sustaining
+business models and I could now have a
+separate speech on business models alone
+that's basically most of the work we're
+doing right now for example in in
+Darmstadt which you know is the the
+winner of the the German contest on
+smart cities last year that we support
+in exactly that question they have set
+up a company basically taking care of
+smart city activities and the question
+is what kind of portfolio do we develop
+and what kind of business model do we
+run for smart cities services some are
+profitable some may be breaking even
+some may be something we have to sponsor
+as a city and how to orchestrate that
+how to build a business model that has a
+portfolio approach here is something
+which is I think reasonably reasonably
+new and the city arena to think that way
+and that's something you have to develop
+and the same holds true basically also
+for the private side the private sector
+parties which come to us through
+questions okay if I am energy producer
+how can I develop my own smart City
+business models and they shouldn't
+underestimate that in developing such a
+strategy okay data strategy data
+platform I think a couple of people have
+said and touched on that it's reasonably
+new to to to to have that and to look
+into that I'm sure is doing it something
+there I just learned it's doing that but
+it's still not a standard to say great
+we need this platform and we also need
+let's say data security cybersecurity
+right from the start otherwise it would
+not work
+finally involve your infrastructure
+operators is also not seems easy but a
+lot of cities don't know to not do that
+right a lot of public companies are
+there they have their own budgets their
+own business cases that can be applied
+and finally gain political backing and
+integrate public feedback into your
+activities and finally establish a
+coordinating body which has its own
+budget its own let's say strategic also
+input it can go into the diverse aspects
+that a smart city strategy has to cover
+I think that's it for today you can
+download the study you can do a self
+assessment if you want on your own
+silhouette city strategy if you want
+more than 1,000 people have done so
+already thank you very much for your
+attention super super interesting to see
+I would say this universe of case
+studies of course the question then begs
+what is the role of standards to align
+all of these things and we can come back
+to that convergence point so also
+interesting to see how many these are
+the numbers there's about what half a
+million cities out there but how many
+are bigger than 100 thousand four
+thousand more less right so I mean then
+they're not so many in fact so so by far
+the majority are not right so by far the
+majority of cities and communities are
+small and probably not the frontrunners
+so how can you even when you you know
+see the convergence in this landscape
+think already about how does this
+connect to these these let's say yeah
+other areas one for one of the persons
+who have actually then tried to put
+together an ecosystem that not only
+joins the different verticals but also
+works across different sizes and
+different geographies so from the fire
+web foundation give us your position
+having heard in a way the background so
+how do you operate in this space Thank
+You Martin
+so well this is the last presentation so
+I really focus it in a way that could
+work even as a wrap-up of some of the
+points that have already been mentioned
+before what is the path for success in
+boosting standards and so on well our
+vision is is summarized in these three
+main concepts and I think that is the
+important message that I wanted to
+deliver to you in this presentation
+first we need a vision second we need to
+move that vision into execution that is
+critical and last but not least we have
+to be able to consolidate results
+because otherwise we are not evolving
+over time so what about the vision well
+good news is that if we take into a
+consideration Q quite relevant
+initiatives in smart cities one led by
+series or driven by cities like the open
+and agile smart cities initiative
+another one more driven by industry or
+at least engaging quite a number of
+industry companies they have we are
+starting to you know this style a common
+vision on how a smart city should be and
+what kind of standards can be adopted in
+order to create this common market
+enabling Portability and
+interoperability of solutions so the osc
+initiative is an initiative that is
+currently engaging more than 100 cities
+in more than 22 countries all over the
+world green on adopting a minimum set of
+common mechanisms that would enable
+Portability and interoperability of
+solutions
+tn forum driving a reference
+architecture that aligns with those
+principles by the way the same that were
+defined by OSE may be moving a little
+bit step farther
+bringing concepts like support to the
+data economy and the notion of city as a
+platform what is common to both and I
+think this is kind of working as a glue
+is that fiber is route there as a
+technology that can be actually put in
+place to implement those principles what
+are those and the mission well first of
+all we need that cities bring
+infrastructure where data can be share a
+common space where you can break the
+silos of information because many cities
+today already have a lot of systems
+deployed solving problems specific
+challenges like waste management like
+traffic management and so on but those
+are better gas silos of information did
+it have to break those silos create a
+common layer well all these information
+share and then governance systems can be
+built on top so one of these mechanisms
+that cities are looking for and industry
+are looking for within the two
+initiatives that I mentioned about
+creating the standards for this common
+information layer and that is what fibre
+is bringing and these initiatives are
+adopting also common information models
+because we need to come up with the same
+vision of what we mean when we are
+talking about the streets about traffic
+about the pins about the people that are
+living in the city and creating this
+common lingua is essential for the
+portability of solutions so we need to
+move
+into the path going towards definition
+of common information models which will
+ultimately lead and allow Portability
+and interoperability of solutions
+the third element ingredient is that of
+being able to publish information
+because I think the value of an smarts
+it is not just a city that contains the
+data for the better management of the
+services it provides is about bringing
+part of this data and make it available
+to third parties so that they can create
+applications and run innovative
+solutions so data publication platforms
+and moving the open data approaches into
+right time open date approaches where
+you can release information but in real
+time about what's going on in the city
+become essential and creating common
+mechanisms common standards for cities
+in how this can be done is the way to
+move forward last but not least cities
+have to recognize that when describing
+what's going on in the city they do not
+have all the data some parties may have
+that data so how we can stimulate them
+to release that data and share it for
+the benefit of those who are creating
+solutions for the citizens for the
+business well that has to do a lot with
+the data economy of concept allowing
+companies organizations to release part
+of the data and why not monetize that
+data and even the cities may wish to get
+something in return of the data they
+they offer so bringing technologies to
+enable this becomes also a part of this
+vision towards a journey that would
+allow cities to evolve from where they
+are
+mostly today which is an area where yeah
+they are improving they're bringing
+efficient solutions but they have the
+opportunity to move towards the
+humming engines of growth enabling
+creation of innovative solutions this is
+the vision the vision is there now what
+we need is to move move into execution
+and for that we need to create what I
+call a Bertos simple a little simple
+where more and more cities are becoming
+part and adopting these mechanisms this
+extracting solutions providers to create
+solutions based on these common
+mechanisms and the ability of having
+many different solutions based on this
+common mechanisms competing will drive
+to creation of high quality solutions
+and those high quality solutions will
+move and create the incentives for more
+cities to join and this is the beautiful
+we need to create and where we are now
+and for that we need leadership
+leadership of cities that share that
+vision that have the resources and want
+to move into execution and lead the path
+C it is like Santander like malaga like
+bristol like Uhtred several cities are
+already in that move and together with
+the inform fibre foundation is launching
+this smart city s power Congress and
+initiative we call from run our smart
+cities looking for this series which are
+willing to lead the path so an
+invitation for you to worship that the
+improvement and ourselves running this
+Thursday there is information as a side
+event and website and those that want to
+learn more are invited to join
+finally ensure consolidation of results
+and this is where finally standard
+bodies like acting like itu-t come into
+place it's not only standardization
+bodies I think also is responsibility of
+organisations like the European
+Commission which are now creating
+recommendations about for instance what
+are the building blocks that are
+required for creating the connecting
+Europe facilities of the future this is
+the step that will come afterwards that
+we have to you know go step by step
+through the process I have just
+described in touch
+thank you thank you thank you very much
+ha also we have actually the whole I
+would say the whole universe here we
+have the people on the ground we have
+those who try to specify a standardized
+who who integrate and connect those who
+advise and those who try to actually
+build ecosystems around and I could say
+that there could have been other
+representatives but but this is the kind
+of stakeholders who are trying to make
+this happen so now let's have a
+discussion of how how do we connect
+these things how how do we get a
+convergence right so send your questions
+here we have 10 minutes for the for the
+dialogue and I'll take the first one
+here from Philip Pullman from a
+governance perspective which institution
+or organization is most suitable to set
+and oversee common standards ah ok so in
+fact I mean we do have the UN at some
+point they even have a focus group on
+dated processing and management for IOT
+in smart cities it takes all these
+streams in so maybe a question to go
+through the panel here and while you put
+more questions here or you can also
+raise your hand or go to stand before
+the microphone how do we get this
+convergence I mean from the city's
+perspective how do we get the market
+organized so you making your life more
+easy more efficient when you want to
+deliver good services to you to your
+citizens how so maybe you can there's a
+handheld mic yes you know yo creo que
+quieres de lo que se LOC TiVo final es
+que el Sodano Tenga cada vez mejor
+servicios yo creo que las ministration
+que los bomberos locales es el mejor
+laboratorio OS la mejor puesta Westin
+kagune lo que tenemos que tratar de lo
+que nosotros como ciudad se estamos en
+nuestros momentos es que todos los datos
+que por ser de una de las cidades
+intelligent Espeon eras po Santander
+loss position ahmo's como la verdad
+Terrier mano meda Mo's muchisimas cosas
+pero la necesidad factual SKS's cosas
+que pueden interrelation are una Cano
+Trejo siempre led volos Medanos que lo
+que sería maravilloso es que position
+di una Phua en el servicio de
+de agua de hasta cemento de agua
+inmediatamente los same afros say pong
+Gannon amber inmediatamente el tráfico
+say des via protract IA Nvidia Tom Entei
+el transporter bono tampoco pasa por ahi
+le puede Mandarin mensaje todos los
+llanos diciendo que vão ver un Corte de
+agua por avaria para ESO para para que
+eso Elsa da da no lo puedo ver lo que
+necesitamos es que todas estas vertical
+A's habla en el mismo idioma como si
+adichie Aki yo Eden interrelation r SE
+hace adonde que de mecir yo quiero poner
+en frente de los llanos diciendo que con
+el internet de las cosas que con la
+plataforma ET con la interpretación de
+los datos puedo ser predict eva puedo a
+del ant army a los problemas que tenga
+lasse acento SE creo que las
+ministration low-cal que los
+sentimientos que las NTAs locale en our
+cidades
+el mejor laboratory orchid are very good
+so passing the microphone to today with
+just reflecting so I mean one thing is
+to get all the mayor's on this level so
+you from the table you can you can
+organize on orchestrate it all I would
+say that's that's a good start so David
+Etsy a European organization how can the
+CDP and and the other initiatives how
+can you help support this convergence
+upwards and downwards and to the sides
+willing to answer to that very very
+frequent question there is no one
+standards body that will define a smites
+smart City for a municipality or a mayor
+or for a metric on there are multiple
+standards bodies Malta before multiple
+technologies so you have eyes oh I I tu
+an IEC
+send sound like Etsy you have fire where
+you have GSMA you have TM for that I
+have a lovely slide that shows a few of
+those standards bodies and the cities
+don't know who to talk to
+so the the the role of intelligence down
+as bodies is to simplify the language to
+water the city and also to ensure
+absolute corporal cooperation and
+collaboration between the standards
+bodies so Etsy is working with sin and
+sin like Etsy is working with eyes oh I
+see
+and ITU we're working with fire in
+sapphire where inside is juice in so
+it's forbid duplication and go towards
+collaboration cooperation
+once you have that simplified standards
+landscape you give it to the cities and
+them in a language which is simple to
+understand and that is the solution very
+easy to say almost impossible to do
+thank you so so the other side of the
+Atlantic could we please do the same or
+so a couple points that I want to make
+it very important points here first the
+problem is not the lack of standards
+there are so many centers out there
+almost too many the problem is the
+adoption of those standards okay so
+that's really important point to
+understand second smart city center is
+not same as other standards cities are
+deploying solutions with or without
+standards anyway right and they've been
+doing this for a long time so you cannot
+create a standard in a conference room
+even if you bring in 200 experts from
+the world but they think they are the
+experts in the Smart City standards
+whatever comes out of it will not gonna
+be adopted unless cities and companies
+and universities decide to adopt them so
+instead of trying to come up with the
+artificial standards you'd really have
+to look into what is being successfully
+deployed today and try to extract a
+common we call it distilling process you
+have to extract the commonality
+successful commonalities out of that and
+document them that's the way to do the
+standards in smart cities specific and
+IOT in general that's prima that's the
+message I have so which conference party
+should take care of it great question
+and then maybe to do miss the Celt how
+long do we have to wait I mean so so how
+do you where do we go if we want it now
+there's a big process going on in
+standardization and it's useful and we
+need to do it it's going to be a
+bottom-up process it will it will take
+time we don't have it yet and there's no
+single standard that you could apply is
+the trickles down into different action
+fields so that's why we need to work
+with heuristics for the time being
+that's one reason why we set up this
+strategic aspect and their strategic
+framework because for the time being as
+long as we don't have standards you need
+to orient yourself towards the best
+practices you need to see what segments
+do you need what need what do you need
+to cover what you could look at in terms
+of good examples and then you can be
+reasonably sure that you don't make a
+big
+mistake let's say yeah and this was this
+situation I think we'll take a couple of
+years until the standard bodies have
+done their work which is a which is a
+needed and serious work which will take
+some time until we can come up if some
+probably will not be one but a couple of
+standards that step are stable enough to
+be applied to someone who wants to
+address this as a new project right so
+from your perspective one we're trying
+to get the convergence how do you
+converge all the convergence efforts
+well I think so we mentioned something
+that is important which is adoption big
+what are the candidates standards that
+get adopted and there is where
+leadership is needed because we need the
+cities the cities that really go and say
+okay I will take the risk of adopting
+and betting on this particular standard
+and this is what we are indeed trying to
+do with initiatives like OLC withing TM
+phone with the support of Phi where we
+are betting on one way whether we will
+see it or not let's see but you have to
+go and and do this without waiting for
+the standards to come then following
+this driven by implementation approach
+we need to consolidate the results in
+the standardization bodies which is by
+the way something we are also doing with
+that G or idea T I think that is the way
+so so there is there is a few one ways
+which I mean so essentially what you're
+saying is it has to be driven by people
+doing things we cannot wait for the stos
+but then maybe that's not just one way
+as you said there there are certain ways
+to do that so hopefully they also at
+some point converge or we will have
+let's say a market where there are
+several ways while all the half-million
+cities aren't similar right so maybe we
+may even have different styles but at
+some point we might find the Wi-Fi or
+the USB or the simple ways to loosely
+connect some of this myths so that it
+won't just be a big concern but in fact
+be something that is improving our lives
+so those words I would like to ask you
+to give a final hand for the panel thank
+you for your participation and for
+sharing
+[Applause]
+

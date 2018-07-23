@@ -1,0 +1,1254 @@
+Title: Standards for Smart Cities
+ 
+Subject: Standards & Indications
+
+* Governance
+
+Abstract: 
+
+In a path towards smarter cities, standardization plays a key role by supporting the widespread adoption of common approaches and ensuring consistent outcomes as well as compatibility among technologies and services. Yet cities are complex and multi-dimensional systems, thus no single standards organization can provide everything needed. How can the standards world better collaborate to serve the needs of cities and their citizens to tackle common challenges?
+
+Speakers: 
+
+Katie Bird
+Daniel Martinez Villaamil
+Gao Sumei
+Frans Vreeswijk
+Chaesub Lee
+Sergio Mujica
+
+Conference: 
+okay good afternoon ladies and gentlemen
+I think we'll make a start apologies for
+being a few minutes late we had a few
+presentation issues but I think we're
+there now so just wait for everybody to
+take a seat on the stage
+okay so I think we'll make a start then
+thank you very much for attending this
+this session my name is Katie bird and
+I'll be moderating the session this
+afternoon the idea behind this panel is
+to explore the link between standards
+and smart cities and we're lucky enough
+to have some great experts up here on
+the panel with us today
+who'll be helping us out with this task
+and we have mr. Daniel Martinez the
+mayor of Montevideo miss Gauss who may
+the executive secretary general of the
+China electronics and information
+industry Alliance and the heads of the
+three leading international standards
+organizations mr. France reader ik from
+the IEC mr. Sethna Mujica from Izone and
+mr. chase herb lead from ITU so as I
+mentioned this panel is all about
+standards and smart cities so on the one
+hand we have standards which contain
+guidelines or best practice or
+specifications to ensure that things
+work well safely and efficiently and on
+the other hand we of course have our
+urban areas our cities who are facing
+many new and varied challenges today
+very varied anything from traffic
+mobility or fluidity to public
+transportation systems to ensuring that
+citizens have access to clean water or
+improving connectivity so our job here
+today is to explore how standards can
+support smart cities in facing some of
+these new challenges so I'd like to
+thank all of our panelists for agreeing
+to be part of this conversation and to
+thank you all for for joining us today
+so thank you thank you very much so just
+to give you a few practical notes as we
+progress through the session each of our
+speakers has a very short presentation
+and then we'll have a 15-minute question
+and answer session at
+and so some of you may know if you've
+attended other panels already during the
+day we actually have a tool that the
+organizers have given us to help out
+with that Q&A; session and this is an app
+on the app itself you can submit your
+questions there then visible to all of
+the participants and can be voted on and
+that allows me to know in the question
+and answer session
+which are the most popular questions so
+if you have the app installed on your
+phone you can go to the ask and vote
+part of the app find our session on
+there and then type away so you can ask
+a question at any time during the
+session but we'll ask them only at the
+end and of course don't panic if you
+don't have the app or you're not quite
+sure how it works we can also do
+questions the old-fashioned way and you
+can just put your hand up during the
+question-and-answer session and we'll
+cover as many of those as we can so just
+one final note before we get started we
+will be presenting in a couple of
+different languages here on the stage
+today so keep your headsets handy for
+the interpretation if you'll need okay
+so we don't have so much time today so
+without further ado I shall hand over to
+our first speaker mr. France
+lyric who is the general secretary and
+CEO of the IEC the International
+Electrotechnical Corporation so I will
+hand over
+so thank you very much Casey for the
+introduction good afternoon ladies and
+gentlemen I'm very happy and honored to
+be here and see such a full audience
+here today that's really great and I
+hope you'll have a good and lively
+discussion and as we can contribute here
+as speakers a lot to your understanding
+why standards matter for smart cities so
+power for cities is what I said cities
+they need electricity or everything and
+the IEC work provides the technical
+foundation for the millions of
+electrical and electronic systems and
+devices that are used in cities and I
+think I'm going to yes no hang on okay
+yes good next slide but first of all who
+knows the IEC may I see a show of hands
+yes yes yes okay good good but not
+everyone yet so I will say a few words
+about IEC the IEC is a global
+not-for-profit quasi-governmental
+organization that brings together 170
+countries representing 99 percent of the
+world population and 99 percent of the
+world electricity generation we publish
+international standards that fully
+satisfy the world trade technical
+barriers to trade agreements WTO TBT
+most countries in the world accepted
+products that are built and tested
+according to IEC standards the IEC
+provides a global platform and knowledge
+platform where some 20,000 experts
+volunteers from all over the world
+cooperates and they develop the
+international standards that are needed
+by the public and the private entities
+international standards are voluntary
+only governments can make them mandatory
+but they are voluntary
+there are consensus based technical
+documents that represent an agreed way
+of achieving the same outcome reliably
+time and again
+in over 200 technical committees these
+experts agree on the technical
+specifications the measurements the
+rating methodologies that allow millions
+of electronic and electric devices and
+systems to work together safely and
+efficiently
+these globally relevant international
+standards are then adopted in many
+countries around the world and for
+example close to 80 percent of the
+European standards are in fact IEC
+standards the IC also administers for
+conformity assessment systems whose
+members verify and certify that products
+fully qualify and they fulfill the
+quality the safety and the efficiency
+that the standards need to do so cities
+cities are giant systems with countless
+subsystems no two cities are alike or
+need the same solutions but all of them
+depend on electricity and hardware to
+move people and things around to collect
+data and exchange information it is
+impossible to build an efficient urban
+infrastructure without reliable energy
+access no electricity simply means no
+smart city and the IEC provides the
+majority of the international standards
+needed to safely interconnect and
+automates much of the city
+infrastructure that generates or uses
+the electricity and contains the
+electronics they opened the door to a
+larger choice of products and also
+facilitate long term maintenance and
+repair these benefits both the city and
+its citizens our work for the cities
+they cover it smart electrification and
+all forms of energy generation if you
+think about the electrical and
+electronic infrastructure for
+transportation which includes trains
+light railways tramps metro systems
+electric and hydrogen buses cars a
+scooters bikes cable cars etc supporting
+infrastructure which we cover for
+example in train and metro stations like
+lights displays and the turnstiles the
+ticketing machines the escalators
+everything and the majority of the
+electrical and electronic equipment that
+is used in airports they check in at
+luggage the conveyor systems to
+transport the tracking the runway
+lighting the security DX's control but
+also think about the vertical water
+management and here in this pictogram
+you see several of those verticals water
+management all the electronics and
+electrics the pumps the saves the valves
+the sensors the control systems it's all
+needed to have clean and recyclable
+water in a city without that there is
+simply no hygiene so we also supports
+with our standards the devices in
+systems that collect data including data
+centers computers fiber optic sensors as
+well as security and cyber security home
+and building automation household office
+supplies but also everything in the
+healthcare sector in hospitals in
+doctors offices think about prevention
+and diagnosis and treatment and then of
+course supermarkets the freezers delight
+Rick's delights the scanners everything
+we contribute to ensuring the safety of
+every living being the security of
+physical and virtual systems and the
+management of resources are much more
+and for all these reasons every smart
+city project should include IC standards
+and think about its purpose and its
+fulfillment there to achieve smart
+cities cooperation is a must and no
+longer optional why do we say that
+because we are here with three
+international standardization
+organizations and we have recognized the
+three of us that we need to cooperate
+and I see extensively cooperated many
+different stakeholder
+and standards organizations including
+consortium and fora from around the
+world our aim is to bring onboard
+know-how and expertise in a systems
+approach and to avoid duplication and
+this is also the reason why we initiated
+the first world smart city forum in
+Singapore last week in partnership with
+ISO and ITU so IAC work helps to power
+cities it contributes to 12 of the 17
+sustainable development goals of the UN
+and it helps to make the world a safer
+and more efficient place thank you for
+your attention
+okay thank you very much for sharing
+your thoughts on how electricity is
+obviously very much a kind of central
+theme for smart cities and of course the
+standards that go along with that so I'd
+now like to introduce our next speaker
+and this gal su Mei the executive
+secretary general of China's electronics
+and information industry alliance
+[Applause]
+Koel I be near my aha moment at Yamaha
+fish and oceania go change your shirt
+Tahu a surgeon can see true bang bang
+Kalavati Sueko geodesy way was SE suniye
+Terran guardianes sincere hi Aliannah
+Turpin sukiyaki pure she really the true
+ha Tangier a guitar is Ojeda I'm Hanna
+yo a lady and auntie Xiao Qian Gua to
+reach Hong Shi de father Sandra
+neuromodulation sheena serie de cochon
+watch hungry hon atresia jewish Hashanah
+yes a Buddha Juan de Santa Maria Tobias
+Erica
+Kamisha nigga sequía commenting gear
+sanguine quality gotcha true that
+transition - kanchanaburi Liliana
+- Joanna Kennelly you can fire a fancy
+or situation Jenna somewhere which
+Angela can say when Buddha sentient
+region Nami Senate amatriciana
+to an offense to Argentina Sangha nigga
+fine and Correa de ganar cha cha cha
+hwa-jung wanna go to de Jong state
+relationship I cannot you say Jon Secada
+to go home Nina the adalat in Buddhist
+Shiva cho jungseok oh yeah
+- hyah - aah - hissing - which one - the
+queen wise epoch
+- would you find changing one language
+and the power to mother our Dharma
+teachings of the truth Hana team would
+teach a lot to share too much aggression
+is a senior shinji show the company in
+europe nominee we understand fucker yes
+that team would quit him singing Jewish
+from GTA true holiday hero guy yeah but
+when I'm introduced without quitting to
+reach Hong sure your teeth and pocket
+didn't want a cacciucco ha
+Paco - Deepika yes that he truly our
+financial chavacano
+commercial attention to share my Samana
+how can you john deere singing - Oh John
+Cena yes channel I take up yoga
+transient relationship yoga teacher
+Chancellor full hand after you leave
+attrition electron water retention of
+important we did GT got Korea lambda
+Arabic Ariana Josh John Walker
+leadership and Hong Shi numata cry surah
+fatiha purusa sincere service revenge on
+Chicano to worship and country house in
+human emotion Hyuga Jewish agenda to go
+through WA our General Assembly in
+Chicago family Alejandro Falla govern
+the Medusa
+so our darling engine watch ok sergeant
+yada younger the insula just a chunk
+water to a traditional English were
+sensational curtisha pn d haha no meteor
+darling
+new offender shahe which engine 118 your
+little baggage ship fur girl passengers
+yo Sherwood a fortune Ishikawa initially
+oh the TCD juncture
+the master hominid Oh true holiday got
+chunks ha ha
+tickety ha Hosanna Dada lat
+Shama yeah she's sure the ark occurred
+yet no Matisse
+this angered Coriana to share too much
+of a traditional change in general are
+Galician fact at the scene Deirdre wish
+mrs. Marsh wanna give me two more to
+attend her party at her she artfulness
+samples Oh number tu PO - Johanna hi
+guys for sure you got Shibuya numbers I
+take a Sienna to our society Alicia
+could Georgia thanks Rhonda you should
+try sounding yet since you ha since you
+had to take attention non pyramid Rhonda
+to our tanks what yeah I'm sick I'm not
+sure I should congratulate a cat inside
+you should I do I think your teacher
+should ensure the mamo-chan I said on
+some PRT I shan't insanity against an
+idea
+RJ not sure yoga contractual genre
+chigga chigga chung chigga chigga chigga
+chigga chigga chung chigga chigga chung
+hua hai OCC de kinshasa
+Lamia do rah woman tiempo need your
+mightiness sitting she's young chung
+chigga chung here the madam Jami Gina
+sure sure - mwah - chewy joke women
+agents agua la Li Wang Yi ran away I
+don't wanna to watch consider change to
+the fire at an apartment essentially
+Charlotte sung soo father
+darling healing and AHA - mwah - 800
+shrunk Ramona sound tada
+Shri Balaji's were yo yahushua
+- mother - 800 mutiny in generally go
+quite so far did you go - I should have
+Quinn what is that - motherfucker - waka
+da dum tshhh too much of a juncture
+there you go sang occurred yet
+no matter what that yeah yes yeah yes
+right so what you 800 obey like she shit
+you mean too much tension away like this
+you shit
+number one the Lydian I heard anything
+about passing letting John Romita
+Mashona
+Shoshanna sure nigga sure that he Shula
+younger Banyan de Leon opinion a nigga
+father movie are nematic her father who
+be able to eat Runa yeah we don't watch
+ovation and illegally ah who the father
+and the kun da insanity go tuition at
+your share congratulate up your
+intelligential
+to motivate Rasheeda dig too much
+aggression Shapiro hot zone here -
+that's an artisan yeah year for Jamila
+the minutiae Twitter Christmas
+understanding up your dress
+true worship your drain the Jigga miss
+you and your goons were early in each
+Enya and you're fabulous
+you're fabulous suitable dress protein
+is an irony Liliana Shahana don't wanna
+do you Jim fabulous see him to return to
+the pinky up your dress I'm see children
+that should had a toteal yo leader we
+don't turn watcher which one should
+attend - easy country she the father no
+meteor could yet that you should kanji a
+- don't jiggle bong water and she don't
+wanna see go borrowed agua yeah she's
+young coach just wow well Meatwad ego
+Katya number how do you know
+follow the Union National meeting you
+the kigali yes number one on China
+- you - mwah degenerate Indian legend
+Granger though she she went to Yoda
+serenajoe Satan wanna be a nigger see
+Rusia didn't usual yeah wha-wha-what be
+entering awards jung-hwa I'm Johnson you
+should to manage with hello what a
+chance' by choo chugga chugga chugga
+chugga don't watch every time she whines
+handle attention joshi diarga this
+angered Korea that you sure Chum watcher
+which I'm sure the fire Anna how that I
+don't shout yeah chanting Buddhist
+chants yeah now many family and ajusshi
+have we paid on that jungle where the
+other shows the Jing Yi Saracens angle
+BAC Angeles Center - EW yeah hardening a
+chunker the Union Oh Queen Medea Magadha
+Bhatia gonna talk a team both adhesion
+the Argonauts you should have a title
+since young Chinese in seeking high yet
+in your sins retires occurs with the
+father I'm a mother father she's Anna
+generations yeah I call you what so my
+biggest passion you got equipment I put
+on a kadhai shaping up with yep
+an official function I saw the show you
+not yes I Buddha Jigar Singh job
+we like a China Fagin a young Kannada
+for you me one day a challenge is out
+your car yeah sure
+way like that wait I don't challenge is
+idea communion without single Christ
+with a father
+the Mateschitz on watch a Wichita
+relights you should the Sangha for me
+yet
+let me also true no longer the Jewish
+when you should obey like this shit
+hana-chan I she kept on fighting at some
+gas to enlighten a yes she wants a so
+the Cougars Jana Jana thoughts hunger
+the to return to the channel number
+chonwati and the sincere highly ocarina
+yeah wait yeah
+cognac went to mother children she
+defied a commission a away vehicle its
+year is everyone this year we won the
+Chong funny Italian could go to Shanghai
+nigga la muchacha audience in a highly
+awkward aku and I mean congratulating
+you're taking us about what your
+function on hierarchy that yoga - where
+the militia from wayna someone chance
+hello I'm the contamination idea so you
+know Mia fish hunter one year - yeah
+you should good what this yeah that's
+how you junghwa function a yeah well I
+thought emergency Holly whoo woman pound
+you could she like so easier
+you ain't burning so that way she should
+have a idea she had idea okay thank you
+very much for sharing some of China's
+experiences with smart cities and fund
+aligning the importance of collaboration
+amongst industry groups and then also
+standards organizations will now move on
+to a third speaker of the panel
+mr. Sir Hugh Mujica the
+secretary-general of either the
+International Organization for
+Standardization
+Thank You Katie good afternoon ladies
+and gentlemen and very happy to be here
+and to have the opportunity to share a
+few ideas with with you before I start
+my presentation and three concepts and
+that I would like to stay with you to
+set the scene for for the presentation
+first by the year 2050 over 65 percent
+of the world population will live in
+cities according to the UN and that
+means that what we do here affects
+billion of people so what we do here
+matters so we better do it right second
+the concept of smart cities does not
+belong to highly developed cities or
+countries
+it's not about London is not about Paris
+it's not even about Barcelona it it is
+not about robotics or high text disobey
+shun it's a way to travel
+it's a money to do things and just a few
+weeks ago I had the pleasure to
+celebrate the world standards day in
+Zimbabwe and I was really amazed to see
+the level of commitment and enthusiasm
+everybody has their to make the city of
+Harare as much city and the third key
+concept is nobody can make a smart city
+on his own so ISO is very happy to
+support the construction of a smart city
+but we know that there is a bigger
+picture here and coordination is
+essential
+the good news is that we're not starting
+from scratch 20 years ago nobody could
+have imagined that we have emergency
+services navigate along using the
+fastest route or waste collectors that
+know exactly when recycle bins are full
+or free Wi-Fi everywhere so there is a
+lot of progress out there we need to be
+very proud of that but that is happening
+right now as we speak
+but of course there are a lot of
+challenges and some of them you can see
+on the screen and that means that there
+is a golden opportunity for all of us to
+address these challenges and to
+contribute to improve life of billion of
+people and of course we believe that
+standards are an indispensable element
+to address those challenges in an
+efficient and successful manner and why
+because standards provide a common
+language where we can exchange
+information we can identify best
+practices and we can also monitor
+progress which is really important
+second standards can help us to have an
+efficient management of resources and
+also stimulate innovation because we can
+build on common grounds how can I so
+help well the same service as France
+does anyone knows ISIL is so yeah all
+right
+good well I'm convinced that isodyne
+helps a lot by first providing an
+overall framework to define what smart
+city means for me and how to get there
+we need to provide responses but
+respecting the identity and the reality
+of each country and each city and I
+think the flagship here is our ISO
+37-thousand 101 which sets out the basic
+for sustainable development in
+communities and also the strategy to get
+there but we also have developed a
+number of standards to address some
+specific areas which are very important
+to make our cities smart you can see the
+specific areas there on the screen so
+this is standard represent international
+consensus and best practices and a
+concrete pathway to achieve our
+sustainable development goals but it's
+not only what we do international
+standards it's also how we do it the
+manner we develop these standards and in
+ISO we create standards first in a
+transparent manner we provide full
+information about the development of the
+standards in all the various steps for
+that process of development second the
+standard we develop our consensus based
+we do not impose standards we co-create
+standards with our stakeholders and
+finally the third few few the first a
+characteristic of standards is that we
+apply an inclusive approach so it's very
+important for us to respect the
+diversity of our stakeholders such as
+regulators politicians industry citizens
+etc
+now a couple of words about the future
+how do we see the future first if we
+want to create smart cities we need to
+make sure that we apply smart
+collaboration so we need to combine our
+talents for a better performance that
+requires first addition a vision to
+understand that the bigger picture is
+sometimes more important that the
+individual pieces and second lot of
+generosity because when I collaborate
+with others when I coordinate my actions
+with others and I lose part of my
+autonomy but with a view to getting a
+better result
+so as I'd like to say everybody likes
+coordination but nobody like being
+coordinated and that is the talent we
+have in front of us it's a challenge
+that we need to address by having this
+vision and by applying lot of generosity
+second in this coordination we need to
+address specifically first our fifth our
+organization ITU and IEC we had a couple
+of good news there we sign a letter of
+intent about cooperation smart cities
+precisely in the last General Assembly
+of ISIL in Berlin and also the president
+of the three organizations sent a letter
+to all members asking them to coordinate
+at national level sometimes is even more
+challenging even more difficult to have
+that kind of coordination at national
+level and we also need to include others
+apart from IC and ITU other standard
+development organizations and that is
+why we have organized world's March city
+forum tomorrow and the day after
+tomorrow so we make sure that we can
+engage with those other standard
+development organizations and the other
+element the third element about the
+future is that we need to be bold and
+open for change in the last General
+in September 162 I saw members signed
+the Berlin declaration under the slogan
+under the motto open minded open for
+change we cannot succeed in our efforts
+to build smart cities if we do business
+as usual we need to go further and to do
+more especially if we believe that what
+we do matters and effects and we have
+also the opportunity to improve the
+quality of life of billion of people
+thank you very much thank you very much
+Sergio for sharing how important the
+work is that we're all doing in this
+room today and for highlighting some of
+the tools that in fact already exist so
+we'll now move on to our fourth speaker
+for the panel mr. Daniel Martinez the
+mayor of Montevideo and Uruguay so
+hopefully we should be good
+bueno buenas tardes un placer el talaga
+me toque hablar en el área de lo que
+somos novia no locales en este tema que
+esta revolution ando creo que positive
+Ament a el mundo sabe endo unco numero
+opportuni ah days quiero decir tambien
+que el tema delta panel lokan sido muy
+importante para alguien Area industrial
+y que le token para trabajar estudiante
+una rafinha petróleo no less ah hey
+Noel team enormous in assess and raise
+Segundo entails para las cosas bien con
+excelencia
+Phu Yen dou Madrid o e compr are say
+beyond ok apart a la aplicación de
+Norma's te permit a plan if akar attend
+our visualization en el futuro de que
+for no un bien avance ando en las need
+any mentos a strategy COEs que lo que
+tenemos que tan algo mas Nueces se polo
+pronto implicant desafio muchas veces la
+ciudad A's ok nesset our al mondo la
+ciudad a's piensa en el corto plazo y
+los estándares y la la implementation
+destined eres no da hooter meant a sakip
+acid odd OS a fundamental additive o de
+poder pensar en el largo plazo sabe end
+o que la tranformation del Tracey da
+days
+normal meant a Noah bar con un período
+de la oración del vino del gobierno de
+un politico sino que tenemos que no la
+cabeza la capacidad de pensar rehmannia
+strategic infusion de local Oceano
+necesitan NOS interns politico's mess in
+do Al's llaves por que no mami quino's
+por lo tanto rasam oh yeah play demos
+yet iniciativa baramos co mucho interés
+lo lo que Seguin relies on Dolapo a
+piloto y so sienna indica doors que que
+bueno que esta empezando de sarousch our
+focus on ESO era niente trabajo para
+trabajar embassy objetivo de me corto
+Mediano pero sobre todo de largo plazo
+en el medio la position la luz no me de
+haber nada para el ante sigue supone que
+un compañero a star haciendo pasar
+pantazes novara starring q Ladas en lo
+que diga simplemente see al ghul Okyere
+me Darla's bar tennessee información de
+lo que estamos en de la cont do
+pero creo que ce blent ace amor
+emma's say alguno despues a lo quiere
+entra en la pagina / - yeah Logan Tran
+glia lo puedo hacer pero pero es ammo
+indica t we'd add information so I hear
+ya balance and operator careless creo
+que lo fundamental de forma say que la
+la la norma's tienen que ser para algo
+gusta men telemedicine elementos de
+medici own evaluation caper meetin a
+value our controller bear distancia me
+ento acercamiento objetivos to turn our
+comparison coleauxv estación de otro
+lado x' no son neutrality rest our
+infusion doge a dios por ESO para para
+nosotros a fundamentally montevideo lo
+que premio quisimos es para que queremos
+no co intelligent a la primera pregunta
+grissom hacer es más recuerdo de una
+conversación cuando soy yo Alecto yada
+koala estaba una semana que el alcalde
+c'est de barcelona no estan filter ona
+la herida de la una y un poco de cutie
+damos sobre para que si gracias
+intelligent a's
+yell debate AC solo son tema de
+tecnología no es un tema de que debe
+servire como una Rami enta par latter
+formation por ESO no se lo que queremos
+que primero que marcado's vedios
+dis Orazio konami cozy tent ability'
+integrati o inclusion Yael Dodd
+oportunidades i participation i control
+co adano desde los objetivos par los
+cuales estará me enta de de ser
+funcional por supuesto que Pardee des
+Rosiers oh no amigo trajo empresas
+privada 'he's no somos para nada
+lejano de esto es más de americanos eat
+Arlo's un Armas están de una pequeña
+sua case amante do capital de lui con
+solo mission tray siento gente militant
+espero con el quadrant ii o por ciento
+los negocios que en su capital donde
+esta Mo's la capitale la montee gunto
+con grupo de OCHA no de empresas de
+center deseo porque tengo la grande con
+nosotros
+Anabelle del trabajo de scaizi
+intelligent a's no estamos no pero lo
+queremos series no UN problema de
+tecnología
+en inter made a la cosa de la cosa es
+muy importante
+yes Lara me enta pero que por alla
+infusion Doge Etios
+por ESO no se otro movin Iago condo
+sarazar políticas eno quails de Sorrows
+ahmo's un centro christian de Mobilia
+code impact on teh resultados cam
+permitido no so lo mejor ELO's tiempo de
+Plaza mientras la ciudad see Nova har en
+a caso lugar en un de funtional la CIMA
+for accession intelligente UNC sent
+initiate a poor siendo los accidentes
+Desiro Samos a Tom OS arose on dohoon
+token Empress's privada C yump rendered
+or ACP Knesset our tap sistema de
+contrôle pres emplo division del senado
+de contain adores medicine de ruin
+différentes punto de calidad de calidad
+de rozier movin o tecnológica meant a
+mucho facto result organelle sector
+privado l center della della Kadima pero
+ESO es como se mozo de la parte del del
+del trabajo una parte de lo que queremos
+unless Atomos a ser para Laura los
+objetivos que SATA fashioned o los
+ciudadanos pero también esta la otra
+pata de forma lagron OHS en este mundo
+de marrón a Lakia como los amo algún
+socio lo Annabelle doll rationale en
+donde parece que todos en la Banali de
+la Paix importancia y la estancia la
+government a fuera el paradigmatic
+necesitamos creer utilize honest es
+inteligente a si la sera Mientus de la
+conc intelligent A's
+como Iranian today sir Canyon Co Edano
+de transparencia por que los llanos
+sipping loki atomos asientos haciendo
+que controllin en que estamos de niro
+públicos pero su s tambien de forma de
+poder critic our report arias in terror
+Sato información a la hora de poder a
+value our nose in ter SPD to critic o
+para tener los elementos
+para jugar a quiénes los llanos
+depositor oh no su voto por ESO no es a
+Rosado Montone day a Peppa's extra
+mentos atrovent a sistema de la red acc
+temmuz des marseille smarphones
+de forma de que los sodanope weddin
+tener en una vez au sistema de penndot
+a-- access o absolutamente toda la
+información y el trabajo say case a
+general in tendencia deduce agin en
+todas obras que Sambo Tod oh and Annabel
+Lee case and a co sir Anabel del Del Rey
+in LA municipal er in tendency acaba en
+un tiro a un control de lo que se quanto
+serra Todd okay Sabrina siendo chain
+available Sabra
+de complement Oh Knievel satisfaccion
+impact on a CEO Daniel tetiny Ando
+utilize our también la la la hija para
+informal allo vecinos de cada lugar
+donde una hora de France - todas está
+siendo
+Calton ateva tienen demova need a
+deposition de receive owes Sergio's
+guano's soluciones que hacer que la
+hestian y la trappe Orencia la gestion
+de la ciudad y la trappe Orencia el
+control de ayudarnos a la vie de côte d
+anna harrier tambien a paper caper
+meetin soluciones problemas cote de
+noche saber cuanto a maroon busca
+alternativa tengo para un punto otro
+simi comeon esperar a CNT bordega bien
+esta muy say no en cetera cetera
+o soluciones que definitive Oh nos
+permiten yo know Kelsey o no se sienta
+participate protagonist ax de lo que es
+la gestion en esta época de Malaga
+decir muchas veces para Sierra que los
+Politico fuera Mo's más para cenar hey
+la pantalla chica or do me do electroni
+go y hacer de carne uso c-- or / tenemos
+el desafío de hacer que la tecnología
+Nasia simplemente algo sin Alma be free
+Oh si lo que l'otan hola here tambien
+Silva para Sircar la gestion pública
+alcio no Casey oh no sienta party
+participate at rubella trap Orencia ctrl
++ OS tan inform on D control ando critic
+on dope lan diablo viendo a proton de
+deus pero siendo protagonist ax c
+non-definitive ax appease okay tyrion su
+memento or well zag el libro million del
+do Cho bat de hacer simple du Libre
+fission para ser today's unit Rita alia
+tenemos la oportunidad de vez la
+tecnología para solution are los
+problemas true tambien para el proton
+embrace yadda knows las normas he
+co-hosts Ament a neat antenna lacerum en
+t'les como para controlar
+katie objetivos a strategic okay como
+politico's row tambien como comprar met
+Eidos una futuro democracia Kadima
+profunda participative adonai Mo's
+realmente sass enormous contribution
+objetivo largo plazo pen definitive a
+VAR fe co de todos los habit on Tay da
+de smooches
+thank you very much
+so we'll now move on to our fifth and
+final Speaker of the day
+mr. chase utley from ITU and yes thank
+you very much for all of you keeping so
+wonderfully at a time
+good afternoon ladies and gentlemen I'm
+live from IT oh I'm very happy to being
+here with you taking some of our
+advantages from our distinguished
+colleagues who presented of the
+assistant that works specifically from
+the international standard
+organizational point of view whatever
+you have any suggestion or any questions
+or are curious please go to our website
+there are tons of informations let me
+try to show this what is I 2 I 2 is
+actually one of the UN specialized data
+agency as a responsible for the ICT
+developments so the government is our
+major memberships 193 membership same a
+same way the UN and also we have a
+multi-stakeholder models so more than
+700 industries they are members mostly
+operators ICT industries they are our
+members as well also we have academia
+members 150 academia members they are
+doing of this our platforms to develop
+our standard I want to easy wait to find
+out what standard we are you use as
+basically all your smartphone's
+use of our standard wherever whether
+this is series or 4G you've been coming
+5g they have to use of our standard or
+your video video codecs video streams
+also use of our standard as well and how
+so I have the disposable product ICT
+developments our broadband connectivity
+is also a responsibility area
+I to engage of this I attend a smarter
+City space since year 2008 we have a cut
+along history of these studies and that
+we conclude our members conclude at year
+2015 we can merge together of these IOT
+and the smarter City so we make a one
+expert a group called Iook at the
+smaller cities we did that experience
+let me challenge you when you think of
+this as smart cities what kind of image
+do you have maybe a boss up for
+different photos many of case you may
+think about Appa pot could be nice
+enough to say that so smart cities but
+below part why not smart cities because
+smart cities doesn't mean of this
+modernized smarter City is a reflect of
+our cities being smart in general city
+has been built and continuously changed
+based on the physical locations having
+of this environmental impact they are
+heavily dependence of this local history
+and their culture and the citizens
+behavior always changed this is a very
+very important elements for designing of
+our cities except of death the tangible
+reasons why I have to City continuously
+changed it means none of the cities are
+the same there might be big challenges
+object how why we have to utilize
+standard for cities specifically
+international standard organizations has
+a big challenges we are literally
+wondering about applying of this
+international standard make all cities
+looked like the same
+can you imagine after the smartest
+all cities have a same nature of these
+franchise restaurants coffee shops all
+these they should be disaster I don't
+believe this is a one or pitch of the
+smart cities while we are applying about
+technologies most important part is we
+have to keep their own City own history
+their culture their own specific things
+how we can have that it is important to
+subject while we bring over our standard
+to the communities to the cities to the
+markets there are many other things but
+as a quickly look at smart cities would
+be consistent
+devices systems and they drive those
+data's and the platforms service and
+application operations there are many
+other standard organizations already
+engaged so could be as our colleague
+said collaboration is most important
+part but we also encourage competition
+as well because this each seat has a
+different natures but most one of the
+important part is whether we have a
+competing standard or not harmonization
+is important because this is what need
+of the city of covenants in this sense
+I'm also happy to be organized together
+of this ayesha a so I do what the
+smartest City forums which will start
+tomorrow
+one more information promised is I - we
+have organized the so-called United for
+smarter sustainable cities this is new
+union initiatives collaborating with the
+16 UN organizations we developed a smart
+city KPIs those KPIs applies to reduce
+EU faces see this is open space so
+anyone have been interesting on this
+journey of these initiatives and welcome
+new so can you find of this summer
+contacting point so those groups have
+also City working groups forming up to
+address how
+can deliver this more resilient and the
+sustainable smart cities to the world so
+this is a collaboration activities a
+univita reservoir so we try to collect
+all inputs and all collected or opinions
+and bring to the UN a UN agendas I think
+that'll be the my major presentations
+thank you very much okay thank you very
+much so I think we'll now move on to the
+question-and-answer session so thank you
+very much for sticking to time and even
+saving us time this is much appreciated
+I hope you've all been submitting
+questions in the app I think I have a
+huh so I have some questions here so we
+have a top question which I think will
+be directed to you as some of our
+standards organizations and particularly
+I see when it is affirmed that no
+electricity no smart cities does this
+mean that smart City just relates to
+technology so I would like to direct
+that to anyone on the panel he's
+interested in responding at friends
+perhaps you'd like to start off and then
+maybe we can hear from essentially you
+and chase them and anyone else who'd
+like to add yes thank you so yes of
+course as I said it is a condition to
+have electricity and it is a condition
+to have connectivity to make things
+smart it also means that of course
+without electricity it simply cannot be
+done on the other hand electricity is
+not all of a smart city then that's why
+we are sitting here also together and
+giving the same message to everyone that
+we need to collaborate because there are
+a lot of standards in the infrastructure
+that may be electrical which are same or
+on our part of the spectrum
+but I equally there is the connectivity
+part more in the ITU space there is the
+mechanical there is the chemical part
+more in the eyes open space and you name
+it we need to with those converging to
+to make sure that we collaborate and
+together solve that complex puzzle of
+that very complex system of all those
+verticals that you would like to
+optimize going forward so being smart
+means a lot
+electricity is a very important one as I
+said the condition silicone on without
+it it doesn't work but we have to do
+this holistically and we have to design
+it from the requirements that the city
+managers need to put on the table so
+that we can definitely create the
+standards and ensure that the standards
+work together in the various verticals
+that need to communicate and
+specifically also the whole data
+structure and the control structure is
+very essential there over there anybody
+else want let me let me do that
+talking about these Smarter Cities is a
+competitive normal City why we call of
+this smarter city smart needs something
+data from unknown areas we have to
+understand the situation of this
+someplace is happening the city but
+communities but this data coming from
+our devices our systems to produce all
+this data definitely we need the
+electricity so electricity what I wanna
+say this is the infrastructure of
+infrastructure because conductivity is
+the clue to get of this smart being
+smart of this operation of the cities
+and communities as a Francis said input
+of the party is that city smart cities
+more than technologies but until
+collecting of this data
+everything is looks like a technology
+oriented but after collecting your data
+how to process how to understand all
+this data how to react this corrected
+data there's a human beings
+responsibility how this is a city
+governor's the Bayeux policies their
+regulations facilitate of these those
+application of
+such data so smart cities modern
+technology definitely and I think I
+mentioned at the opening of my
+presentation that the concept smart city
+does not belong to highly developed
+countries or highly developed and cities
+and I celebrated the smart cities day
+together with the Herrera city in
+Zimbabwe and they are very enthusiastic
+and committed about smart cities so
+technology can help certainly but it's
+way much bigger and broader that
+technology for example management good
+management is indispensable or energy
+road safety responsible water
+consumption so those are some of the key
+concept that we need to embrace in order
+to have a smart serum ok thank you very
+much another question that's been asked
+a slightly more practical level how
+actually are the organizations
+collaborating so how our why you see an
+itu-t collaborating so and would anyone
+like to take that when we have a great
+example of that in fact tomorrow but I
+shall they want I think he meant to
+presentation let me opened I think it's
+our colleagues will follow the standard
+is the language step the result of this
+standard is a written text there should
+be enough to implementable so
+collaboration among the standard
+organization as you to identify our
+language get together so this is
+understanding is very important but when
+you call those smarter city or smart
+your same sense or do how much different
+to knowing of this understanding of this
+language is very important so this award
+a smart city forum we have a first
+announcement of this co-locate
+collaborated collected terms of
+reference of these terminologies on
+smart cities that is a one of
+collaboration result even definitely as
+a Francis said
+be sure of this our standards how the
+other standards is working together
+many of these infrastructure elements we
+need a club we need some collected
+collected of standards is really helpful
+for building with assistant as Motor
+City's okay thank you very much and
+another perhaps more practical question
+as well we did a little poll earlier at
+the beginning of this session of how
+many of you actually were aware of the
+three standards organizations that are
+here on the stage today iso/iec 90 you
+it might be interesting as well just to
+explain a little bit more detail for
+people if anyone in the audience was
+perhaps interested to be involved in the
+development of a standard now is that
+possible and how would it work
+perhaps Stephanie oh and France or one
+of you could perhaps to explain a little
+bit more detail how it is in fact you
+mentioned both briefly getting different
+stakeholders involved in the
+conversation bringing people around the
+table perhaps you could expand a little
+bit on that yes I can and I think for
+ISO and IEC who have what we call joint
+directives that means that our processes
+are very much alike we work very much in
+the same way we asked in F from every
+country one organization is the national
+standards body in ISO or the
+coordination of committee in IEC
+together around their tables all the
+stakeholders involved in the process all
+the stakeholders that can contribute
+that is of course the government in many
+ways that is of course academia it's of
+course the private sector but also the
+public sector in various shapes and
+forms and we need them around the table
+because as mentioned by session by me we
+are creating in our organizations
+consensus based standards standards that
+either say the consensus of the best
+practices codified knowledge and every
+one of you if you want to contribute to
+that there is an organization in your
+country with where that you can contact
+and that is our member in for our two
+organizations in your country and that
+member can
+lead you so that you can become active
+in a Technical Committee where the
+problem that you are worried about is
+being discussed and you can help to
+bring your solutions to the
+international arena where it can be
+discussed with all the countries so that
+we get the best out of all the
+experiences and all the say best
+practices that are being done by all of
+these countries here and that you can
+see here at the expo and I think that is
+the great benefit of international
+standards that you can bring that to the
+table with everyone and it can be
+discussed and decided upon and can be
+put into a standard so everyone can
+benefit from it okay thank you very much
+and I think we have time for perhaps one
+more question one minute left
+I'm super happy a question was a
+question of course quiero es la una
+pregunta alcalde porque de ser Alaric
+Honduras implement our standards on
+proceso de la dia mental Argos ek muchas
+veces no coincidental or tiempo cyclic
+urgency --is políticas de cargo case on
+Electro's cumulative era compile
+compatibilizer amber concepts
+puno preguntamos no implicit anar una
+mentally on concepto co2 cumin seed okay
+cuando los tan política no de estar m
+fe co Prosecco personal C no tiene loan
+or decir Alecto palácio da no para
+cumplir una meta por lo tanto lo que
+hacer es esta blazer make animos que lo
+jenner are políticas largo plazo que lo
+que en definitive arbiter cambios no
+existen element acción de sistema de
+codification del conocimiento como dijo
+move en el amigo que se definitive okay
+un enorme code offical conocimiento y la
+mejor s practica pala solutio dela
+problemas no es imposible implement
+Arlo's yo no se tuna uno plan efika como
+para que jenner are una cultura en toll
+on ization kate recientemente perioded
+ratio y cambia todo lo que se estaba an
+induced Oh puppy tambien Rico's camos
+que cuando uno messiest and re si cuando
+uno tren de mess sistema de control de
+comparison benchmark en lo que SIA messy
+evaluate AMA contrast rod puede ver lo
+que quiero que me controlling me parece
+democrático un sistema en el cual la el
+politico's y tienes tiene
+responsabilidad
+CN CT CT Madiga meant a contra la dope
+los llanos por ESO y seat on Texas ten
+sia en el hospital a cos intelligent
+angel kado hacia la participation el
+control ill información de soie da no
+quran Tia discúlpame no La Tengo creo
+que es un compromiso etic Omar Khadr
+Dante thank you thank you very much I'm
+afraid we are indeed out of time so
+we'll have to conclude and call it a day
+there I'd like to thank our panelists
+very much again for joining us and for
+sharing their insights and experiences
+up here and thank you very much for
+coming along for listening and and for
+taking part and for asking all of those
+questions at the end so thank you very
+much and enjoy the rest of your day

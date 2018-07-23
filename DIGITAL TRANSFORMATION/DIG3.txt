@@ -1,0 +1,1264 @@
+Title: Strategies to Protect Critical Infrastructures and Assets
+ 
+Subject: Safe Cities
+
+* Safe Cities
+
+Abstract: 
+
+Critical infrastructures provide the essential services that underpin city’s life and serve as a backbone of urban’s economy, security and health. Thus, preventing and reducing the risk of disruptions of assets, systems and networks, whether virtual or physical, becomes indispensable. What are the best strategies to protect critical infrastructures and help local governments to rapidly respond to and recover from all-hazards events?
+
+Speakers: 
+
+Ramon Sagarra Rius
+Juma Assiago
+Tomas Roy
+Ares Gabàs Masip
+Jed Sundwall
+
+Conference: 
+hello good evening the lunge is
+difficult sometimes
+we have a good presentation here and not
+to sleep really good panel we were
+waiting for the fourth person it mister
+mister album Juma will not be here we
+don't know if he will arrive we start
+with the other three members I will be
+the moderator
+I am Ramón Sagarra and from there a
+company of its a platform for Internet
+we have a stand in the exposition I will
+not explain here what company but it's
+at the end of the Main Street near the
+set near the car fabric of we understand
+here they're very interesting Stan but
+today is for for her for for for the
+people if you want to make some
+questions nothing like this there is a
+an app a scam boat you can use it along
+the presentation you can write your your
+questions you can say I think this
+question is interesting or not I will
+have an iPad I suppose someone will
+provide me an iPad and at the end of the
+session I will I will make the questions
+that I I understand it more more
+interesting or more linkit with the with
+the presentation let us start with mr.
+tomorrow mr. tomorrow works in the
+Generalitat of Catalonia in the local
+regional government is the the security
+strategy director of a saccade saccade
+it's the it's a center of information of
+Catalunya we will have two presentation
+of of more soft light and data
+infrastructure and one more more
+physical please
+okay thanks everybody for coming and we
+are at the government of Catalonia so we
+are responsible of a lot of services
+which are critical for citizens and we
+must take care of most of them from all
+the kind of threats that we are exposed
+so when we have to think about how to
+handle this presentation we prefer to
+have a practical work a practical
+scenario on health because I think that
+it represents which is the real
+complexity that we must that we are in
+front of when from a government we try
+to protect political infrastructures
+first of all I must also explain that in
+Spain the responsable of protection of
+critical infrastructure is the
+government of Spain and it has this
+competence by themselves so we must
+coordinate with them on protection and
+what we will spend here is just how to
+maintain the resilience on our critical
+services especially on and health so we
+are the secret the secret is an
+organization like an agency which is
+responsible for planning management and
+control of service security or not the
+government of Catalonia we have people
+and responsibles and functions and
+organization all all around the several
+ministers of of the government of
+Catalonia and we must be able to handle
+security issues and also functional
+security issues so in our catalogue
+health model we have obviously the
+Catalan Health Ministry which define all
+the strategy plan organization
+assessment and all the controls of all
+the centers that collaborate a
+co-participant
+in the delivery of the health services
+and we are also in coordination with
+Spanish planning and called an and
+coordination we have so the citizens
+with are related with the Catalan health
+or the health gather and service cat
+salud
+and also the insurance companies and
+then we have several provide the health
+service providers most of them are
+public but we have also private them and
+also consortiums and foundations which
+are welded form both of them all the
+security like the pro like as you can
+see there are several players what we
+have done is to take the problem from a
+coordination point of view in a
+coordination security information
+committee which is a responsibility of
+designing approve implement and
+supervise action related to information
+security we have a savior we have a
+cybersecurity model when we speak about
+critical infrastructures and a
+protection we don't begin just from the
+technical and physical uses issues but
+we have make an approach that we try to
+deploy everywhere and in a single
+provider that is in the health system so
+first of all we work on governance
+through an organization also we have bet
+highly on digital identity management
+also we have define it compliance
+framework which we deploy and we audit
+and also a legal assessment if we speak
+about protection we are a bit from the
+classic school and we are working on
+hard on security perimeters management
+also we work very close to projects and
+development and every improvement and an
+innovation through the security projects
+methodology and also the secod is a
+third
+which is a computer emergency response
+team which is responsible of the
+security incident management which allow
+us to have a lot of information of the
+real problems so we also have the
+prevention area which we solve it
+through the compliance auditing risk
+analysis vulnerability management and
+practice security and least we have the
+resilience or the most close to critical
+infrastructure protection through
+certification business continuity and
+training and awareness programs this
+level security model concrete's in a
+security program which deploys based on
+resources excellence as like most of the
+strategy but programs but which for us
+is really important is to have an
+organization on cyber security which is
+the main key to deploy and to translate
+all the all the needs on requirements
+and specifications and so with the with
+those that comes out from cyber security
+we really believe that cyber security
+makes business possible and it's a help
+and it's a it's a must so we must be
+very clear near to the to the business
+problems to solve it now I will share
+you with you some of our challenges and
+that we must take care of we have a very
+complex organization most of our
+services are very complex with a lot of
+players as you can see here we have this
+information committee security that
+security information committee that I
+explained to you but we must coordinate
+a lot of players both of all of them
+with their responsibilities and also we
+must coordinate among among the
+different responsible of security of all
+the government of Catalonia
+we also take care of data data to take
+decisions and to prize and also we
+deploy all the different standards that
+we
+like health we have to implement if we
+speak about protein protection if I told
+you we are a third which gives us a lot
+of knowledge and tools to monitor and
+also to handle incidents we are also a
+shock security operational center and so
+with these two tools we have most of the
+protection capabilities held no we we
+have also a problem with IOT which is
+most which is every time more deployed
+and we are not afraid of that of it but
+it's true that for us is a big challenge
+that I expect that we will be able to
+speak about in our yes okay thanks
+and there are the challenges of
+prevention we have as old classical
+models all the based on information
+classification but what our main problem
+is we have a lot of providers which
+develop in our systems and maintain
+them's so we must bet on security by
+design and methodologies to implement
+privacy and also security we use as much
+building blocks as possible especially
+on Identity Management and
+infrastructures and we accept as an
+opportunity and a challenge the cloud
+and the use of IPP just because we
+believe that especially the cloud
+environment is born from the security
+issue and it's they take care from the
+beginning of the security compliance no
+so we are not afraid of cloud we have a
+problem on revolution and revolution
+because we are in Europe but it's cloud
+for us is not a big issue as can be
+sometimes a very good player to work
+with compliance of privacy standards is
+a must so we must
+periodic compliance auditing and then
+our investment must be also directed
+especially on users for all the treats
+that they are faced directly salvation
+of duties and need-to-know principles
+are checked in every system and
+especially we work on awareness programs
+trying to make a stronger all the chain
+of security understanding that if we
+that the user wants to be a part of this
+chain and wants to participate on it so
+we must give them tools that allow them
+to be active on protection and not just
+a problem the resilience of our systems
+is not just infrastructure but are also
+centers also professionals and managers
+and citizens so it's a problem that must
+be taken from a high level and an high B
+you know we have a ter eternity on IT
+solution by the providers so what we
+have decided is to centralize and give
+centric solutions and data centralized
+clinical records my health and platform
+of electronic transfers electronic
+prescriptions are examples on which
+services we are providing to all the
+system of the health system to be sure
+that they are that that they are
+compatible and also secure privacy and
+security controls are a must
+we have encryption and communication by
+default and we must trust on
+organizations that they are responsible
+of authentication of their own
+professionals so we delegate this part
+and we try to implement know we have
+implement digital sign it transactions
+by all organizations and we try to have
+an a pragmatic continuity solutions
+approach not just high cost and highly
+available solutions because it's really
+difficult to to reach them
+without investing a lot of money so
+sometimes we find out that this is
+to have a be plan which is based on
+physical or written documentation or any
+kind of other solutions that
+implementing very expensive
+technological ones so just thanks for
+your time we will reach there we will
+improve our explanation during day thank
+you very much thank you very much Tomas
+[Applause]
+and now it's a pleasure for me to
+introduce you what is kibosh we were
+together many years ago and it's really
+a pleasure this time to to see another
+time she works in the Ursula
+municipality in the a gentleman and
+she's the head of the resilience
+department of the Ursula no city please
+thank you very much yeah I'm going to
+talk about two points that we're
+actually working on and and complement
+each other through to two examples one
+of them is how we need cities need to
+improve the knowledge we have on how the
+city is performing and also the capacity
+to analyze what the problems the risk
+that that we are facing and how the city
+what is the ability of the city to to
+absorb them and this I will explain it
+through a project that it's we call it
+the resilience platform and the second
+one is about designing criteria for
+infrastructures and in climate change
+and I'm going to talk all day about the
+climate plan and how we need to change
+the paradigm in way the way we we design
+the infrastructures facing uncertain
+uncertainty there's a changing nature of
+risk and also some uncertainty related
+to it but we need to plan
+infrastructures for the future so what
+are the strategies we are using in order
+to enhance more adaptive greener and and
+software infrastructures so first of all
+this is a diagram of how we approach the
+resilience building project
+process sorry in Barcelona and it
+consists of basically of three three
+different stages first of it is
+responding management managing risk
+whenever we have an incident on the
+street or on the services we need to
+respond and we need to improve the
+capacity we have in order to minimize
+the the affection then we also need to
+assess we need to know what the problems
+are we need to have the capacity to
+determine what the vulnerabilities of
+the city are so that we can finally as
+the first stage implement actions in
+order to reduce them or eliminate them
+and this confirms a continuous
+improvement process where we would
+ideally get to a position where we are
+better than that we were in the in the
+in the beginning of the process and that
+is that an operative level complimented
+through a more strategy at a more
+strategic level with the roadmap design
+and the planning of the of the strategy
+to improve the resilience of the city
+with a longer vision so one of the
+things we realized when we started
+working on resilience that we needed to
+improve the knowledge that we have on on
+how the city was performing and that we
+needed to share this information with
+many different areas within the city so
+we needed to build the tools and the
+capacity within the organization to be
+able to do that so we started working on
+the resilience platforms which is
+actually a set of tools that provide a
+comprehensive overview of the city and
+how its performing allowing for a
+holistic approach of the governance of
+the city and also integrating and
+sharing information that is there is
+useful and there is relevant so we have
+have this overall vision to support
+decision-making some examples of that we
+are already using it using it within the
+organization is for instance we have an
+incident on the on the street but we
+don't know what's going on we don't know
+what what lies beneath what are the
+layers of infrastructure of the
+different services that are running
+maybe behind this this this Street so we
+need to be able to overlap them and to
+give light to that so that we can maybe
+determine the dakotas but also prevent
+failure
+also on the incidences we need to to be
+able to to locate them to be able to
+know what the affection the potential
+their potential affection is and
+actually using this information has
+proved to reduce the stock of incidences
+by more than 140 percent and also the
+average resolution time for sixty
+percent so having the information right
+information at the right time really
+matters and also we need to analyze at a
+different speed not just problem-solving
+but also analyzing what the problems
+have been in the past so that we can
+learn and we can improve actions in
+order to to reduce them or also even
+facing new new challenges or new new
+risks as the ones that will be related
+with the impact of climate change for
+instance this is a map that we've been
+working on on the vulnerability
+assessment on the flooding the sewage
+system of the city and how it is how
+prepared it is to respond to that ten
+time
+return period rain now but also for the
+future scenario so that we can determine
+the affection areas and also implement
+measures in order to protect the
+critical infrastructures that are within
+the area and very fast well this is some
+of the information that that we are
+collecting that we are generating and
+we've become aware that is information
+that is relevant for more people than
+just asked so we are creating a new
+initiative which is called the resilient
+Atlas which is a compilation of all
+these information that is territory lies
+because we mainly work territorially and
+problems happening in a certain place so
+and we need to address them in
+particular areas of of the city so
+another dimension of this project is
+also the information sharing and given
+like to this to this problem and and
+making this information new and basis
+based information for many other people
+working in in the city and secondly I'm
+going to talk about the climate plan and
+how we need to change the change in the
+paradigm on the way we are planning for
+infrastructure for the long term
+regarding the uncertainty that
+with that there is in the future
+scenarios so we have this climate plan
+which is focused on on the people the
+center is is the people so improve the
+quality of life because all these
+infrastructures and services are serving
+the people and also in a comprehensive
+way and that provides measures that
+improve the adaptation of the city in
+order to absorb all the shocks that in
+some cases we know more or less whether
+what they look like but in the longer
+term of the projections the more level
+of uncertainty and how the future is
+going to look like it so and also
+enhancing other types of the renovation
+of the current infrastructure and
+including introduction of renewable
+energies and and so so yeah the we have
+some objective or some numeric
+objectives worthy for the climate plant
+which is the 40% reduction of the
+greenhouse emissions in respect with the
+basin of to 2005 also including more
+greening the city one more square meter
+per inhabitant which is quite ambitious
+for a city like Barcelona so lands and
+so so compact also reducing energy
+poverty and also making providing
+engaging citizens to co.design and they
+call implement the measures of the of
+the plan
+so enhancing citizen participation and
+an action so we have studied what are
+they what is the house climate change is
+going to affect Barcelona and what I was
+saying before it there's a level of
+uncertainty on how it's going to to
+affect us so this means that we need to
+make sure that all the infrastructures
+that we are building all the services
+all the actions meet some values such as
+making healthier Barcelona more socially
+just more available and safe a
+low-carbon and distributive in hunting
+also efficient and renewable renewable
+energies learning through the projects
+and when we
+the citizen with a committed committed
+citizenship and also in looking for
+solutions that solve more than one
+problem in order to maximize the
+investment and also that are as adaptive
+as possible so we are enhancing greener
+softer more adaptive infrastructure
+versus more rigid gray or traditional
+infrastructure we have come with 15
+lines of action some of them have a lot
+to do with with energy and the
+introduction of more renewable energies
+which also contributes to having well
+being more resourceful and not so
+dependent on one type of particular type
+of energy also protecting naturalizing
+as much as we can the city and so all
+these measures we again we match them
+with with this with these values to make
+sure that no matter what the future
+looks like what we are now foreseeing or
+or not all the values all the measures
+and actions that will implement and have
+a value in in themselves and provide
+also Co benefits thank you very much
+very good presentation at the end I have
+many questions but we wait the next one
+is mr. jetson wall he managed the open
+data program at Amazon Web Services and
+in Munich please thank you very much por
+estar de buenos tardes Thank You Tomas
+and others for your presentation so I
+don't have slides so I'm just going to
+tell you a little bit about what I do at
+Amazon Web service is a little bit about
+what Amazon Web Services is and how the
+cloud can be applied to secure critical
+infrastructure when you need it so first
+of all I think it's always important to
+start with the definition of the cloud
+so the way that Amazon Web Services
+defines the cloud is it is the on-demand
+delivery of IT resources this is
+computing power storage applications etc
+over the internet with pays you go
+pricing so what this means is that if
+you need to have access to computing
+infrastructure or whatever it is you
+need you can get it on demand and you
+will only pay for what you need now it
+probably sounds like I just said exactly
+what I just said but just just in case
+it helps to rephrase it but one of the
+huge benefits of the cloud when it comes
+to disaster recovery is that you can you
+can have access on demand to computing
+resources that aren't close to where you
+are ok this is especially important if
+we're dealing with with natural
+catastrophes or things that might be
+impacting your physical infrastructure
+and as Tomas pointed out there's a huge
+benefit that comes with the cloud which
+is that we are built from the ground up
+with security top of mind so security is
+our number one priority at Amazon Web
+Services because it's if you think about
+it at all it's absolutely core to our
+business if people don't trust us to
+ensure the security of their
+infrastructure that they're they're you
+know purchasing from us we have no
+business right and so we invest heavily
+and constantly in insecurity and and
+resilience because it's absolutely core
+to our business and in fact this may not
+give people as much confidence it gives
+me but I really love this quote which is
+for
+Amazon CTO Verner Vogel's which is that
+everything fails all the time that is
+the mindset with which we approach how
+we build services is is that we
+understand or at least expect that
+things are always going to fail and so
+that you have to architect for failure
+all the time to ensure security to
+ensure redundancy and make sure that not
+if failure curves but when failure
+occurs that the data will be still
+secure and then will be backed up and
+available now I'm so I'm going to share
+a few examples of how people have been
+able to create more secure solutions in
+the cloud or at least more resilient
+solutions and so one of my favorite
+stories comes from Asheville North
+Carolina
+so in Asheville they had a they had a
+disaster recovery site so they had their
+their city's infrastructure there their
+IT infrastructure that was used to
+manage all sorts of transactions and
+ensure that you know operation of
+certain systems and then they also and
+they had a backup site that had the same
+infrastructure the same applications
+loaded everything else they needed in
+case anything went wrong with their
+their their main infrastructure it just
+so happens that their backup
+infrastructure was two blocks away from
+their main infrastructure okay and so
+this is this is a really good example
+now and I'm not exactly sure what that
+what sort of compliance regime they were
+under at this time but this is the sort
+of thing that like somebody somewhere
+might say this is compliant right
+okay we have our infrastructure we've
+got to backup great we're compliant
+fortunately somebody pointed out at some
+point you know if anything actually
+happens like if there's an earthquake or
+you know some major storm actually makes
+reaches Asheville our backup is going to
+be absolutely useless to us it's just
+two blocks away it's going to go out as
+soon as the power goes out for the main
+one and so so they they developed a
+solution that would allow them to have
+their backup infrastructure in the cloud
+quote quite a bit further remote from
+where from Asheville itself and one
+strategy that you can take in these
+cases is having a pilot light
+infrastructure and this this is actually
+what's pretty interesting in in the
+context of smart cities as we're talking
+more and more about sensors is that with
+a pilot might pilot light model you can
+have
+your infrastructure ants on standby so
+you might have the applications and all
+everything loaded and ready to go but
+you don't actually have all this all the
+servers running so you'd basically just
+have like an image waiting to be
+deployed as soon as you need to turn on
+a bunch of servers in the case of a
+catastrophe so it's sitting there
+waiting basically for a trigger to turn
+it all on so it's what's interesting
+about this approach is that if you have
+sensors within your city so perhaps you
+know something that's sensing flood
+water or a seismic sensor or anything
+that you want you can actually have
+those sensors trigger operations that
+would then turn on and automatically
+activate this infrastructure that's
+remote now so I I leave the open data
+program at AWS and so I tend to focus on
+organizations that have data they
+actually want to share publicly with the
+world and so we work a lot with
+satellite data and a lot of mapping data
+and some of you may have heard of Open
+Street Map we have a lot of customers on
+AWS that use Open Street Map and so we
+we provide infrastructure to support
+some of those the operations of that
+community I bring this up now because I
+think another thing that's important for
+cities to understand now is that because
+of I won't even say because of the cloud
+but of course the cloud is part of this
+but just because of the Internet you
+also have assets at your disposal that
+you can make part of your city's
+infrastructure so what do I mean by that
+with OpenStreetMap you have access to
+mapping data that's updated in in as
+close to real time as possible that you
+can use and I understand why many cities
+and many organizations might have a
+certain fear of using a crowdsource
+mapping service but I can tell you that
+there are many many large companies and
+also organizations including the Red
+Cross that rely heavily on Open Street
+Map data the data is very good it's very
+useful and it's better than having no
+data in the case of some sort of event
+so so consider looking at things like
+Open Street Map as a part of your
+infrastructure as part of the assets
+that you can use for your city in the
+case of a disaster
+also satellite data so fortunately we
+have some very generous governments in
+the world that produce satellite imagery
+that is that is publicly available the
+European Space Agency for instance has
+its Copernicus program which includes
+the Sentinel satellites so the the
+Sentinel 2 satellite is an optical
+satellite that produces optical data
+imagery of the entire planet and I think
+at this point it's it's something like
+every five days you can get imagery of
+most places in Europe now the data isn't
+very very high-resolution but it can be
+used in disaster response and a really
+awesome example of how this has been
+used is in 2016 is either 2015 or 2016
+there's an earthquake in Ecuador and a
+group called Zooniverse so this is a
+nonprofit organization a run out of them
+I think like Oxford but it's a
+non-profit group that they run these
+really interesting crowdsourcing
+interfaces for volunteer response so
+there's an earthquake in Ecuador they
+went so we actually host Sentinel to
+data through my program on AWS and so
+Zooniverse said ok we've got access to
+the satellite imagery let's go grab it
+out of AWS we'll create this interface
+in this website where people can come
+and actually look at the imagery the
+latest imagery post earthquake and
+identify where there had been landslides
+you know where can we see that there
+there roads that have been disrupted and
+things like that and then that data and
+that imagery was used to notify
+first responders and also update
+OpenStreetMap for instance with updated
+routing information and so again this
+isn't this is an example of thanks to
+the internet cities have access to
+satellite data
+you know most cities in fact I don't
+know of any cities that have launched
+their own satellites but the point is
+that you actually have this asset
+available to you and then finally
+there's social media so social media is
+it can also be used to monitor basically
+what's happening in your city whether
+it's through Twitter or Facebook posts
+or Instagram things that you can you can
+actually source and analyze a really
+cool example of this comes from Chicago
+they have an application called open
+grid that they've actually open sourced
+that that allows city staff you know
+police law enforcement and first
+responders to browse social media data
+within a certain polygon basically
+within their city to basically draw a
+polygon and say like what's going on in
+this part of the city what do we know
+that's actually happening here and it
+combines both their information that
+they get from the city as well as
+information from social media there's
+another group called petabyte Ben Khanna
+out of Indonesia and all the people
+involved in this I've lost track but
+it's a group out of Australia and then
+MIT as well as involved in here they've
+also built an open-source application
+that can do this they've built for
+Indonesia they started in Jakarta but
+they've expanded to the entire country
+to use social media to track information
+about flooding and up-to-date time so
+anyway so that so those are a few
+stories here of how the cloud can be
+used not only to you know basically
+create a redundant backup of your own
+infrastructure that you know that's very
+secure and reliable but also how it
+gives you access to massive volumes of
+external data that you can also
+incorporate into your city and then I'll
+just close with with three words am I
+out of time okay so there's there's um
+the three words are undifferentiated
+heavy lifting so this is a phrase that I
+love to use it describes really one
+thing that the cloud is very good at
+which is it removes undifferentiated
+heavy lifting from from people's jobs so
+when I say that what I mean is everybody
+who works in IT has to deal with servers
+and running out of space and running out
+of capacity securing those servers
+cooling them powering them etc etc the
+cloud lets you not worry about that
+stuff as much okay so you can just turn
+on whatever servers you need whenever
+whenever you want to so you can focus on
+the stuff that really differentiates
+your city which is your people your
+staff you know your hospitals and and
+really focusing on the critical
+infrastructure that only the city can
+provide so anyhow I look forward to our
+discussion of the panel and thanks again
+for the opportunity thank you very much
+we have 20 minutes I received two or
+three questions - and I have one or two
+comments the first one we heard about
+climatic change you think there is many
+levels probably the name of the session
+that the session have to be different
+and strategies to protect person's data
+and critical structure and assets
+because we see that there is an order
+here and probably the the strategies for
+the persons for the data and for the for
+the the infrastructures and assets are
+not exactly the same at the end we have
+seen with the same with with the data we
+can protect the the physical the
+physical things and when we talk about
+the data we suppose the rest are are
+okay now probably the is the we have to
+make some layers in this there is one
+one of the questions that links with one
+thing that I write when we say protect
+in the in the name of the session what
+what do you what do you think about to
+protect in front what in in the in the
+question says talking out data sensitive
+data and open data have the same range
+of protection and and and also if you
+consider terrorism aggressions of the
+for this reason each one its an expert
+in in materia well you should protect
+the the first things that you think to
+protect that you have to protect him
+from something which would which
+subjects are there is a micro it works
+yes when I think of protecting I think
+about city service continuity but
+services that are for for people like
+you said you finish your your
+presentation that what what really
+matters is what the city is offering to
+to the citizens its citizens or the the
+hospital education the cultural services
+or what the services that the city is is
+offering that we need to guarantee that
+they meet certain standard and that they
+can continue to function no matter what
+the disturbance is or what the
+disturbances are so for me that is what
+I think of when I think about about
+protecting the access of the services to
+for to the people
+yeah I mean I certainly agree with that
+you know you want the service to be
+available all right so that's not a
+number one we were talking about
+protection in these in these cases the
+the question though about you know like
+health data versus open data you know
+how important is it to protect both of
+those you know sometimes I'm able to say
+well open it is open so you can be you
+know you don't have to worry so much
+about security when you're opening up
+data that's absolutely false it's like
+crazy talk from my perspective because
+especially when say you're a city that
+you're producing somewhat of some sort
+of open data asset you're making it
+available to people you really want to
+make sure that data is accurate you know
+you really want to make sure that data
+is valid and the people can trust its
+provenance it's being you know being
+authentic and so security yeah I mean
+it's absolutely critical and and you
+know and I'm not like you know I'd like
+to talk about like terrorism is like all
+these like crazy risks that might happen
+but it is a real threat that you know
+somebody could come in to a city or a
+government that's producing a data asset
+and change it just a little bit you know
+just just D calibrate things or mess
+with a sensor or something like so it
+sort of produces inaccurate data so
+that's a real threat security is really
+really important for for open data for
+me the protection is becoming harder
+stronger trying to make things more
+difficult to pay national but there is
+one point that sometimes we don't speak
+about that that that is especially
+important to protect someone that is
+detection I think that the capability to
+detect to understand to analyze what is
+happening and then to react but if you
+are not able to detect you don't know
+that you are in danger so you cannot
+protect so you must put protection in
+act but also you must be sure that you
+are able to detect that someone is
+happening
+another question where do you have a
+city and ization have to put more
+resources in protect or in in good
+reaction that means in resilience or in
+reaction it's not easier because it's
+administration have different actually
+both are I mean both are for me are part
+of building resilience of the city being
+able to respond and also being able to
+prevent and actually there are some
+figures but I think it's by world bank
+that by every dollar invested in
+protection you can save five in
+reconstruction so the number say that
+and personally I think if we can go to
+the root if we can anticipate risk and
+implement actions in order to reduce the
+probability of occurrence of this of the
+risk its it's always I would because
+sometimes sometimes it's about service
+continuing but sometimes it can be even
+be about our life and well now we're
+talking about al Barcelona but in in
+other cities in the world risk are
+affecting directly to to people yes the
+answer is both
+I of course that now of course here you
+talked and of course I do think you know
+that but being able to prevent is
+perhaps more important but at the same
+time I feel like that instinct probably
+a lot of people have that instinct and
+as a result communication strategies and
+response strategies get overlooked which
+is just awful because you know so like I
+said before everything fails all the
+time you can invest all that you want in
+prevention but something is gonna happen
+if you don't have a means by which you
+can communicate clearly and and
+accurately and with authority with your
+citizens in response to something it's
+you're in pretty bad shape and I don't
+think people take that as seriously as
+they
+our main business and success is on
+protection and we came from there not
+this is where we we win trust on us
+protection I think but however it we
+must admit that there are a lot of
+emerging threats that we every one
+dollar that we put on protection have
+their can be lost no and every
+investment can be cannot be useful if
+there is a change or interruption in
+innovation and also in threats No so we
+must be able to recover in any case from
+not just our if our protection fails but
+in any case I will also like to speak
+about that most of us have been working
+for years to be with a debt debt
+protection citizens feel protected and
+technology gives us protection and now
+there are there has been changes new
+technologies that sometimes they don't
+arrive to the level of protection we
+were used to it is strange to ask
+someone to patch their computer or to
+speak about having a password or to
+upgrade the software something like that
+now there are some technologies that are
+coming up that when you see the problems
+that you have to protect from it seems
+that is back to the past and you find
+out that there are things that you
+suppose that you have been working hard
+not to work again in towards that and
+not absolutely with citizens taking care
+of that because they don't they think
+that that you will give them secure
+services and I expect that from
+innovation I will respect the level of
+security that people assumes that must
+be given by out of the shell
+okay and I want exam in your
+organization's do you think you can
+continues providing service after crack
+electrical networks in two hours ten
+hours one day can you continue providing
+your your job your with one day energy
+fail electrical energy disappear you
+mean an interruption of one day one day
+you can say two hours years because I
+have a machine you can also you need to
+accept a little a certain level of risk
+also because trying to investments to
+protect yourself against everything one
+you don't need you don't know what
+everything you can you can face in the
+future and then and and secondly it
+would be very expensive so so you need
+to accept that that you will be exposed
+to certain risk and and you have to find
+the balance between the investment and
+they and the level of of protection so
+back to your question if we if we could
+well depending on the so we we provide
+service level agreements for for many of
+our products that would provide that
+authorization or so that assurance and
+of course again if anything ever happens
+because everything fails all the time
+the way our service level agreements
+work is we pay people we actually pay
+people back anything that they would
+have paid on us start doing that debt
+failure but I would say that you know
+the answer is basically yes everything
+that we do is massive massively
+redundant to the point that our data
+centers are actually located you know
+within a certain region we have clusters
+of data centers that are on separate
+power grids separate flood plains they
+are designed specifically to to be
+resilient to power outages and things
+like that
+we put your eyes and we protect which
+are more critical and we have we try to
+recover the minimum resilience services
+but however in health system
+the most important resource are doctors
+so without doctors with we will fail
+this issue without electricity
+we they'll do their best it's more
+critical than energy electrical energy
+the doctors well last question
+we found that our societies over the
+infrastructure that civil engineers
+designed over the criteria this criteria
+that was historically historical serious
+rs8 the for the cigarette system of
+barcelona they got their twenty years I
+think you said but with the climate
+change discrete area disappear because
+the historical series doesn't work that
+probably means that the infrastructures
+that that we found our buildings our
+roads our highways our homes now nobody
+knows if they are ok ok you understand
+how do you think we have to affirm this
+this this this history it is this
+amazing situation that all the people
+says well I put this Ridge here and I
+know after 500 years of range and
+everything this Ridge will be there now
+nobody knows how long a ridge will be
+there how do you front not the crater
+for the future I see you work on this
+but but what sensation do you have or
+what do you think how people kind of run
+this it's the complicated time managing
+these this uncertainty and that's what I
+I mentioned in my presentation that we
+need to include criteria think of
+multifunctional infrastructures that are
+maybe because they require a great
+investment and we need to maximize this
+investments oh and maybe think of
+software also measures that can be
+adaptive in the in the future so there
+are no they are not rigid and that we we
+are aware and that we recognize that
+well we plan them now we build them now
+but they need they have a lifetime a
+longer a very long lifetime and we will
+need to be able to adjust them to to new
+challenges so I think we need to think
+in terms of of making them more more
+flexible because we will for sure need
+to to be evolving them and and also this
+this other point trying to think of
+solutions that solve more than one
+problem that provide Co benefits and
+also that provide multiple functions
+because maybe most of their lifetime
+they won't be in use if you only think
+about 500 time return period rain so we
+may never never happen so in the
+meantime we need to be to be able to do
+something with without thanks this is
+actually one of the things that excites
+me about Internet of Things which I
+think you could appreciate is that as we
+instrument more of our infrastructure we
+can know a lot more about our
+infrastructure so one way I talk about
+this a lot is I that was talking about
+lowering the cost of knowledge so
+previously like so you talk about a
+bridge how many times can you afford to
+spend a human inspector out to a bridge
+and have them pay attention long enough
+to every detail the bridge to determine
+you know if its bearing its its load
+appropriately an example how this works
+as Transport for London they instrument
+everything within their system to the
+point they know how fast the the
+escalators are running they know the
+weight of cars of trains and based on
+the data that they have that sensors are
+producing it's very cheap for them to
+know like that escalator is running
+anomalously slow or you know these
+trains are really heavy or you know
+they're going slow and things like that
+so as we as sensors get cheaper and
+managing and analyzing this data gets
+easier it lowers the cost of us knowing
+of what the health of our infrastructure
+I'm not a climate expert but what I what
+I think about it is that which changes
+can have for a city like Barcelona if
+there is a weather change which changes
+have for a country like Andorra when
+there is a climate weather change and
+and we we must be aware and take an
+economy way also to resilience and
+continuity in in a city that is so so
+beautiful and with so many things that
+they have attractive that are the near
+of the weather and the climate no and
+that's the reflection thank you very
+much jet a little bit I was I have an
+idea to close the our places we have
+three four more minute yes we have here
+mister Amazon so okay and if there is a
+data bridge or there is any attack you
+must you are obligated to inform your
+clients absolutely yes we lose all
+credibility if we're not transparent
+with our customers about about such
+things
+yes do you have any policy from
+connections that are from for example
+tour networks I do not know the answer
+that question I'm sorry
+there are really critical services that
+are depends on Amazon services from for
+example cities that they are or industry
+that they put their critical services
+not backup services their business on
+Amazon can you say one example and which
+can of insurance or which kind of
+coverage do you have to offer them in
+case of measure or this this risk that
+you cannot transfer how can they
+transfer them to them you okay this is
+called the hot seat so I don't I don't
+know examples or any information about
+insurance or policies that we provide
+for anything like that other than our
+publicly available service level
+agreements but we have many many banks
+[Music]
+thousands at this point of government
+organizations that use AWS for for their
+infrastructure many of those including
+for for mission critical infrastructure
+including defense agencies and and all
+sorts of transportation agencies as well
+that have have critical infrastructure
+running tracking data about about
+infrastructure and people and citizens
+moving around the world
+so and and I think you know one of our
+most high profile banking customers is
+Capital One they do a ton of stuff on us
+I wish I had better examples off the top
+of my head in terms of those kinds of
+customers but but many many government
+organizations that work in defense and
+in in transportation transportation
+infrastructure use use AWS one good
+example this is the US Navy they use
+this for for many mission-critical
+applications I have one question for
+domain Oats their machine saves to me no
+excuse me
+no it just as you show us a lot of
+information that your handle
+if it came from sensors and how can you
+protect sensors and avoid to be to have
+attacks on them or the defacement on
+data and if you have any project on
+citizen of us as a sensor of your
+question what was the last hour series
+yeah of course yeah yeah they
+collaborate and we have sources we have
+channels with citizens to report for
+instance the maps that I showed with the
+incidences in the city many of them come
+directly from citizens reporting to my
+telephone email or even we have an a
+mobile app close the sensor so the sense
+is transparency is very important here
+this again overlaps I thought I said
+before about keep maintaining
+credibility sensors will fail sensors
+might become corrupted in some way or
+you know a good example this is there's
+a satellite called Landsat that
+something there was a failure the sensor
+started producing weird data the
+providers of that data were very
+transparent the community said the
+sensor failed here's what we know about
+the failure and here's the data that's
+being produced and the community figured
+out how to work around that and and deal
+you know extract value from the data
+that they could get even though the
+sensor was not perfectly calibrated
+anymore so it all has to do with
+communication to retain that the trust
+in usefulness of the data from a sensor
+will close fast answer people as a
+sensor sure with the mobile when you
+make a transportation in a city the
+telephone companies see what is the
+movement of the people and in this way
+they can optimize the road of the of the
+the boost the the the most doctors in
+the cities the matrix origin destination
+you can you can make that the best
+solution for the public transportation
+using only the
+the localization of the people that move
+in a city that is many other
+uncertainties about the the sensors if
+the the the the the probably a challenge
+today for the sensor in the Internet of
+Things is what what what is the
+information as a sensor provide and and
+what is this information for this is the
+there is a lot of information but you
+want to use it what this means in which
+situation this is the correct measure of
+this of this data and internal things
+can manage a lot of data but when you
+want to use the data
+what is this data you understand me this
+is the challenge today for specific
+things you can take in three ways
+different ways the same data but
+Internet the philosophy Internet is not
+to do three times the same data is to
+have many data okay
+at the annual have to correlate data in
+different origins to have information
+not data to have direct interaction now
+I close before when I made the the my
+last question about the the civil
+engineers and the richer the idea was to
+close saying that the probably the
+Internet of Things the the the sensors
+can provide that information about our
+infrastructure you said something like
+this and and well only we are right here
+there is one minute to finish say thank
+you nobody slipped I was seeing you now
+what is this lipid thank you very much
+for your attention
+thank you very much for the speakers
+thank you
+[Applause]

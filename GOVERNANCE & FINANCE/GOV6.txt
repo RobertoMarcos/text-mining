@@ -1,0 +1,1170 @@
+Title: Trends and opportunities in smart city development
+
+Ê
+Subject: Data Governance
+
+* Data & Tech
+Abstract: 
+
+Cities around the world are using different approaches to implement smart city projects, employing new technologies to leverage data and engage their residents. Yet these efforts should include policy recommendations regarding smart infrastructure, administrative guidelines and community engagement. What are the best practices and frameworks for the smart city development? What are the lessons to be learnt from the most successful early adopters?
+
+Speakers: 
+Ellis Juan
+Jarmo Eskelinen
+Mustafa Eruyar
+Rajat Bansal
+Jung Hoon Lee
+Brian McGuigan
+
+Conference: 
+[Music]
+good morning welcome to this a very
+interesting panel on trends and
+opportunities for smart city development
+we have now the responsibility to wake
+you up we have a very diversified panel
+today coming from different sectors we
+have professor John Hong Lee from the
+University of John say from Seoul Korea
+we have Jarvis kalanor NGO from UK a
+future cities catapult
+we have Mustafa Roger who's the manager
+of the company that administrates and
+develops the smart city for the city of
+Istanbul and we have by omegan an IOT a
+company Silver Springs network based in
+the United States although Brian comes
+from Edinburgh she has a couple of
+concepts to share with you and to kick
+off this panel at least for me my
+experience in Latin America a smart
+cities is that European space that uses
+information technology and the Internet
+of Things to be able to provide better
+public services and more efficient
+public services while at the same time
+preserving the physical and
+environmental assets for future
+generations in this cities the citizen
+is at the center of the whole planning
+process a second thought is that this is
+a process
+you don't meet great from traditional
+city management to a smart city
+management from Friday to Monday over
+the weekend it takes a while it's a
+process that you need to plan you need
+first to have your infrastructure
+connectivity but more in place your
+fiber optics your sensors your ATVs and
+so on and then you need to also choose
+and start with the easier applications
+the ones that have a higher impact in
+the shorter term so you leave your
+complex applications like you know solid
+ways like to know when the garbage tank
+is going to be half or full and you
+start with things like changing the
+light bulbs in the public lighting
+to let technology so that can give you
+some energy savings that you can use to
+continue with the process of
+transitioning to a smart city train of
+management so with this we're going to
+give the word to Professor John Lee from
+University of John say professor
+what if you could
+good back
+well fine okay no one is born
+it's not my slide slightly
+no it's not
+[Applause]
+well I tried to begin my speech without
+my slide but I hope that it will come
+out soon my I've been this is a it's
+good to be back it's my fourth time that
+I've been here in smart city World
+Congress and I've been doing research on
+the how the different cities actually
+fostering their innovations throughout
+the world and this year that I
+comparative study of ten cities has been
+done
+not again so we're gonna change the
+order and we're gonna have Jarvis Cardo
+system
+apparently that technology's not as as
+smart as we thought
+it's stuck now
+yeah that's it is it sorry that we are
+changing the order back we start with
+this your presentation okay okay
+so I'm back so I've been doing this
+research for the last five years I'm
+good to just shoot a very flavor of the
+what's the trend and development in in
+smart city right now these are these
+densities we've been analyzing we've
+been analyzing 676 services with the app
+services and infrastructure and we
+looking at is the kind of establishing
+the open innovation environment here
+that we can see the trends of the civic
+engagement becoming very very important
+asset for the fostering the Smart City
+innovation along with open data so the
+from simple participation to cool
+creations there we see about 10% of the
+our analyzed services actually are
+providing these kind of services with
+the citizen engagement I think it's
+going to be more and more will be
+enquiries within the open data
+I think the is not issue of the quantity
+anymore I saw issue of the how actually
+data is actually well made and used by
+there are other stakeholders for the
+creating the new services and business
+model unless in citizen experience
+through the securing security in the
+service diversity and the
+interoperability becoming very important
+here is the order densities the service
+diversity you can see the transportation
+is the most richest area to the of the
+services with the Intel probability as
+well as be some other sectors are
+following as well there may be the more
+more services will be diverse throughout
+some of a leading smash cities around
+the world again there will be the
+prevalence of the new technologies
+especially in AI are comforting with the
+food industry revolutions and also the
+changing in the citizen behavior
+according to the more greener as well
+here the we analyzing or about 42% or
+11.8% are actually doing IOT and big
+data or implementations and in energy
+and environment sectors where is the IOT
+and
+I will be becoming more dominant next
+year I think they're going to be more
+frequent speaking about the services
+based on the AI where is some of our
+urban sustainability that a lot of
+infrastructures are looking at the
+service types in energies and the
+environment area that most of our
+infrastructure based services but this
+service will be actually more handover
+to those users and the user can actually
+use this kind of a sustainability
+services station to be using the carbon
+dioxide of course there will be creating
+the expanding or open innovation
+ecosystems also though they're able
+public and private partnerships with the
+city to city collaborations here is the
+global living labs and the startup
+studies
+in Asia the Living Lab becoming very
+important asset to actually driving this
+mass it innovations there are a lot of a
+small city collaboration partnerships
+are occurring throughout this
+collaborative platform
+I'm sure the innovation exchange program
+will be launching soon with coping with
+sharing the platform and sharing the
+data with among the different cities as
+well one aspect of very important aspect
+is the infrastructure integrations with
+the small city governance in the future
+building the inter profitable the
+data-driven city becoming us so
+attentions on the small city world we
+see a lot of cities this year especially
+to actually integrating the urban
+platform and providing the civic
+platform to engaging with a connecting
+with the more and more facilities and
+devices we are going to see the more
+high level of network effects with the
+increasing escape allottee
+to deploy in the of this mass city IOT
+network and such as the other kind of
+the networks will be also coming to the
+create in the more high level of network
+connectivity also lastly police there
+are small city components issues that we
+need to actually take care there are
+some organizations are some cities
+actually doing the leading dedicate
+organization to force and Asthma
+innovations and this leadership
+coming very important also the
+deregulating and also creating the
+innovation free zones to actually for
+fostering this innovation becoming so
+essential element of the next generation
+of smart city as well you can see all
+this report in get smart city in this
+report from the following website and I
+hope the look for text should have more
+discussions and transient and
+development of small city thank you
+thank you professor very disciplined
+with time and now we finally have
+Journal from future cities catapult in
+UK Germany's yours
+hopefully soon okay very good fine
+so I'm Jana mascara and chief innovation
+integrity officer of the future city is
+catapult in the UK we are uk-based
+innovation company with the remit to
+develop the sector of advanced urban
+services the new term which you see
+there is kind of smart cities plus so
+it's the we understood that smart cities
+alone actually doesn't cut it you need
+to expand to areas of planning
+architecture creative industries etc to
+in order to crack the challenge which is
+the city basic fact
+well cities are the most enduring human
+achievements think about that city of
+Rome is still there Empire of Rome
+vanished quite a while back already
+cities tend to stay around and I think
+that is one of the challenges which we
+see in the smart cities domain when we
+want to retrofit cities because City is
+fundamentally a layers upon layers upon
+layers of unfinished plans no city is
+ever finalized novel is it is ever ready
+and if it is built at once it's a boring
+place we like cities which are imperfect
+and awkward and have these layers of
+legacy and that's the has been the
+problem of the first wave of smart
+cities and one of the things which we
+now see is a greenfield investing models
+for new cities are diverting from
+brownfield investing models so existing
+cities need to have different business
+models opposed to cities which somebody
+just starts to build from the scratch so
+I think the new trends of Bill Gates
+buying a plot of land in Arizona and
+wanting to do a smart city there it's
+actually valid way to do things when you
+I in the business of building new cities
+new places but it might be far more
+problematic approach for existing places
+for the cities which are already out
+there one of the challenges of
+organization of course is that yes it's
+a mega trend word is urbanizing for
+but it doesn't open eyes equally so we
+have our leading cities the london's of
+the world the new york's then we have
+lots of cities which actually become
+indie pop you list and that is also a
+smart city trend an urban trend that
+cities are losing people and lastly we
+have cities which are only growing
+without bringing better quality of life
+to people who move there the
+fast-growing cities of the developing
+countries the the Rio de Janeiro's of
+the globe and I think the key to
+sustainable smart cities must be
+solutions which can be tailor-made for
+these different types of cities there is
+no one solution or one approach to do it
+right but there are some things which
+are in common despite all of that and
+that's the way we live in cities which
+has just been changing lately that's
+that's an event in Helsinki my old
+hometown and it looks like people
+selling food in a park looks like an
+analogue event it's called restaurant
+day and actually it's a digital event
+it's a digital innovation because it's a
+day of pop-up restaurants last time it
+was counted 1,500 pop-up less
+restaurants around Helsinki and the only
+way to find those is to use your phone
+and the app there to end up in some
+random park somewhere where somebody is
+selling cakes and that's the way the use
+our cities we are in a search mode all
+the time and that transform the physical
+infrastructure if you're in a search
+mode in platforms you don't need any
+local shops anymore you can buy Accardo
+food at 6:30 in the morning they bring
+you your groceries and Tesco is
+suffering local shops are suffering
+because they can't beat that competition
+anything which can be platformer big co2
+platforms will be going to platforms and
+the main challenge with that is the
+challenge of speed that's the main
+challenge cities are tackling with we
+have just analyzed about 20 global
+cities and the
+much of the strategies in our global
+review it's available as of from
+yesterday and there are multiple ways to
+do it
+you had to top down you can do bottom up
+you can actually have a smart city
+without a strategy and one of the
+leading ones Amsterdam doesn't have as
+much of a strategy they still are
+considered to be one of the best but the
+ones which seem to crack it they are all
+able to deal with the challenge of speed
+and there are some ways with with which
+that can be tackled so why is it the
+challenge that's because digital
+innovations grow at an exponential pace
+when they take off I mean think about
+Airbnb envision you birthday went around
+just a few years back in a city scale
+five years is a short time to turn
+things around in a digital domain it's
+they're like dog years you know four
+equals one normal year it's several
+decades of technologies ago and when
+these digital disruptions crash to our
+cities cities have a tough time dealing
+with it and the cities which are the
+best smart cities other ones which do it
+well and I close with some of the
+examples of how what what they do what's
+in common first of all they work through
+experimentation cities are traditionally
+driven by strategies policies and
+regulations that's the classical way of
+running a city you build your strategy
+and start to implement it and that turn
+into 832 policies however that's a very
+slow route to impact there's other route
+to impact which companies use which is
+if you have an idea build the first
+prototype test it and if it works then
+scale it and best smart cities are
+working actively and consciously with
+urban experimentation trying things out
+in practice example from Belfast where
+we we have worked with the city which is
+their smart city strategy framework yes
+it's a multi-year framework but the
+trick of succeeding in that this
+particular project was that we had
+ongoing experiments
+while we did the framework with Belfast
+greats forecasting over there was a
+challenge which they had the city
+couldn't collect their business rates
+the property taxes only seventy four
+percent of those they lost millions
+every year what they did was to open the
+challenge to data analytics companies
+for innovative procurement competition
+and they got back two companies one is
+there enquiring minds in the pilot phase
+they brought home three hundred and
+fifty thousand pounds of extra income of
+a project which cost the city one
+hundred thousand pounds so three times
+profit from a short pilot and now they
+are turning it into a inter product
+common elements in these cities first of
+all they combine top-down bottom-up
+example there is the participative
+budgeting of Paris city of Paris is
+using five percent of the budget
+localized to boroughs so that people
+there can vote propose and vote
+initiatives which then are realized with
+Paris funding and the trick this that
+Paris gives a promise that this will
+happen when you join second they use
+openness as a competitive advantage hope
+my current home damp London has the
+London datastore it's an old initiative
+and that strategy of data store has
+turning from open data to shared data
+when you share the value and use it as
+an asset for the city fundamentally
+meaning that you can do contracting at
+the base of the when you when you
+release the data and and also
+consciously avoiding technology lock in
+situations where your data is held
+captive by anyone one company openness
+goes both ways
+third they understand that best
+innovators probably don't work for the
+city
+no offense that's just how it is I mean
+in any city you have far more much
+bigger amount of innovative people
+working somewhere else than in city city
+administration unless everybody works
+for the administration that's probably
+not true so uh active in
+the collaboration is also defining
+factor example there is my old totem
+again Helsinki conceal of developers
+program which brings every year hundreds
+of developers together with the city to
+crack open challenges and every year
+launches new companies which are there
+to help the city to offer better
+services and lastly they use urban labs
+to connect the changemakers Copenhagen
+solutions lab as an example
+Amsterdam models as an example New
+York's of his office of data analytics
+they are labs which are reach out to
+change makers in the administration and
+in the companies and bring them together
+because change makers often are alone in
+their organisations they fell feel
+deserted and you can bring their
+brainpower together and to increase it
+through using a lab based model and that
+can be built into a standardized
+approach to do cities in which you
+select and bespoke components which fit
+use it is just the right for your city
+that's it for now thank you thank you
+general
+we're not gonna have Mustafa Edwige our
+he's the smart city coordinator from the
+city of Istanbul to share with us some
+good stories about how you guys doing in
+Istanbul thank you ladies and gentlemen
+my name is Mustafa forum is back
+Istanbul I will talk about big smart
+Istanbul roadmap today
+[Music]
+[Applause]
+[Music]
+okay
+my company spark is an affiliate company
+of Istanbul Metropolitan Municipality it
+is responsible for developing smart city
+technologies and wanting to smudge the
+office of Istanbul so I'm representing
+now city of Istanbul today to you
+Istanbul is at crossroads of Europe and
+Asia if with 15 million population it's
+the biggest city on Europe and also
+because of that population Istanbul has
+many challenges because of demanding
+population especially on mobility energy
+environment so for this demand we
+develop smart systems and services as an
+example from environment invest
+management collection center monitors
+each point of waste collection to the
+disposal and recycles as energy floating
+solar power plant on one of the lake of
+Istanbul and other economy R&D; centers
+from global companies to support
+startups at Living depth which are run
+by municipality of course we do not
+forget the children for them we develop
+dream cart as an IOT cart and you can
+access from an open data platform to
+this cart to motivate children
+programming discard in mobility attacks
+management platform I taxi promotes taxi
+healing system also taxi cameras and
+panic buttons for safe driving also IOT
+taxi cab for collecting data from all
+over the Istanbul with 17,000 taxis
+including all taxis in Istanbul for
+safety we have traffic enforcement
+systems with 10 types of enforcement
+from speed red-light shaded area
+violation
+also we have mobile traffic enforcement
+systems
+it's an equipped vehicle with sensors to
+detect violations also we have a call
+center for all complaints of citizens of
+Istanbul called one five three call
+center you can call this Center for
+every complaints of Istanbul but we have
+a lack of collaborative stakeholders and
+interoperable technologies like all
+cities like my java speakers talked
+about we need a unique strategy we need
+interoperable technologies among smart
+systems and services it is the
+motivation of big smart Istanbul now so
+how to become big smart Istanbul now we
+have smart systems but we have to be
+become big smart so we have a motivation
+to call it big smart to become big smart
+Istanbul we have first node we have to
+have not the global with literature
+review so we have to know the ourselves
+with current state analyzes so we have
+to benchmark this with developing
+Istanbul smart ste index with the
+motivation of this index we have to have
+an one vision among all stakeholders and
+strategies and just one world map of
+Istanbul smarty to have inter probable
+systems we have to have an system
+architecture for all systems so we
+choose to work with global companies at
+this stage we worked with first and
+Sullivan at benchmarking we worked with
+action for the current state analyzes
+and we are working with vision we are
+working with Ernst and Young for the
+vision and strategy and roadmap and now
+we are working with Cisco for the smash
+the platform
+for the literature review we cause the
+most important smashed indexes all over
+the world we choose 50 cities from this
+indexes and according to our parameters
+we prioritize these teas to have 10
+besties
+we call it the Champions League of the
+cities and in the current state
+assessments we have over 200
+stakeholders we met with all these
+stakeholders and we analyzed their smart
+systems and we have a big report about
+current state assessment so we benchmark
+with this Champions League with Istanbul
+we have the Istanbul smarty index with
+our own defines indicators with 60
+indicators we within all pillars of
+smart city and we understand that we
+have a progressive way to be big smart
+to be big smart we have to have an one
+integrated smart division for this we
+developed the purpose vision and values
+and mission of the small city and to
+have a motivation for the citizens or
+also for the runners of the city we
+combine this as the manifest of smash
+city Istanbul we determine our
+strategies the KPIs initiatives and
+roadmap projects with persona and
+fortunately analyzes of citizens so we
+have to have to listen the citizens to
+soar better to them at the end to
+achieve one integrated ste platform to
+have operable systems we have to have
+and smash the architecture now we are
+working on this architecture with Cisco
+so lastly I want to invite to our
+worstest Congress in 2018 to have
+meetings with you and thank you for your
+attention thank you mr. pham very
+entertaining now we're gonna hear from
+Bryant on this new latest technologies
+about G and how to use radio frequencies
+[Music]
+hi there everyone so thank you for for
+being here today my name is Brian
+McGuigan I'm from the company Silver
+Spring networks and gonna run through
+some trends that we're seeing really
+having an impact in the way cities are
+making the transition to become smarter
+so for those that don't know Silver
+Spring Networks we provide the
+communication and data platforms to
+cities and utilities to connect them to
+all the IOT devices that they have so
+that's to connect monitor and control
+all of the assets that they they care
+about the company is about 15 years old
+and we've been lucky enough to work with
+hundreds of cities and utilities across
+the world in total we connect over 27
+million devices and we manage huge
+amounts of data this is not connecting
+laptops and mobile phones but instead
+connecting all the sensors and devices
+and controllers that that cities and
+utilities are using to develop these new
+new systems and we've often focused on
+those applications that really require
+and and benefit from high reliability
+and resilience we actually very high
+levels of performance in the system
+typically 99.9 percent connectivity to
+all of these assets so when we talk
+about smart city I guess we're working
+now with with cities across the world to
+connect a whole range of different
+applications
+everything from intelligent street
+lighting to traffic management systems a
+large number of Smart Grid applications
+that cross over into the city domain
+environmental sensors etc and and we see
+that every new city we work with this
+list grows and grows as every city as
+different requirements so to write today
+I'm going to run through four trends
+that we see having a big impact these
+aren't necessarily new trends but I
+think they're maturing in a way that is
+actually making them much more effective
+and useful for the cities that are that
+are adopting these methods so first of
+all we're seeing the kind of the growth
+and success of open ecosystem models so
+the the smart city that was perhaps
+envision 15 years ago when when large
+ICT companies proposed this to cities
+kind of took the view that a company
+would come in and deliver a smart city
+in a box for a city and often those
+companies would would take the view that
+they would build a series of
+applications for the first city and
+invest there and then be able to sell
+those solutions to 15 more cities and
+that's kind of how the model would work
+but but that quickly fell over because
+city number two never really wanted the
+same as City number one and that could
+be because of legacy requirements it
+could be because of local startups that
+they want to be involved in the in the
+equation or the solution and so instead
+we see systems that are more open and
+invite partners to work together and
+collaborate being much more effective
+and clearly an analogy that this relates
+to the mobile industry we know that ten
+years ago this was dominate order 15
+years ago dominated by providers that
+had very trusted technology and but they
+relied entirely on in-house development
+and therefore innovation was relatively
+slow and incremental and they've been
+now completely overtaken by providers
+who enable others to develop on top of
+their platform enabling I'm you know we
+all have the same phone in our pocket
+but there's a hundred different things
+for each of us based on our lifestyle
+and our requirements and that model I
+think fits the smart city market much
+better because it allows cities to
+evolve and respond to the specific
+challenges they have and linked to this
+is is up kind of pushed awards open
+standards and again this isn't a new
+concept and but we are seeing this
+coming through but you know we're often
+asked as a standards based organization
+we're asked what which standard do you
+follow and the reality is there are
+hundreds of standards that matter in
+this space and in every in every cases
+where their commitment to having those
+one example if we look at smart lighting
+that was referenced earlier in the
+introduction if you look at the
+end-to-end components that are required
+to enable a smart lighting system you
+could buy these 10 15 years ago from
+suppliers but you would be you would
+have to buy every component from them
+and you would be locked into them for
+the duration of your use of that system
+and what we've seen know is that
+standards have emerged across the
+end-to-end system that allow you to
+build a solution with the parts that you
+want and the suppliers you want allowing
+different companies to interoperate and
+allowing flexibility over time if
+requirements change or or providers
+change strategy so that that is I think
+really helping accelerate the adoption
+of these systems one city that's a good
+example of is Glasgow in the UK who ran
+the future city demonstrator three years
+ago which included bringing a whole
+range of systems together with an
+underlying ethos that there would be
+open sharing of data and integration
+between these systems including an open
+data platform an operation center and
+for demonstrator site sites we provided
+a smart lighting demonstrator which
+showed how street lighting could enable
+different sensors and systems to bring
+data together including traffic
+monitoring data air quality and noise
+and that was provided by a whole range
+of different vendors who collaborated
+and use these open standards to build
+the complete solution and ultimately
+share that into the city's open data
+platform and they're now really looking
+at that as a platform that they can
+build future innovations with and extend
+the functionality to link in with
+emergency services and other systems so
+the second trend is that cities are
+really working hard to find ways to
+break down and work across silos and
+sharing can mean sharing anything from
+obviously budgets but just sharing
+information on the problems that the
+departments are facing projects are a
+running business case development and
+you know creating that crossover and
+communication between departments is
+obviously recognized as fundamental to
+allowing cities to evolve and cities are
+taking a wide range of different tactics
+here many are forming as was mentioned
+kind of dedicated innovation areas the
+urban ICT arena in Stockholm for example
+which brings together a range of
+providers and university partners and
+the city representatives to experiment
+and share information in a way that will
+help foster innovation others are
+perhaps being more pragmatic Paris for
+example saw that they had a requirement
+in peril
+for a street lighting control system and
+a traffic control wireless system and
+they chose to combine those tenders
+together knowing that by running one
+tender they would arrive with something
+more flexible than if they treated them
+separately I know they see that they're
+able to use the wireless network and the
+software platform to connect up a wider
+range of infrastructure and they
+ultimately see that as a tool for long
+term innovation the third trend is I
+think cities are know recognizing that
+becoming smart isn't a one-time fix but
+instead a change in process and I'm kind
+of an evolution to respond to the
+shrinking of the technology cycle that
+that means the innovation is happening
+readily and there's more recognition
+that we don't know what the requirements
+or possibilities will be in two years
+time and that means systems are being
+planned with the ability to upgrade them
+over time and being viewed as something
+that will change and evolve and less fix
+them previously cities are having to
+work hard to change the relationship we
+have with technology providers and
+suppliers of services in the way the
+contract and procure those to make sure
+that they can evolve as efficiencies
+improve etc one example of that we're
+working with the city of Copenhagen to
+connect 20,000 new streetlights across
+the city with the initial major target
+of reducing energy and carbon but quite
+quickly after deployment Lee realized
+well actually they could use this system
+to improve cycle safety and so by
+partnering with the traffic the the
+pride of the traffic management system
+we've been able to build a system or
+they've in fact been able to build a
+system that links the traffic and the
+lighting to increase the lighting at
+junctions for cyclists with an aim of
+making them more visible to reduce
+accidents that said we think that
+certain aspects will need to have a of
+central planning aspect to be successful
+I don't think everything can just evolve
+freely security is a great example and
+we are seeing increasing incidence of
+IOT systems being compromised and I
+think that will only increase as we
+as we see more and more IOT systems
+being deployed and security really is
+something that has to be planned upfront
+and applied to each application in
+parallel consistently to make sure that
+the overall the system is secure and
+it's often said but why would someone
+choose to hack a weather station or a
+street lighting system or some other and
+perhaps innocent system and the truth is
+people will find a reason even if just
+for their own entertainment so the final
+the final trend is again that we're
+seeing citizens really firmly being put
+at the heart of many of these leading
+initiatives and that can be exploited in
+their needs again if we talk to
+Copenhagen about their street lighting
+program one aspect they always highlight
+that they're proudest of is that after
+awarding the contract they walked every
+street in the city with the provider
+they'd selected to see well what else
+could we do for these local communities
+for these retailers for these residents
+to use lighting to improve the system
+rather than just the energy saving and
+that identified a range of other
+benefits cities are changing the way
+they communicate with their citizens
+through more dynamic interfaces and the
+reference earlier of Paris you know
+allocating budget to actually target
+prioritized applications I think we'll
+see growing and even the the kind of who
+qualifies as a citizen we're seeing
+evolving we're involved in the largest
+intelligent lighting program in the
+world in Florida this is half a million
+lights being upgraded and yet within
+that enormous program we spend a huge
+amount of time talking about seven
+hundred and thirty seven of those which
+happened to be in turtle breeding areas
+the problem here being that hatchlings
+follow the moon to find the sea when
+they're born and if the street lighting
+is too bright they instead follow that
+and end up on the road which doesn't end
+well and so in this case they were able
+to build a special application that
+would give the environmental services
+the ability to program in the dates of
+turtle breeding in that particular area
+and control the lakes accordingly so we
+see that every city is having these
+bespoke requirements that need tailoring
+the final thought is that we are seeing
+a kind of ongoing view the cities have
+to be fun you know very few are
+interested in living in the dystopian
+view of futuristic cities that we see in
+many sci-fi films and you know a great
+example of this is one a project
+playable cities initiative who in this
+case hijacked a number of streetlights
+around the streets of Bristol and
+replaced the lights with the projector
+and a camera that would record the
+shadows of people to walk by and then
+replay them for the next Paris in the
+past and what they found was that as
+well as creating a lot of confusion
+initially they then quickly found that
+people were communities were gathering
+in these dark alleys that previously
+been quite uninviting and playing games
+and dancing and really really changing
+the perception of what this
+infrastructure could do for those cities
+and what role it should play so that is
+everything today so thank you very much
+and looking forward to questions thank
+you Brian
+very clear it before we get to our last
+speaker we're gonna have probably time
+for two or three questions a the
+application system is not working today
+so I encourage you to use the micro and
+now we have my advanced AI from the city
+government seed of rightful India
+treasurer if you could make it in eight
+minutes really appreciate it
+[Applause]
+a very warm good morning I'm Raj Bansal
+from the city of Raipur in Chhattisgarh
+state of India I'm sure all of us would
+know a little bit about India India is a
+country which right now has the second
+largest telecom connectivity and the
+internet not with number of Internet
+users in the world and we when we talk
+about smart cities in India we don't
+talk about technology we talk about
+people just to give you a little
+background about the place from where I
+come from I'm the Commissioner of raipur
+city which is around has a population of
+around 1.6 million which is
+approximately the same as Barcelona the
+size of the city as well is the same as
+Barcelona but in terms of population in
+India the city is around 45th in rank so
+we are talking about a large number of
+people here and being a democracy being
+the kind of a chaotic democracy as we
+call it as someone might have visited
+also so being a democracy like that the
+main challenge in our smart city
+projects is not technology it's the main
+challenge is the people whether the
+people are able to use that technology
+whether they are able to connect to that
+technology whether they start finding
+value in that technology so when we
+started the smart city initiative in
+India in raipur per se we talked about
+people powered approach in this in our
+Smart City project we have projects like
+infrastructure projects hard core
+infrastructure projects which are
+redevelopment involves a large number of
+shifting of people then we have core
+technology projects I TMS the
+surveillance system projects the traffic
+management projects and a mixed bag of
+all these projects but the main
+challenge that we had was how are people
+going to receive these projects and how
+are people going project so we started a
+kelabra collaborative approach wherein
+people became our focus points in even
+in our infrastructure project we started
+taking our drawings and our designs to
+the people started taking their feedback
+and used a collaborative model using
+open-ended
+platforms internet-based platforms for
+their inputs and then those designs
+which were then finalized through
+people's inputs then actually came in to
+ground
+that that is the way in which we could
+solve problems of projects which were
+stuck still still in 20-25 years so to
+give you another example we also have
+experimented so to say with technologies
+like geo tagging technology we in in our
+effort to make our city green we wanted
+to plant more trees as you know India so
+we spend lakhs and millions of rupees
+every year to plant more trees where do
+where the trees goes it's a question for
+all of us but how do we monitor that and
+how do we more than monitoring how do we
+make people sort of own that tree so
+that the sustainability of that plant
+that tree is is taken care of so using
+that that kind of a thought in us we
+went for a geo tagging approach for our
+trees and our plants we told the people
+that you can take the plants for free
+from the government you plant a plant
+them wherever you want just geo tag them
+and then later on after a few months we
+then got a drive created in which a
+person has to go back to the plant and
+take a selfie with the plant so with
+that little little ownership that we
+created to a throw very my new
+technology we could actually achieve a
+lot of our objectives and more
+importantly we achieved a sense of
+ownership in our citizens so this is the
+kind of smartness that we are talking
+about in our cities the work that we do
+work we do as a government but using
+technology to connect to the people to
+actually connect the bridge between the
+government and the people so I'm here
+the reason why I don't have a
+presentation here is because I don't
+have many jargons here I am actually the
+consumer of the smart city technologies
+that most of you are interested in or
+are working to produce so as the
+consumer I would want technology which
+helps me the government and especially a
+government like the governments in India
+where the system is still a little
+feudal where there is a lot of gap
+between the the people and the
+government it's not like the Western
+countries where the government and the
+people are much more in an engagement
+perspective so as a consumer of these
+technologies I would want you to come up
+with solutions where I can
+use that technology to help connect with
+my people better and inculcate a sense
+of ownership amongst those people so in
+our smart city program our approach is
+to create a more ripe or a sense of my
+iPods so when we do that when we make
+each citizen feel that the city is his
+or hers that is the time when we can
+actually make a smart city so that is
+our belief and thank you thank you for
+giving me this opportunity thank you I
+get very disciplined okay so we have
+here two representatives from two very
+large cities Istanbul and tripod we have
+a professor from the University of John
+say in civil we have a think tank from
+UK and we have a private sector company
+provider of IOT solutions we have time
+for three questions or four please use a
+microphone oh you have something here
+sorry okay so the system was working
+after all with a question for Gemma
+what do you think is the best business
+model for greenfield smart cities well
+that's a that's a tough one best mr.
+Greenfield smart cities hmm I would aim
+for uh for the stage public-private
+partnerships so about what I I think
+which dangerous ideas that if you strike
+a deal for 30 years we don't want
+provider for anything nowadays it's a
+bad deal for the for the city so but I
+think we still that frequent Greenfield
+of course is the amount of capital which
+is needed so any sort of a life life
+cycle based staged public-private
+partnership model can be the one which
+is sustainable for for that and which
+doesn't pretend that it knows where the
+city ends which kind of has the check
+points possibility to change direction
+and prioritize differently over the
+timespan of the project Thank You Jo
+any other questions using the microphone
+if not since we have some time is still
+I'm going to give the rest of the panel
+a one minute one minute and a half just
+tell us in your own opinion what is the
+most important trend that you're seeing
+today in the smart city development and
+shared with the audience happy yeah
+thank you having a comparing with the
+ten cities I think the most kind of
+trendy is the actually we are actually
+talking to the data-driven smart city as
+well so in order to creating this useful
+data of course there are you need to
+have a very integrated platform so in
+order to build it this platform
+obviously you need to have a very good
+governance systems that the department
+with a different Department with
+different agents you have to be
+interconnected as well so based on this
+interconnected kind of infrastructures
+and along that side increase the network
+effects of the course you need to have a
+private sector engagement reserves the
+citizen engagement to actually
+developing the new kind of services as
+well so I liked what when Jeremy was
+mentioning about the urban
+experimentation things that there Laurel
+Korean cities and trying out these kind
+of experimentations and there will be
+the feasible business mode that we need
+to take away there will be the kind of
+regulations the
+laws and policies that we need to
+regulate as well so there are some
+theory that kind of testbed or
+innovation freeze earnings that may be
+required for that this next generation
+of a small city thank you Mostafa one
+single trend
+as I said in my speech the collaboration
+of organizations and technologies ISM is
+very important I think in the next 10
+years the cities will develop its own
+smarts the indexes to benchmark itself
+and also collaboration all organizations
+to achieve one vision because each
+organization has its own vision so it's
+having some interferences each other so
+one vision one road map is very
+important for also interoperable systems
+we have to have one platform Portsmouth
+City I think it's very important to have
+interpolation all the systems thank you
+Thank You mr. Farr Brian I suppose one
+trend that I'm seeing in relation to
+this event itself I think is very
+positive over the last few years there's
+been a it's very encouraging to see the
+growth and representation of cities and
+countries attending and and taking a
+space in the floor here and I think that
+is very helpful for us as providers to
+get better picture on on what matters to
+these different cities and I think it's
+also helping to really reinforce this
+view that the smart a smart city won't
+be delivered by one provider or indeed
+just by large providers it will be
+including medium-sized and startups as
+well and I think the presence and
+promotion of those companies at the city
+level is very important to that thank
+you Brian right yet I think the main
+challenge today for us is to use the
+data that the government already has and
+use it in a way to that the bridge
+between the government and the people is
+divided is gapped and also the the
+communication that the government has
+with the people should be customized
+using that data and the data analysis
+therein so the kind of course the kind
+of communication I have as a government
+that should that should make people
+believe in me so that kind of the trust
+deficit that we have in specially in the
+urban India that can actually be
+addressed through the data we have and
+that is the challenge we have right now
+thank you right and one last comment
+German
+need to mention something which hasn't
+been mentioned here yet which is the one
+city is not the market so I think one of
+the trends we will which we will see is
+the networks of city cities joining
+forces which is kind of a demand driven
+development of a larger marketplace than
+than one city
+there has been supply driven development
+but should be also demand driven that
+supply and demand meet in the middle
+thank you you've been very disciplined
+audience we had a very disciplined panel
+please join me in a round of applause
+for this disabled panel
+[Applause]

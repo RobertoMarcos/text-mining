@@ -1,0 +1,1389 @@
+Title: Advancing the Health and Wellbeing of People in Cities
+ 
+Subject: Health
+
+* Society
+
+Abstract: 
+
+Cities play an essential role in shaping human health. Indeed, there is evidence to support positive connections between the physical environment and people’s wellbeing. Still, the risks of adverse impacts such as air pollution, congested traffic and equity issues in terms of access to healthcare are poorly developed. What are the basic services to be provided in a digital society? What kind of tools are needed to improve urban health?
+
+Speakers: 
+
+Davide Malmusi
+Christine Kendrick
+Hoffman Lantum
+Krishnamurthy Gowda
+Luis Suárez Zarcos
+
+Conference: 
+so good afternoon I think of as
+video to start yes okay I was so good
+afternoon everyone and thank you for
+being here in this session I think that
+all in this Congress is very important
+but this session is especially important
+because why we make our city smart if
+it's not to improve the health and
+well-being of the population so we think
+that I think that this session is
+especially relevant and you have the we
+are lucky to have speakers from four
+different continents representing also
+the global North and a global South they
+will touch different topics all of them
+are of big impact on health and
+well-being the topic of work environment
+topic of air quality healthcare social
+integration so I hope it will be an
+interesting session in Versailles I work
+in Barcelona in Barcelona in the Verona
+City Hall and with which several we work
+with several organization in plenty of
+projects and realities developing smart
+smart initiatives for royal being for
+instance telemedicine health promotion
+and protection using mobile apps in air
+quality monitoring and we also
+collaborate with fear at the Barcelona
+in the in an yearly event which is
+called LTE healthier health with an
+exhibition about where patient named
+where patients and health system meets
+that is showing up in Barcelona for this
+year it has been the first time and next
+year for the second time it's about
+having patients and stakeholders
+experiencing the future of healthcare so
+we are also happy to collaborate in this
+project and now I just start to give the
+floor of to to the participants in the
+in this session so first of all
+Christine Kendrick from the city of
+Portland Christine the first to you
+good afternoon everyone my name is
+christine kendrick from city of portland
+oregon in the u.s. i work for the city
+and the Bureau of planning and
+sustainability this afternoon I'm going
+to tell you about a project we're
+working on where we are evaluating
+low-cost air quality sensors so why are
+quality sensors the map on this slide is
+showing you a picture of the city
+boundaries of Portland and that green
+dot is the one and only air quality
+monitoring station that's run by our
+state agency in the whole of the city
+boundaries so we know that our urban
+roadsides are under sampled we also know
+that health risk and transportation
+related potion is higher near our roads
+so our residents have been asking for
+this data they want to understand what's
+happening how can we what are we gonna
+do about these uneven exposures to air
+pollution but in order to incorporate
+public health more into our
+decision-making maybe it's land-use
+planning or other types of code for
+buildings we need more data so we've
+been looking at the use of low cost air
+quality sensors as a way to help
+increase that spatial resolution that
+spatial density of measurements this is
+very expensive to build out a full
+regulatory monitoring station and this
+is a picture from one of our very first
+simple pilots where we did see
+interferences from temperature and
+relative humidity cross sensitivities
+with other pollutants which was to be
+expected with the technology that these
+lower cost devices are using our initial
+pilot also highlighted issues with data
+recovery so how well we were doing and
+storing the data sending out over
+cellular modem and we would lose service
+or not have service in certain areas and
+then also that sampling Inlet design
+still matters even with these lower-cost
+devices especially for particles so we
+can't just put the hole on the side of
+the box so we have over the past year
+had a great testing opportunity that has
+been funded by a National Institute of
+Standards and Technology replicable
+smart cities technology grant
+this grant allowed us to first do a
+little bit more of a thorough sensor
+rufio so we looked at about 45 different
+sensors or devices that were combining
+sensors and what we were looking for in
+this initial review is we wanted devices
+that at least had some type of
+evaluation data set prior to coming to
+our project in our tests we also needed
+devices that were ready to be deployed
+outside so they had weatherized housing
+we didn't want to be in the business as
+the city of building our own boxes or
+having to put out cabinets so we needed
+these devices to be ready to go and to
+be installed on the poll so the three
+sensors that came to the top of our list
+at our review and are the focus of this
+project is the Sun severe ramp which is
+a company from Pittsburgh Pennsylvania
+APIs sensor cell is the local organ
+based company and then also the
+University of Chicago Argonne National
+Laboratory array of things node this
+node is different in that it didn't have
+a lot of the evaluation data for the air
+quality but it had so much research and
+investment into the CPU the computer
+processing unit behind the device and
+that was also an important piece so our
+project is designed that we argot we are
+doing lab testing then field deployments
+and then roadside deployment so in the
+lab we're partnering with Portland State
+University pictured here on the on their
+on your left is a picture of the chamber
+that they recently got so this is really
+great we can stick a whole sensor device
+inside of that chamber we can expose it
+to known concentrations of gasses and
+particles that we're comparing that
+signal you can build really good
+calibration models and you can also
+change the temperature and relative
+humidity and do in mixtures of
+pollutants so we're really trying to
+understand what those issues are are
+there things that need to be changed in
+the calibration model or the device to
+help address those issues for the
+roadside deployment we are deploying
+them out into a part of Portland called
+East Portland and this intersection
+specifically has what we call our clear
+station which stands for curves that I
+lab for emissions and air quality
+research so this station has reference
+instruments housed in a traffic signal
+cabinet it's not as
+that state regulatory monitoring station
+because it's not you know temperature
+controlled and not calibrated as often
+but it gives us a nice check again
+against a reference instrument and these
+devices out on the roadway so the
+primary bulk of the work that's been
+done so far has actually been the
+testing at the Oregon Department of
+Environmental Quality field station so
+this is a background field site that
+Green Dot from the map on the second
+slide this is that station so this is
+the top deck with all their instruments
+and we are allowed to go out and deploy
+our sensors and so what we do the
+sensors from the companies so what we do
+and we're deploying three at a time we
+want to understand not only how the
+sensors compared to the reference
+instruments but also how well they
+compare to each other
+so before we start to put them out all
+over the city we need to know that
+they're telling the same story in order
+to understand differences across
+neighborhoods so I'm going to show you a
+little bit of preliminary data that we
+have here and then go into talk about
+lessons learned and where our next steps
+where we're heading with this project
+these three graphs show the APUs sensor
+cell and no sensors compared to the DEQ
+reference instrument the reference
+instrument is on the horizontal axis the
+sensors are on the y-axis so we can see
+from this month of data that we
+collected all three sensors are tracking
+pretty well with the reference
+instrument this is good the next step is
+also to then analyze the sensor aversive
+sensor looks pretty good we're at least
+having the same range of concentrations
+for each sensor for each enno sensor and
+then this is preliminary data from the
+deployment at the DEQ station with the
+ramp son severe a device and on this
+graph you have ozone on the vertical
+axis and time and date on the x-axis so
+what you're seeing here is really just
+these initial look at our first two week
+and a half of data and at the very
+beginning the first day and a half the
+blue line is the sensor the orange line
+is the reference instrument and you can
+see that they don't track very well at
+all and this shows you that there is
+a really important warmup period for
+these sensors so really the first 24 to
+48 hours a day that really isn't going
+to be useful when you're using small
+electrochemical sensors that are inside
+these devices so after that set-up time
+we had a unfortunate local forest fire
+event obviously was not planned or
+expected and we had very high levels of
+ozone and nitrogen oxides come into the
+Portland area so the sensor did catch
+that event and you can see pretty good
+agreement in this initial check but what
+the fortunately this meant for the time
+line of our project is that we really
+had to have the sensors out there for
+longer than expected because we are
+trying to build a calibration model so
+this is great we really have this
+extreme high end of the data but we
+weren't really getting the typical lower
+constant ambient concentrations that we
+also see throughout the year so those
+mean meant more time added on to this
+data collection and this stage so whit
+and I and I as you noticed I didn't have
+any data from the Argonne National
+Laboratory and University of Chicago
+array of things nodes we haven't gotten
+them yet so this is kind of our first
+lesson learned that manufacturing delays
+are going to happen with these types of
+devices it's not your typical
+infrastructure piece that you're buying
+for the city so different components are
+made by different companies or
+organizations and so delays are going to
+happen I'm happy to say that I I'm close
+to having a shipping tracking number for
+those and we'll be getting them in about
+a month so next steps will be doing the
+lab testing with those devices I think
+also thinking about that these are
+non-traditional infrastructure pieces
+for cities is that they also don't
+really know what kind of maintenance
+they're gonna need so once we put them
+and onto the traffic signal poles and
+light poles this isn't your typical
+piece of equipment that maybe should
+have lasted to her 22 maybe even 50
+years there's me a lot more maintenance
+and different types of asset management
+that we've had to work with our
+procurement office and our Portland
+Bureau of Transportation on to figure
+out also with that that we had to
+unexpectedly take about a six-month
+piece of this past year to work on
+building a new citywide comprehensive
+policy for attachments to our polls to
+our vertical imager infrastructure so
+this was unexpected very quickly that's
+it's ramped up there's a lot of demand
+for our the city's infrastructure in the
+public right-of-way
+so not only sensors that the city wants
+to install sensors that private
+companies want to install small cell
+sites we have to think about autonomous
+vehicles coming so there's a lot of
+demands for those polls and how do we
+manage that resource best that is in the
+public right-of-way it's a public
+resource so that was also an unexpected
+piece into this sensor validation study
+so next steps what we're focusing on
+we're pulling the permits right now for
+the road side deployments of the APIs
+sensor cell and the sense of year ramp
+those will be going up over the next
+month as long as we have no snow and ice
+and our crews are able to put their time
+into installing these devices and once
+we have that data coming in from the
+road side what we have planned for
+January in February it's actually some
+small community focused work groups and
+specifically meeting with certain panels
+of equity workgroups from some of our
+transportation nonprofits and what we
+want to focus on there is sharing the
+data that we're clutching from the road
+side what are the reactions to this is
+the graph that we're using helpful or is
+this really confusing and I can't
+understand it so what are those data
+communication methods that we need and
+asked also what what other data do you
+need what's missing so really trying to
+focus on that and I think an important
+piece for this type of work is that how
+do we communicate what a short-term air
+quality measurement means in terms of my
+health and my risk and compare that to
+an annual standard or a lifetime
+standard and that's going to be really
+important to actually get to the point
+where this increased data and monitoring
+data is actually useful for influencing
+Public Health making communities feel
+like they know more about their air and
+can take action on it or not so that's
+all I have for today looking forward to
+questions and discussion with a diverse
+panel and different topics today
+and that's my email contact information
+feel free to email with any questions
+and thank you smart cities Expo World
+Congress city of Portland for being here
+today thanks thank you
+okay so while hoffman lanthum from
+Makeup unique technologies Nairobi is
+preparing the slides just to remind you
+that for that we will collect questions
+and make question at the end there is
+the you to remind you that is this a
+scam boat utility I think it's in the
+app of the the of the Congress you can
+make questions using the the a scam the
+a scam boat or you also can vote on
+questions that have been posed by other
+persons here in the in the room and at
+the end we will see the questions that
+are being made the most popular one will
+be posed to the audience and also in the
+case of off man as of managed to leave
+to to the airport before the end of the
+session maybe when he finishes if you
+have some quick burning questions for
+him you can just go to the microphones
+that are in this in this part of the
+room and and we make the questions
+before passing to the next speaker of
+man well thanks thanks David and really
+appreciate it hi everyone
+delighted to be here when I got the
+invitation to speak at the smart cities
+conference being a doctor and very
+health centric I was like okay what am I
+going to talk about but then I realized
+the story that my public health
+professor taught me said health care is
+about the home what happens in the
+neighborhood determines yourself your
+sense of self-esteem what happens in
+your living room determines your
+awareness what happens in your kitchen
+depends determines your nutrition
+studies and what happens in the bedroom
+determines the number of children you
+would have to feed so you know it sounds
+like okay so I'm at home here and I'd so
+really excited to be here now last year
+we warned the
+south let's see the South global South
+award for technology in healthcare and
+so it's quite an honor could not be here
+so delighted to be to be back here and
+and we're working with a couple of
+fantastic companies to make sure that
+we're getting technology to where it's
+needed the most and I chose to talk
+about the promise of a health
+hope hype hope you know or hustle now if
+a health has to meet his mandate of
+saving health then it must uphold the
+universal rights to quality care and
+medicines now a lot of progress has
+happened over the years and this is the
+2017 Gartner hype cycle picture I'm not
+sure if you're familiar with the Gardner
+cycle hype cycle but it really looks at
+the hype of technology in different
+sectors and this is a summary child of
+the hype cycle in health care now you
+can see that pretty much the you know
+cloud mobile technology you know is the
+mainstay in healthcare and there's been
+a lot of progress Internet of Things is
+becoming big in healthcare and that is
+the hype right now there is a huge drive
+to incorporate artificial intelligence
+to help address some of the pressing
+health needs now my analysis would draw
+on the experience of our company
+developing technologies to help us
+address some of the pressing issues and
+hopefully paint a picture of hype hope
+or hustle now the jury's out it made my
+job easy The Wall Street Journal this
+past week published a report saying the
+type of virtual medicine maybe is not
+really happening and so there is a lot
+of room you know for improvement I tend
+to agree with the author of this article
+that there is a lot of work that needs
+to be done primarily because as we have
+developed
+systems and incorporated technology in
+healthcare we have drilled down the lane
+of specialties so you have a lot of
+technology for heart surgery
+neurosurgery but if we really look at it
+from the perspective of society and
+healthcare there are lots of gaps which
+I'll try to point out now I'm going to
+tell you a little story that really
+influenced how we think about technology
+as a company this is a picture of me as
+a doctor I'm seeing this patient in
+Kenya in one of the rural hospitals long
+story short get that arrow clock two
+years we had deployed an electronic
+medical record system in this county and
+I'm doing support supervision I get
+there the nurse is seeing a baby the
+nurse puts in a data system malaria but
+the child was there with the mother the
+grandmother and the father of the child
+as a practitioner I knew there was
+something wrong I examined the baby the
+baby had pneumonia and meningitis so
+artificial intelligence in the resource
+limited setting is important and it is
+very expensive to do however that story
+doesn't end there that was 8 o clock in
+the morning 8:15 did mother leaves with
+the baby and goes 15 kilometers down the
+road and she looks for the medicine that
+I prescribed couldn't find it at 11 o
+clock she goes to another city close by
+she couldn't find it she finds the
+medicine around 1 o'clock in the
+afternoon she could not afford it she
+takes a car back to the village gets $40
+and flies and drives right back to the
+hospital and the child gets the medicine
+for pneumonia and meningitis at 8 o
+clock p.m. and that's a six-month-old
+baby now if you're a city you can think
+about it from the perspective of the
+carbon footprint the mobility the
+accidents the risks the cost of
+healthcare all of that is valid for my
+health information perspective we are
+failing mothers so we decided as a
+company to adopt a strategy whereby we
+would have technologies that are trying
+to address different components of the
+healthcare system now we have one
+technology which is branded zt4 which we
+recognized and we're working with why
+away technologies to use it as an
+information and here are P system for
+hospitals and health systems
+the idea being
+really transmitting information for
+decision-making around healthcare
+management telemedicine if you will
+we've developed another system which
+I'll talk about which is about helping
+the health care workers identify risks
+before they happen and giving them a
+convenient way to update health records
+and then the third solution branded I
+secure is a solution which we designed
+for the patient to help them make
+decisions so what happened to that model
+can be averted now we have deployed
+xiri in many hospitals in in Kenya and I
+would say but right now we'll probably
+can say one of the most used you know in
+terms of market penetration in the
+African market you know we were quite
+out there we did a telemedicine solution
+with quawi technologies where we are
+looking at transmitting health data from
+remote villages to central locations to
+assist with diagnosis and and really
+reduce the mobility of patients with
+chronic conditions that work is work in
+progress so don't have a lot reportin
+but what i can say is that it is they
+use it is that kind of technology and I
+can deployment that is really making a
+difference in people's lives
+we have done work in vaccine management
+which I'll show you this is a success
+story which I'd like to report on now we
+developed this platform group which
+stands for way out of paper thinking
+about it from an environmental
+perspective to say how can we predict
+events before they happen
+now we develop this whole system whereby
+a healthcare worker can update a
+patient's record within less than 53
+seconds you select the patient you
+select the vaccine antigen you update
+the records and the patient's a record
+of the EC's becomes updated we piloted
+it in seven sites and we had 1536 babies
+part of this work and we are able to
+predict which child would be on schedule
+with their vaccine schedule
+which child would be delayed catch up
+which one who progressed slowly but
+ultimately get their vaccines and which
+households are likely to default on
+their vaccines now looking at the
+seasonality from this study over 75% of
+kids that we looked at in the Kenya in
+this study had delayed for vaccines that
+may not mean much to some of you but it
+is a big big risk that cities and
+countries are facing because of delayed
+access to vaccines we went further and
+working with the team at SAS we've been
+able to now do run chart analysis well
+real-time when the data is coming to our
+database we can profile the child in the
+household and say which and identify
+which risk group they are in and trigger
+signals this this is showing signals
+that are triggered from a database
+real-time that can send messages to a
+household to avert you know delays now
+if we look at some of the charts and and
+I'm going to keep it very basic here
+you'd see like the one labeled number
+one the highest peak that is a household
+where a child has been delayed for 150
+days to receive polio vaccine
+pneumococcal vaccine and dipped and
+Diptera Haemophilus and hepatitis
+vaccine if you now start deploying these
+kinds of technologies and city levels
+there is a huge opportunity to identify
+Sentinel sites whereby before disease
+outbreaks happen we can pinpoint and
+intervene this kind of technology can be
+used for operate addiction control for
+mental health disease control in big
+cities and avert you know the spread of
+some of those are epidemics quickly for
+sustainability purposes we have
+optimized a platform such that with a
+basic phone now you can report an update
+your data and your healthcare record is
+updated and that way the analysis
+becomes real-time lastly this is the
+challenge we are facing at least in the
+global south where you have one health
+facility for a thousand house
+there is that is a major challenge as
+we're thinking about series in the big
+cities even Nairobi and most of the
+cities in Africa this is the scenario
+we've got to do something about it the
+health implications are huge in the
+rural setting where the urgency is more
+pronounced
+you have serious stock-outs of medicines
+because and so we need to figure out how
+can we use technology to avert these
+kinds of situations and that is what we
+are doing where we are building social
+innovation hubs putting technology in
+hubs in localities they are not clinics
+they are not pharmacies but it's a place
+where you can use technology to report
+symptoms order your medicines and get
+remote diagnosis that is how we're
+trying to reduce not only the carbon
+footprint but making sure that
+households are as close to health care
+as possible using technology the
+technology platform that we've developed
+to do this is called I secured is
+downloadable on the Android and Apple
+Store and right now I can buy medicines
+for my mother in Kenya and it would get
+delivered to her within the next 48
+hours that is how we are trying to
+reduce the cost and make sure healthcare
+available from the social innovation
+hubs and we're trying to use some of
+this data to understand mobility
+patterns whereby if you buy a medicine
+and we understand your mobility it fits
+it could fit into a bill into a big data
+warehouse and allow us to forecast
+diseases based on prescription habits
+and this is an example of one of the
+hubs where we are collecting data so in
+a nutshell there is a lot of hype
+there's a lot of hope and there's a lot
+of hustle we need to improve access to
+health care right now access to
+technologies happening only in the
+hospitals we need to take healthcare
+more into homes payment system
+innovation is huge we are so dependent
+on insurance companies to pay for
+healthcare and it's driving cost and
+voice of the consumer is still
+underrepresented in the healthcare
+sector and access to medical information
+is still a big constraint so there is a
+lot of room for improvement in
+healthcare and I believe the hype is
+there but there is still the hustle of
+making healthcare affordable to save
+lives in
+big cities as well as in the rural areas
+thank you very much for your attention
+thank you very much
+very inspiring as I said that as he has
+to leave if you have some short question
+now it's the moment because he can be
+that till the end of the session if you
+want just to raise your hand or go to
+the microphones and if not a big amount
+of time okay
+so thank you thank you very much very
+inspiring so now it's the moment for the
+mr. Krishnamurti Gowda from Bengaluru in
+India Bangalore okay so this year I
+think
+respected delegates and parchments I'm
+really proud to make a presentation in
+this beautiful city Barcelona being a
+Connecticut from Bangalore IT hub of the
+Orient Karnataka India as a delegate
+from the government of Karnataka led by
+a great visionary our honourable chief
+minister mr. Sood Ramaiya in providing
+social justice to all and working for
+the development of the state he also
+strives hard to provide integrated
+health especially to the poor for below
+poverty line and to those above Porter
+line that is middle cross people in the
+state the biggest challenge for the
+government of Karnataka is the growing
+population in cities these challenges
+manifest itself in providing pure
+drinking water sanitation civil age and
+health amenities our unique Corporation
+KFC is providing through its projects
+for infrastructure development like what
+supply sewage roads human empowerment
+etc which is the assistance of World
+Bank and the Asian Development Bank's
+KFC infrastructure investments for these
+works are around 50 billion and for this
+marketing machine KFC is the nodal
+agency by spending over sixty billion in
+five years for the world development of
+small cities in Karnataka in advancing
+the health and well-being of people in
+cities of karateka the government of
+Karnataka has taken several incitive and
+schemes which I would like to make a
+presentation unknown
+human wellbeing means access to security
+physical social economic and healthy
+food clean water ability to live in a
+healthy environment a human Bill
+well-being also includes some basic
+human rights such as food water shelter
+and Health and Safety a port mobility is
+also possible with education
+opportunities healthy well-fed
+socialized children tend to do better in
+education but all but all do not have
+access to quality health care nutritious
+food and environment of clean air and
+water thus first step towards achieving
+well-being is simple and clear that is
+access to basic human rights such as
+food shelter clean water and health the
+UN conference on sustainable development
+resulted in a document titled the future
+we want world leaders committed to
+migrate from the Millennium Development
+Goals which focused on addressing major
+gaps in human development to sustainable
+development goals the hostages are
+universal for all nations which have 17
+sustainable development goals has seen
+the diagram next
+the name of fewest disease major end
+poverty and hunger ensued LT lives
+inclusive equitable quality education
+gender equality water and sanitation for
+all reliable sustainable energy for all
+economic growth and productive
+employment etc Karnataka moves from MDGs
+to s disease Karnataka India's eighth
+largest city in terms of geographical
+area home to 69 million people density
+of populous in horizon from 276 per
+square kilometre in 2001 two to three
+thousand one percent square meter in
+2011 this is almost sixteen percent of
+increase has made significant progress
+in providing the health status of the
+people since the drafting of its first
+state integrated policy in 2004 cannot
+act as a pilot state the start of the SS
+finning is a very big important scheme a
+healthy insurance program a health
+insurance program that provided
+insurance covered to 22 million farmers
+for an animal premium of just one dollar
+per year this scheme has resulted in
+increased utilization of health services
+and reduce out-of-pocket experience
+together with the central state
+government also structured our sby
+national health insurance scheme that
+currently covers 35 million families
+living below poverty line and also that
+what Pia registry scheme also provides
+super speciality services to the
+families below poverty line methods are
+currently being taken by the current of
+karateka to cover it all schemes
+initially under one implementing agency
+with the aim of covering all schemes
+under the umbrella of universal health
+care institute Karnataka's efforts
+towards us see through the nationís
+through the National Health Mission
+chronica provides primary health care to
+one liberal populations throughout the
+state assisted by the Government of
+India schemes Karnataka provides
+secondary health care to targeted
+populations across the state through the
+government schemes directed the ATL and
+BTL populations karateka covers more
+than 90% of its population in tertiary
+care institute more of health care
+delivery all skills providing tertiary
+care and some providing secondary care
+are implemented by Karnataka in
+assurance mode as opposed to insurance
+mode followed by some states the scheme
+targeted at BPL families was commended
+by the World Bank in a study 2014 which
+found a reduction of up to 64 percent in
+out-of-pocket expenses by beneficiaries
+Karnataka was a key player at the
+Government of India level to showcase
+the assurance model which provides for
+lower administrative costs leading to
+increases money available for
+beneficiary
+instead use existing health insurance a
+certain scheme Shin karateka the major
+schemes yes is eight million dollars are
+covered and that's just we need three
+point four million integers are covered
+watch pay our registry scheme
+it covers eleven point three million
+households and Raju our occupier which
+covers three point four Millions jota's
+engineer scheme it covers 0.6 female 6
+million families then RSP white this
+scheme provides six point four unions
+families thus under skin the senior
+citizen RS be a senior citizens age of
+60 and above BPL card words are covered
+the G okay assumes the senior citizens
+affair for a cover of one lakh fifty
+thousand rupees per family treatment is
+totally free and cashless are selected
+empanelled health facilities up to
+maximum chorus perineum includes
+investigations implants food medicine
+for entire duration for admission and
+the important scheme that our team on
+three Swanton a hurry ski this is
+regarding all road all road traffic
+accidents victims irrespective of BPL
+apo status or nationality immediate
+instant medical treatment for the
+victims of road accidents during the
+golden hour
+48 hours cashless treatment for the
+victims with a maximum amount of rupees
+24,000 per episode hundred eight hundred
+Borel plane for the ambulance
+Indira's or exogenous dependent family
+members of the farmers who have
+committed suits is also very important
+scheme a national scheme that provides
+financial origin of rupees 1.5 lakh per
+family per year treatment is cashless
+and covers patients with pre-existing
+diseases
+then this what learning plan scheme
+children with the severe diff diff Ness
+children in the age of in the easy group
+of eight months to six years in the
+category of disability due to hearing
+impairment okay
+then another important is into
+mainstream healthcare is this ayurvedic
+yoga naturopathy Unani and Siddha are
+traditional systems which are 5,000
+years old traditions in India our
+government established all these centers
+of excellence for highest medical
+practices and create an enabling
+environment for traditional
+practitioners as well as explore into
+these two more inclusive some of the
+institute proposed under the sponsor
+dismission
+multi facility hospital s+ trauma
+centers is what it is population of
+government hospitals is much more cities
+largely the impact all the all this help
+exists Metheny made a tremendous impact
+that is the life expectancy has gone up
+what used to be sixty two point three
+years for powermail and six three point
+nine years for female in 2001 and 2005
+is now sixty seven point three years for
+male and sixty nine point six years for
+female in 2011 and 15 to an extent the
+population growth SAV has been contained
+protected what is being provided woman
+empowerment led to increase working
+woman in force working purpose increases
+drastically especially skilled labor
+that is with a special emphasis on
+tecna's technology workforce
+all these factors are resulted in the
+emergence in emergence of Bangalore as
+the IT capital of India with worldwide
+recognition thank you
+[Applause]
+Thank You mr. Gowda then we will have
+time for a question after after the last
+presentation mites if you can come back
+to seat Benny then in in the end we will
+have the questions from all the public
+now it's mr. Luis Suarez from FCC Madrid
+thank you very much thank you to the
+organization and congratulations for
+this fantastic Congress this time this
+is the time to switch to Spanish the
+funny thing is that you only will lose
+the jokes because you have all in
+English in the presentation okay
+buenas tardes a todos los asistentes
+muchas gracias a la organización del
+congreso a la una buena por la fantastic
+organization y en esto occasion no esta
+contribution esta esta este congreso
+esta basada en lo que nosotros avenido
+prep you pondo desde hace mucho tiempo
+que es como podemos contribute a la
+salud de las comunidades cape estamos
+servicios otra vez de lugar a nuestros
+propios trabajadores en si sentido antes
+de iniciar la posición quiero
+situazione el marco de que es f SS a ya
+que nos dedica Mo's f ed si es una un
+grupo con más de siena nose concrete
+Ament a ciento Diez Y siete a nose al
+servicio primero de la sociedad Espanola
+a despues del resto del mundo
+Marta CN Mar Desiree nosed experiencia
+en los de torres de construcción de
+servicios hermanos de un Piazza de
+servicios de agua fundamental meant a
+Cana internationalization creciente idea
+do alcanza hasta tren de Cinco Price's
+yo or una capacidad de innovation
+tecnológica que nos Vienna Dada pour
+lost in cuenta cuatro mil profesionales
+que trabaja mozcon or goo yo al servicio
+de nuestra organization nuestro
+compromiso fundamental con la sociedad
+de Zeeuw las comunidades sabes que
+estamos servicios es el desarrollo
+Urbano sustainable importantto la
+protección media ambiental incluyen doe
+dentro de la protección media ambiental
+el tema hae nas esta ocupado aqui es
+decir la salud de los ciudadanos KN
+definitive a somos los que Ave Atomos en
+las ciudades a la salut c seguridad de
+nuestros empleados y la salut c
+seguridad de las familias los vecinos de
+las comunidades a las que Presta mo
+servicios como JD cho veremos pressed
+ando servicios en cuatro areas un event
+allah's por una parte l area principal
+que es el área de servicios media
+ambient allah's donde tenemos la
+limpieza B area a la recogida de basura
+la limpieza de Fe COC locales la Jardin
+area publica el tratamiento Trece clase
+recuperación en su casa Berta Darrow's
+de receive AHS urbanos EDA recei dos
+industriales una segunda Rama de nuestra
+empresa son los servicios de agua en a
+dead acondo nose desde el siglo integral
+del agua desde la l su mini Stroh a las
+comunidades hasta el tratamiento de agua
+y la pone le posterior Rasta clase o
+DeCecco de la misma n condiciones que
+nada en el medio ambiente
+finalmente la vida de construcción que
+podemos DVD en dos en dos partes de
+Stinton apart a low-cost russia own
+infrastructure asleep wrote repartee l
+su mini Stroh de el material seneschal
+para la construcción en la la
+fabricación mini-stroke a es el cement
+Oh
+concrete Amenti en el área que soy
+responsable de recursos ooh manos que
+son los servicios media ambient ah lays
+como di soda knows di camos a say Santa
+V da days fundamentals
+kaydessa ro da Mo's el Mar de Cinco min
+municipio ZN españa y en tres a pices
+del mundo en trios en tres continental
+distintos en corriendo America del Norte
+Africa Europa desde la tecnología desde
+los advances tecnológico Padres very
+few era hora cuando so guys los camiones
+elector COEs que tenemos en servicio
+aqui en la ciudad de barcelona desde la
+tecnología desde la gestion que nos da
+de mar de siena nosed experiencia
+nuestra contribution LVN a star or bono
+Vienna da de otra vez de nuestra
+preoccupation initial pour koalas la
+seguridad y la salud de nuestra plan T
+Edina Stroh's opera Rio's en este
+sentido decir que para situation Oso
+tros tenemos UN no vent a Cinco por
+ciento de plant illa que Sun blue colas
+decir trabajadores o / re Osuna mental
+meant a Manuel's estamos hablando de
+trabajos con exigency a physica y de
+trabajo que estan summit Eidos a gravis
+inclemency 'as meteorological no lo dijo
+antes pero la planta de la que estamos
+hablando en el área de servicios media
+ambiental desde Cuarenta dos mil
+empleados aproximadamente hombres y
+mujeres que de serra da Mo's nuestro
+trabajo en tres a pisces distintos de
+los cuales tray in tamil'
+aproximadamente lost ahmo's de cera
+Londo en Espana case elk or a de nuestra
+actividad
+a donde Seon Desiro lado los programme's
+que a continuation voy a poner voy con
+partir con todo vosotros en primer lugar
+de donde parte todo esto hoy un
+principio ethically tenemos que de
+volver a las comunidades lo que las
+comunidades no sexing a la sociedad
+Apsaras que estamos servicios lo que es
+la sociedad as no sexism SI principio
+etic o y de próxima das que NOS plant a
+ahmo's hace muchos años en FSS a en el
+caso concrete okay no so Kupa parte de
+la vas a day consider our
+l VN estar la salud de nuestro trabaja
+Dora's Alvo essencial para nuestra
+organization a no solamente debido a
+nuestra preocupación por los propios
+trabajadores a porsche familias AI de
+trois do evident Ament a como todos
+sabemos una a Segura me ento de la
+continued EDA's del negocio una Segura
+me n toda la productive EDA's y de la
+competitive EDA's en una actividad de
+serra da Mo's fundamental meant a mark
+odda por un t a logo so she al
+Permanente no centenarian ingu no de los
+programas image uno de los process o's
+puestos en marcha c noon consents oprah
+vo tanto con los principales
+interlocutors sociales como pour con los
+principal s interlocutors Laboral
+syndicalist es SNC odd para la puesta in
+march a parle éxito de estos programas
+cantar con la collaboration cantar con
+el acuerdo previo de estas interlocutors
+que son authentico socios para la puesta
+en marcha de estos programas es no
+solamente el éxito de la organización
+lo que está en juego see no más allá
+del XE toda la organización es el
+compliment o de una de las metas que no
+se Mo's marcado desde hace muchos años
+en FSSA que es tener en todo momento una
+contribution responsible a nuestras
+comunidades pour over Yendo les de
+servicios y siendo un interlocutor
+indispensable para asegurar la
+sustainability' 'he's medio ambiental y
+la sustainability' scioscia party endo
+de supreme isa party endo de Samarco
+intend emos que el lanzamiento de
+campaña says Ladas el de programas
+punto a lays no era suficiente sino que
+necesitamos dotar knows de un marco
+systemic o de una política systemic ax
+chain OCC era desarrollar todas aquellas
+acciones con una dirección
+un sentido por el portal motivo nosotros
+elegy Mo's integral nostro sistema de
+- man no sistema de gestion de la salud
+y seguridad they'll be any star in
+definitive a demonstrable Antilia otra
+vez del Modelo denominator purine or de
+empresas aloo Doblin a me me gusta mess
+hablar de bienestar Laboral no solamente
+la empresa la que debe ser saludable es
+el Vienna star Laboral de nuestros plan
+teyla's de nuestra gente el que tenemos
+que buscar la certification y el
+programa establecido en el marco de
+empresas salud habla de saroja el la
+salud la seguridad yell bien estar en
+definitive además tows empleados como
+una un canto de acciones Devidas a
+Durante's RK el centro de trabajo se
+convierte en un espacio de
+sustainability' z-- y de bienestar para
+toda la planta para todos los
+trabajadores pero más allá de nuestros
+trabajadores tenemos que fuera de la ley
+she unprofessional fuera de la nación
+labral ah el intorno personal familiar
+de sus trabajadores por ESO no se hace
+doe mejor are no sólo la salut de
+nuestros trabajadores sino también la
+salud y LVN estar de las comunidades a
+las que estamos servicios son tres pesos
+muy sense illios ESO stress Paso's los
+podemos seguir a Ramos que dar alguna
+algunos números los podemos he fraud en
+estas en cuenta cuatro programas de
+vados acabo n distant --is unidades de
+negocio en los propio servicios
+centrales
+hasta siete mills st entos trabajadores
+que si an benefic a doe
+de los mention ADO's programas voy a
+poner tres ejemplos en primer lugar como
+empezamos con la salud de nuestros
+propios trabajadores
+a bitch okay Sarah Taba de unas
+actividad A's muy excelente fisica mint
+a una de las cosas que descubrimos es la
+in Mensa Ellen vents impact okay tiene
+en las Naciones musculoskeletal --is la
+l at Avira's Desiree on nuestros M play
+hasta un banty siete por ciento de
+impact o en el absentees mala oral
+comenzamos programa sendest in toes
+puntos de Callen Tammy ento previo
+talent a bientot Deportivo antes de
+empezar el trabajo junto con le o
+empezamos for aramas de team-building de
+los equipos de trabajo que tenia Desiree
+dr.seuss trabajo CNN distintos sona's de
+la ciudad y el final del dia tambien St
+Rami entos novice Quesada real asado la
+actividad el resultado acid own dais 10
+so del treinta por ciento en el
+absentees mola Borel como consecuencia
+de elecciones musculoskeletal casa el
+segundo impact okay Mo's credo 10 eres
+más allá del mundo la hora de más
+allá del enter no professional eye a
+betos yone ductus kmo square Edo era de
+car de nuestra plan TAC del enter no de
+nuestra plant ideas hemos Desiro lado
+campaña specific as contra el alcohol
+contra las drogas contol table akise mo
+pero además de combate ear los habit
+O's in correctos a mos def Ament are una
+cultura emos fomented una cultura de la
+salud Camby ando lo sabe tows a lament
+Ezio's y desarrollo y ando a programas
+de deux Casio nutritional para nuestra
+plant illa no solamente en el aspecto
+fisico también es importante las
+heterocyclic oye emotional portal motivo
+amor de cera lado y wall meant a
+programas para evitar el astrays para
+enseñar mayan Funes y para indefinite
+eva intent re-implement are LVN estar
+emotional de nuestra plant ideas pero
+más allá de nuestra plan ta de nuestra
+gente de y sus familias esta la sociedad
+para la que estamos Ribisi las
+comunidades a algunos de los problemas
+seda cerulean message a tentando dar una
+respuesta problemas sociales como la
+mobile idad y la el desarrollo de
+energía alternate Eva's O'Day Movida
+dad sustainable a alternativa
+actual hemos Desiro lado programas en
+varias du da days
+haciendo reciclaje también y yo y esto
+a Draper QT doe en las comunidades a las
+que estamos servicios indefinite Eva a
+con esto terminó lo más importante
+como de si el principio es que lo
+estamos haciendo juntos muchas gracias
+so thank you very much for the four
+speakers dr. lentil mines left as I said
+earlier he had to leave and now it's
+time for from four questions I don't
+know if we dare you have used a scam
+boat or okay there are two questions
+okay one one question is about to what
+extent is air pollution the top health
+challenge for cities maybe Christine
+could say something about that and then
+there is a more general question on how
+can we improve the health and well-being
+of everyone
+equally and they also share this
+question because in Barcelona we are we
+are keeping this health equity objective
+very very much in mind so when we are
+performing this kind of program maybe
+also this could be well a question for
+both mr. Gowda and mr. Suarez because
+and I think that it's already in their
+work because the universal health care
+access as the topic of expanding the
+coverage to all the population and also
+the your program is also as you said is
+already focused on your population which
+is mainly blue-collar workers but you do
+you ensure that within your population
+everybody is benefiting men and women
+different categories different have you
+in the evaluation of your program are
+you looking at these kind of things if
+if we really most of the company workers
+are benefiting or some are benefitting
+more than others
+so and and also just I would like to add
+to to Christine one more topic which is
+the your set and now in Germany in
+February we will do these groups to
+share the data but do you plan next to
+publish this data online for instance so
+I would is the plan of getting this data
+to work for the to be for the population
+to be aware of the situation of
+pollution so I'll answer that second
+question first yeah we're straight
+forward so we having the community focus
+workgroups the goal is also to publish
+papers about it once that article is
+published and share that so that way the
+data can results can get out to a wider
+audience as well so lots of different
+opportunities to talk about that once
+the results are in for the first
+question to what extent is air quality
+at top health priority for cities I
+think that's hard to answer and there's
+not a blanket yes it's ranked at this
+number across all cities because it's
+gonna depend on your location it's also
+gonna depend on what pollutant that
+you're talking about in the US carbon
+monoxide is really not a priority
+pollutant that would be very different
+in developing countries in organs
+specifically Portland we have issues
+with diesel particulate matter and
+that's because our state's regulatory
+policies are behind that of California
+and Washington
+so those older vehicles actually get
+kind of imported into our state so
+really specific issues so it just
+depends on what pollutant and what city
+may be what scale even some
+neighborhoods may have certain air
+quality issues while others wouldn't in
+your city okay
+there's another man here's another
+microphone that if you want to start the
+how did you with this with this health
+coverage expansion programs how you're
+reaching all the different sector of the
+population
+how are you ensuring that everybody
+benefits equally from these programs
+sure if you ever take on that especially
+in Karnataka our state in India measures
+are taken by uniting various schemes by
+emitted by the central government
+instead go in under one scheme universal
+health care under this scheme our
+government is providing especially for
+the bigger Portland people and even for
+above Portland it is America's people up
+to ninety percent of the people are
+covered under this universal health care
+in this scheme our government and all
+the best facilities are given by our
+government by different insurances and
+SSP knee many schemes a kobold under one
+universal health care in this Kim
+ninety percent of the poor and Balam
+because people are getting health
+benefits
+oh come on this man Z okay thanks for
+your question
+yes of course I think that our our topic
+is also on health for example you have a
+couple of electric truck outside if you
+are concerned with the atmosphere that
+we our lungs are breathing everyday in
+the cities I think that it's something
+that contributes roughly to our wellness
+the the possibility the chance to have
+completely electric vehicles to make the
+collection and the other question that
+you made me was about the Equality
+brawlers
+we have programs from gender equality
+diversity and inclusion from eight nine
+years ago and all our programs include a
+shared Commission with unions and with
+labor liberal delegates in order to
+ensure that we face different situation
+when we are treating with women or men
+and they need different they have
+different needs so I don't know if I am
+answering your question it was a quite
+different one but but before making
+another question myself I just want to
+make sure that there's no more question
+for the participants yes so please we
+can continue later and I there is there
+are these microphones or or we can share
+this one it's it's something it's here
+you mean let me just check this work
+[Music]
+una pregunta and for seniors arcos es
+una cosa tener un programa otra cosa que
+lo hacen so my questions around adoption
+and change management um how was he able
+to get you know he had such a successful
+program but how was he able to get the
+workers to actually comply with that yes
+that's the other question is also for
+the thing for the same person which is
+about how do you defend investing in
+health for employees when the gainer
+perhaps perhaps not so miserable you
+made an example of measure of impact but
+and so my additional question was about
+measuring the impact of your of your
+programs
+two things are okay you can have a main
+impact as you show 30% of reductionistic
+sickness absence but how do you evaluate
+the impact for the impact of health
+promotion programs in different sectors
+of your population which I was saying
+men and women and for instance
+construction workers and cleaning
+workers and so on and an additional
+thing that I put the question about is
+these healthy habits require also time
+resources some time ago not economic
+resources motivation and sometimes also
+the working condition and employment
+condition and the salaries are also
+influencing on that so how do you manage
+that you're not just promoting what's
+good for health but you're also making
+for workers the condition easier yours
+in the work life and outside the work
+life to make these to get these healthy
+habits would be so there are three or
+four questions for you but maybe
+they're about the Yami's de las personas
+cardiovascular principio del templo
+consejo de tomar fruta pero igual
+Celerio Mercanti para comprar estamos
+estamos a Desiree Ando initiative as
+como poner una vez a la semana meses con
+fruta confessed 'as de fruta para que
+los trabajadores de la pueden llevar
+gratis a su casa
+estamos viendo tiempo de recursos pero
+yo creo que de bois decir a non or a
+miss compañeros ya la gente de fe de se
+que el mejor recurso de todos que
+tenemos es el entusiasmo
+de la propias n take a collab hora en en
+esto en la puesta Marcia de estos
+programas
+nuevos querida hacer siempre elimin ando
+el espíritu competitive o yq am beyond
+o lo por el espíritu cooperative oh
+poor exemplo cuando esto
+sorry ol programme's para earrin busy al
+trabajo no estamos benefic ando aqui em
+mama CNBC al trabajo sino que entra
+todos los que van en vicia trabajar
+hemos tratado yo son fin de semana en
+una instalación de multi-event hora que
+tenemos en en la costa rica race yeah he
+go todos los casos intend hemos que el
+entusiasmo de nuestra gente que en cola
+hora en la puesta Modesto's pour
+nuestros Nostrum on dos intermedius kstn
+Kolob hora en estos programas es el
+mejor valor gettin so thing that times
+up
+we have several different topics I hope
+it has been interesting for you and
+you'll get in got insights that you can
+bring home for your own work at home and
+thanks again to the speakers for the
+time and the patience answering goes to
+the questions and thank you very much
