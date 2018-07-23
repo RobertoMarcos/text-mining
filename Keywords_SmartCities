@@ -1,0 +1,243 @@
+#KEYWORDS
+
+#DIGITAL TRANSFORMATION
+
+cloud <- c('modern communication infrastructure', 'saas', 'software as a service',
+           'paas', 'platform a service', 'iaas', 'infrastructure as a service','oaas', 'operations as a service',
+           'data centers', 'private cloud', 'public cloud', 'hybrid cloud', 'security', 'trust', 'community cloud',
+           'scalability', 'risk', 'broadband', 'data centres security', 'data portability', 'elasticity', 'flexibility',
+           'data storage')
+
+cloud<- wordStem(cloud, language = "en")
+
+artificialIntelligence <- c('augmented reality', 'advanced analytics', 'algorithm', 'bots', 'cognitive science', 'data mining',
+                            'self-driving car', 'deep learning', 'machine learning', 'natural language processing', 'nls',
+                            'semantic analysis', 'content automation', 'unsurpervised learning', 'intelligent traffic systems',
+                            'traffic patterns', 'smart traffic lights', 'smart cameras', 'autonomous vehicles', 'competitiveness',
+                             'data storage')
+
+artificialIntelligence<- wordStem(artificialIntelligence, language = "en")
+
+dataDrivenCities <- c('telcities', 'information city', 'digital city', 'intelligent traffic systems',	'traffic patterns',
+                      'smart traffic lights',	'smart cameras',	'autonomous vehicles',	'competitiveness'	,'smart cities'	,'digital
+                      urbanism',	'big data',	'open data platforms',	'modern cities',	'ddc'	,'metadata'	,'technology solutions',
+                      'urban management',	'modelling',	'transport flows',	'traffic optimisation',	'transport applications',
+                      'data storage',	'vehicular traffic data')
+
+dataDrivenCities <- wordStem(dataDrivenCities, language = "en")
+
+blockchain <- c ('bitcoin', 'ledger', 'genesis block', 'multi signature', 'node', 'p2p', 'smartcontract', 'security', 'security networks',
+                 'efficient resources', 'collaboration', 'citizens', 'smart device', 'transaction', 'smart applications','crypto-currency',
+                 'no intermediary','block','peer to peer')
+
+blockchain<- wordStem(blockchain, language = "en")
+
+cincoG <- c ( 'wireless',	'big data',	'fifth generation',	'machine to machine communications'	, 'm2m', 'communications', 'IoT', 'internet of things',
+              'vehicular traffic data', 'traffic congestion', 'communication system','connectivity providers', 'technology providers',
+              'capacity','smart cell', 'enhance mobile broadband','emb', 'mission critical services', 'mcs', 'massive internet of things', 'miot',
+              'smart traffic','smart lighting','smart parking', 'broadbandvideo','air quality sensors')
+
+cincoG <-  wordStem(cincoG, language = "en")
+
+internetOfThings <- c ('internet of everything', 'ioe', 'connected devices', 'smart devices', 'machine to machine', 'm2m communications',
+                     'machine to machine communications', 'm2m', 'wearables', 'smart wearables', 'sensor', 'information and communication technologies',
+                     'ict', 'smart cell', 'enhance mobile broadband', 'emb', 'mission critical services', 'mcs', 'massive internet of things', 'miot',
+                     'smart traffic','smart lighting','smart parking', 'broadbandvideo','air quality sensors')
+
+internetOfThings <- wordStem(internetOfThings, language = "en")
+
+safeCities <- c ('safety', 'urban safety', 'crime prevention', 'safe city program', 'real-time systems', 'mobile computing', 'emergency services',
+                 'wireless monitoring services', '5g', 'safe mobile units', 'temperature', 'gas detectors', 'vehicle safety', 'computerized monitoring',
+                 'mobile computing', 'security')
+
+safeCities <- wordStem(safeCities, language = "en")
+
+
+# URBAN ENVIRONMENT
+
+energy_cleanTech <- c('clean energy',	'renewable energies',	'smart energy',	'what is renowable energy',	'how to save energy',	'community based energy development',	'c-bed',
+'conservation improvement program',	'cip', 'cooperative electric association or utility',	'energy conservation',	'energy efficiency','greenhouse gases',	'neg','nem',
+'net energy metering',	'net energy generation',	'pace',	'property assessed clean energy', 'real time pricing','renewable resources','solar','renewable energy','global warming',
+'recycling','green','air pollution',	'solar power',	'climate change',	'wind power',	'environement',	'greenhouse effect',	'natural resources'	,'sustainability'	,'free energy',
+'public lighting',	'natural resources',	'water management',	'green resources' ,	'clean energy',	'green energies',	'energy efficiency', 'automotive',	'carbon Nanomaterials',	'electronics',
+'renewal energy',	'sensors  controls',	'wireless',	'devices',	'energy storages battery' ,	'lighting solar', 'solar power',	'biomass',	'environemental impact', 'international cooperation',
+'hydropower','biofuels',	'information technology',	'green transportation',	'electric motors'	,'greywater', 'environemental finance','urban planning', 	'pollution',	'smart energy grids',	'iot',
+'air quality', 'waste management', 'green resources', 'clean energy', 'decarbonization')
+
+energy_cleanTech <- wordStem(energy_cleanTech, language = "en")
+
+publicSpace_urbanPlanning <-  c('urban planning', 'urban design', 'streetscaping',	'shrinking city',	'placemaking',	'landscape',	'common space',
+'private space',	'ownership',	'accessibility'	,'community', 'social interaction',	'leisure activities',	'park',
+'landscape architecture', 'housing quality',	'smart city architecture',	'improving quality of living',	'entrepreneurial' ,'led', 'urbanization',
+'green urban planning', 'policy making',	'cohesion',	'smart planning',	'long term vision',	'urban develpoment',	'smart growth',
+'urban sprawl',	'power system planning'	,'town planning',	'urban space',	'electric vehicles',	'smart microgrids',	'recharging',
+'recharge',	'electromobility'	,'mobility patterns',	'data models',	'analytical models',	'big data',	'city planning', 'urban system',
+'information systems')
+
+publicSpace_urbanPlanning <- wordStem(publicSpace_urbanPlanning, language = "en")
+
+
+climateChange_resilientCities <- c ('disaster risk reduction','urban hardiness','resilience','emergency','daunting challenges',	'challenges','disaster preparedness',	'disaster prepared',
+'cities vulnerability',	'crises',	'vulnerability',	'pertinacity',	'urban resilience', 'adaptation',	'adaptative capacity'	,'climate change',
+'environmental hazard','man-made hazard',	'security',	'secure',	'mitigation',	'public health','health','potential adaptative'	,'iot',	'fire hazard',
+'alert', 'response' ,'protocol' ,'detection sensor', 'challenge',	'emission',	'emission target','greenhouse gas',	'ghc',	'renewable energy',	'air quality',
+'decarbonization','climate change resilience', 'climate effects', 'energy balance', 'vulnerability','vulnerable','risk assessing','risk management','mitigation',
+'health','city peak','green infraestructure','grey infraestructure','meteorology','green products', 'air pollution','potential adaptative','response','protocol',
+'detection sensor','predictive','predictve models')
+
+climateChange_resilientCities <- wordStem(climateChange_resilientCities, language = "en")
+
+
+futureMobility <- c( 'communication in smart cities','smart transportation','mobility solutions',
+                      'smart mobility',	'connecting people', 'planning desing',	'urban design',	'electrification',
+                      'connectivity',	'IOT', 'autonomous driving', 'autonomous vehicle',	'shared mobility',	'sharing',
+                      'urbanization', 'mobility optimization',	'e-mobility',	'co2 regulation',	'co2 limit',
+                      'seamless mobility', 'traffic control',	'last mile',	'mobility as service',
+                      'environmental impact',	'health', 'negative impact',	'emission',	'externalities')
+
+futureMobility <-  wordStem(futureMobility, language = "en")
+
+publicTransportNetworks <- c ( 'traffic control',	'transport hubs', 'railway', 'planning','street design',
+                               'transportation systems','congested road', 'traffic', 'congestion', 	'transportation agency',
+                               'bycicle',	'planification', 'planning',	'monitoring',	'GPS', 	'Global position system',
+                               'Software', 'traffic reduction',	'programming',	'urban public transport',	'mobile applications',
+                               'real time', 'information system', 'mobile', 'smartphone',	'traffic information' , 'iot', 'internet of things',
+                               'bus terminus', 'sensor', 'public bus')
+
+publicTransportNetworks <-  wordStem(publicTransportNetworks, language = "en")
+
+sustainableMobility <- c ('wireless sensor network',	'carpool',	'shared mobility',	'sharing', 'zero emission',	'pedestrian',	'cycling',
+                          'smart waste', 'mobility as a service',	'transport as a service',	'taas',	'pedestrian strategy', 'maas',	'walkability',
+                          'environmental impact',	'congested road',	'traffic', 'congestion',	'pedestranization', 'health',	'negative impact',
+                          'emission', 'externalities',	'diesel')
+
+sustainableMobility <-  wordStem(sustainableMobility, language = "en")
+
+
+
+urbanLogistics <- c ('multimodal accesability', 'last Mile', 'commercial vehicles',	'same-day deliveries',	'e-commerce',	'freight',	'instant delivery',	'load pooling',
+                     'consolidation center',	'crowdsourcing',	'electric vehicles',	'night delivery',	'lockers',	'click&collect',	'trunk delivery' , 'route optimization',
+                     'urban consolidation center',	'UCC',	'Regulation',	'navigation apps',	'transport hubs',	'mobility as a service', 'integration platform',
+                     'intelligent transport',	'intelligent transport system', 'Maas',	'real time data')
+urbanLogistics <-  wordStem(urbanLogistics, language = "en")
+
+connectedVehicles <- c( 'Autonomous', 	'Gesture recognition',	'Voice recognition',	'electric vehicle',	'sensors',	'semiconductors',	'cyber security',	'telematics',
+                        'parking optimization',	'mobility optimization',	'Energy storage',	'electrification',	'sharing', 	'zero emissions', 'Co2 regulation',	'CO2 limit',
+                        'AGV',	'autonomous ground vehicles',	'global positioning Sysyems',	'GPS', 'parking',  	'Maas',	'autonomous driving',	'mobility as a service',	'real time data',
+                        'environmental impact',	'emission',	'clean energy	')
+
+connectedVehicles <-  wordStem(connectedVehicles, language = "en")
+
+disruptiveModels_paymentsSystems <- c('bike delivery',	'drones',	'non-motorized mobility',	'new business models',	'redesingn',	'reimagine',	'connectivity',	'data',	'blockchain',	'Autonomous',
+                      'blockchain',	'IOt',	'internet of things',	'artificial intelligengence', 'AI',	'mobility as a service',	'transport as a service',	'payment systems',
+                      'autonomous driving',	'Maas',	'real time data')
+
+disruptiveModels_paymentsSystems <-  wordStem(disruptiveModels_paymentsSystems, language = "en")
+
+railway <- c('People mobility', 	'Public transport','megatrains',	'Station',	'street design',	'environmental impact',	'planning',	'energy reduction',	'light rail vehicle',	'LRV'	,'energy saving',
+'emission', 'emission reduction',	'rail transportation',	'Light rail system',	'autonomous train',	'public service',	'cloud computing',	'commuters',	'IOT','internet of things',
+'engineering',	'payment',	'ticket', 'clean energy',	'Time cost',	'intelligent railway',	'intelligent management system',	'software')
+
+railway <-  wordStem(railway, language = "en")
+
+#GOBERNANCE & FINANCE
+
+dataGovernance <- c('City Transparency',	'Technocratic governance',	'data governance'	, 'data maturity',	'data protection',	'data sovereignty',	'digital rights',	'cloud',	'Big data',	'data privacy',	'data services',
+'personal information',	'cloud computing',	'transparency',	'smart governance',	'government data processing',	'KPIs',	'metrics',	'citizen evaluation','citizen participation',	'consultation',
+'government data')
+
+dataGovernance <-  wordStem(dataGovernance, language = "en")
+
+eOpenGov <- c(
+  'information systems',	'open data',	'public administration',	'decision making',	'electric government',	'Good governance',	'government outsourcing',	'digital age',	'public sector',	'electronic government',
+'good practices', 'e-procurement',	'citizen centric',	'collaboration',	'public information system',	'government transformation',	'data governance', 'big data',	'cloud',	'data protection',
+'smart governance',	'digitizing', 'documents',	'procedures',	'ICT tool',	'official document',	'transparency')
+
+eOpenGov <-  wordStem(eOpenGov, language = "en")
+
+multilevelGovernance <- c(
+
+  'shared responsability',	'decision making',	'shared value',	'cooperation',	'collaboration',	'local government',	'decision making','multiagency',	'city government',	'regional government',	'multi level data',
+  'accumulate information' , 'data acquisition',	'information model',	'information technology',	'Blockchain',	'GIR',	'Government information resource',	'network sharing model',
+  'sharing procedure',	'sharing schemes',	'peer to peer computing',	'government data',	'information respurce sharing',	'decentralization',	'smart governance')
+
+multilevelGovernance <-  wordStem(multilevelGovernance, language = "en")
+
+standardsIndications <- c(
+  'policy framework', 'legislation','healthcare',	'regulation',	'key performance indicators',	'KPIs',	'performance',	'measurement',	'standards',	'transparency',	'evaluation',	'citizen evaluation',
+  'smart city metrics', 'statistics',	'government data processing',	'metrics',	'city planning',	'data governance',	'citizen participation',	'prioritize',	'standarize',	'citizen satisfaction',
+  'survey',	'consultation',	'priority',	'survey data','regulatory framework')
+
+standardsIndications <-  wordStem(standardsIndications, language = "en")
+
+multiStakeholder <- c(
+  'cooperation',	'collaboration',	'public-private',	'partnership',	'decision making','multistakeholder', 'integrated solution',	'smart governance', 'inter organizational',	'institution interaction',
+  'new forms of collaboration',	'organization interaction',	'coordination','groupware')
+
+multiStakeholder <-  wordStem(multiStakeholder, language = "en")
+
+
+funding <- c(
+
+  'financing tools', 'finance system',	'Support to innovation', 	'financial management',	'public investment',	'public finance',	'Support to entrepreneurship',	'urban financing',	'financial policy',
+  'financing mechanism',	'municipal budget',	'city budget',	'payback', 'payment options',	'urban investment',	'resource allocation',	'crowdsourcing'
+)
+
+funding <-  wordStem(funding, language = "en")
+
+#INCLUSIVE & SHARING CITIES
+
+sharing <- c(
+  'collaborative economy',	'sharing economy',	'collaborative consumption',	'collaborative economy',	'shared value',	'social economy',	'commons', 'sharing economy',
+  'cooperation',	'social market',	'sustainable development',	'crowdsourcing',	'bike sharing',	'car sharing',	'resource optimization',	'sharing system',
+  'efficient allocation',	'docks',	'modelling',	'traffic reduce',	'congestion',	'data sharing',	'IoT',	'internet of things',	'sensors',	'collaborative work',
+  'Collaborative Policy','participation'
+)
+
+sharing <-  wordStem(sharing, language = "en")
+
+socialInclusion <- c(
+  'inclusive',	'affordable housing',	'social services',	'job creation',	'inequality',	'social economy',	'Public spaces management' ,	'Facilities management',
+'urban regeneration', 'quality of life','e-learning',	'Education and culture',	'Digital Education', 	'Human capital management', 'education',	'refugees',
+'social class',	'community',	'income disparity',	'urbanism',	'commercial street',	'public space'
+)
+
+socialInclusion <-  wordStem(socialInclusion, language = "en")
+
+health <- c(
+  'e-health',	'Big Data',	'Analysis',	'aging population',	'seniors',	'sensor',	'behavior change',	'data modeling',	'database',	'Aging', 'prevention',
+  'detection',	'behavioural science',	'cognition',	'diseases',	'health care',	'smart sensor',	'statistics',	'monitoring',	'mobile',	'apps',	'protocols',
+  'server',	'privacy',	'medical history',	'devices',	'information',	'wellbeing',	'wellfare',	'physical',	'mental',	'demography'
+)
+
+health <-  wordStem(health, language = "en")
+
+collaborativeSociety <- c(
+  'civic tech',	'co-creation',	'civic participation',	'co-production',	'Citizens involvement',	'citizen awareness',	'citizen responsibility',	'open innovation',
+  'data collection'	, 'sensors',	'IOT', 'internet of things',	'big data',	'emerging paradigm',	'data sources',	'crowdsensing',	'crowdsourcing'	,'collaborative work',
+  'Collaborative Policy','participation',	'collaborative innovation',	'co-delivery',	'intelligent collaboration',	'data mining')
+
+collaborativeSociety <-  wordStem(collaborativeSociety, language = "en")
+
+innovationEcosystems <- c(
+  'digital fabrication',	'digital modelling',	'distributive by design',	'eco-design',	'economic growth',	'entrepreneurship', 'job creation',	'participation',	'remanufacturing',
+  'open innovation', 'open source',	'innovation principles',	'social network services',	'community',	'product innovation', 'design',	'crowd intelligence','innovation management',
+  'Knowledge engineering',	'patent', 'creative',	'co-creation',	'collaborative',	'collaborative work',	'Collaborative Policy',	'participation',	'collaborative innovation',
+  'fablab',	'coworking',	'technological innovation'
+)
+innovationEcosystems <-  wordStem(innovationEcosystems, language = "en")
+
+circularEconomy <- c(
+  'circular cities',	'circular economy',	'closed loop', 'design for circularity',	'remanufacturing',	're-use',	'zero waste',	'waste management',	'recycling',	'waste streams',
+'waste production	', 'plastic',	'energy consumption',	'loop',	'government policy',	'saving', 	'water saving',	'pollution'	, 'water management',	'waste solution' , 'reduce', 	'reuse',
+'recycle', 	'organic',	'contruction waste')
+
+circularEconomy <-  wordStem(circularEconomy, language = "en")
+
+gentrification <- c(
+  'ageing population',	'gender balance',	'global migration',	'impact', 'community','neighbourhood',	'upgrade',	'social class',	'social inclusion',	'displacement',	'design'	,'moves',	'resident',	'locals',
+  'foreigners',	'culture',	'heritage',	'autenticity',	'tourism',	'inclusive',	'affordable housing',	'gentrified city',	'urban ethic',	'revitalization',	'house price',	'income disparity',
+  'urbanism',	'commercial street',	'public space'
+)
+
+gentrification <-  wordStem(gentrification, language = "en")
